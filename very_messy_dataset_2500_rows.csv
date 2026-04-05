@@ -1,0 +1,2701 @@
+id,name,age,city,country,department,salary,email,join_date,score
+0.0,Ali,,lyon,france, Finance ,2200,,2023-01-05,
+,Sara,29,marseille,France,IT,2000,test@yahoo.com,05/01/2023,90
+2.0,Omar,23,,,,4000,test@yahoo.com,2023/01/05,100
+3.0, mohamed  ,twenty,PARIS,,SALES,3500,contact@outlook.com,05/01/2023,40
+490.0,Sara,21, marseille ,France,it,3500,,Jan 5 2023,fifty
+, Nadia ,28,paris,FRA,Sales,3000€,contact@outlook.com,,
+316.0,Amina,23,paris,France,Finance,999999,contact@outlook.com,2023-01-05,40
+7.0,Karim,24, LILLE ,,it,2200,contact@outlook.com,Jan 5 2023,40
+343.0, SARA ,30,,France,HR,3000€,,05/01/2023,30
+236.0,Youssef,30,Lille,france,it,999999,user@gmail.com,05/01/2023,10
+412.0, Karim ,24,paris,france,it,2500,,2023/01/05,70
+, Nadia ,22,lyon,france,Finance,-100,,not_a_date,50
+,Karim,29,marseille,FR,Finance,2200,,2023/01/05,20
+13.0,,21,PARIS,,HR,999999,,2023/01/05,100
+32.0,Karim,29,LILLE,,Marketing,3000€,user@gmail.com,,N/A
+,,28,lyon,,it,2000,contact@outlook.com,2023/01/05,30
+16.0,SARA,,lyon,,HR,3000€,user@gmail.com,,
+,Omar,29,Lyon,france, it ,999999,test@yahoo.com,not_a_date,fifty
+,,20,,FR,,1800,user@gmail.com,Jan 5 2023,fifty
+19.0, Ali ,23,,France,Sales,-100,invalid-email,,20
+,mohamed ,22, PARIS ,,,3000€,test@yahoo.com,Jan 5 2023,90
+, Karim ,23, Lille ,,Finance,-100,contact@outlook.com,2023/01/05,
+332.0, Nadia ,28,LILLE,France,Finance,2500,user@gmail.com,Jan 5 2023,10
+, Fatima ,29, Lyon ,France,Sales,-100,,2023-01-05,40
+24.0,,25, paris ,,Finance,3000,,2023/01/05,40
+25.0,SARA,29,,FRA,Finance,999999,invalid-email,,70
+26.0,Sara,30,marseille,FR, SALES ,4000,invalid-email,,N/A
+, ali ,30, paris ,France,SALES,-100,contact@outlook.com,,20
+28.0,Fatima,28,LILLE,france,SALES,2200,contact@outlook.com,2023/01/05,40
+29.0,Nadia,twenty, Lille ,France,IT,??,,,10
+30.0,,twenty,Lyon,france,SALES,,invalid-email,05/01/2023,70
+31.0, Mohamed ,26,Paris,FRA,Marketing,999999,invalid-email,Jan 5 2023,70
+,mohamed ,28,,,,2200,test@yahoo.com,Jan 5 2023,40
+33.0,Amina,,Lille,France,it,1800,user@gmail.com,not_a_date,80
+,Mohamed,20, Lille ,France,HR,2000,,2023-01-05,
+35.0,Karim,21,  ,france,IT,4k,user@gmail.com,2023/01/05,
+, Omar ,25,lyon,france,it,2500,contact@outlook.com,2023/01/05,30
+,Youssef,27,Marseille,France,IT,,,not_a_date,20
+, Fatima ,28,lyon,france,it,2000,test@yahoo.com,Jan 5 2023,50
+80.0,,28,lyon,,,1800,,,90
+, Sara ,22,lyon,France,Sales,-100,,05/01/2023,50
+,Fatima,,Marseille,france,Marketing,3000€,invalid-email,Jan 5 2023,10
+,Karim,??,lyon,France,IT,3500,test@yahoo.com,,50
+,Nadia,28, marseille ,,IT,2000,user@gmail.com,,30
+44.0,,25,  ,, HR ,4000,test@yahoo.com,2023-01-05,50
+45.0,,25,Lyon,,Finance,??,user@gmail.com,Jan 5 2023,fifty
+286.0,Amina,,PARIS,france, HR ,999999,test@yahoo.com,2023/01/05,10
+,,25,marseille,,Finance,3000,test@yahoo.com,,N/A
+55.0,,20,LILLE,france,Finance,,contact@outlook.com,Jan 5 2023,fifty
+49.0, Fatima ,20,,france, SALES ,3500,contact@outlook.com,,20
+495.0,Lina,30,Lille,FRA,,3500,user@gmail.com,2023-01-05,50
+,Youssef,20,paris,, SALES ,3500,,,60
+, Omar ,21,marseille,,Finance,3000,user@gmail.com,,70
+,,twenty,Lille,,Finance,3500,invalid-email,2023-01-05,
+471.0,Amina,25,,France,Marketing,3000€,contact@outlook.com,,70
+167.0,SARA,24,Lille,france,Finance,4000,,2023/01/05,
+56.0,Amina,29, lyon ,FRA,,1800,contact@outlook.com,Jan 5 2023,40
+,Amina,30,Marseille,FRA,,,,05/01/2023,90
+,Mohamed,30,paris,FR,,??,,not_a_date,60
+59.0, ali ,24,Lyon,france, HR ,1800,user@gmail.com,05/01/2023,80
+60.0, Nadia ,26,,, Finance ,-100,,2023/01/05,80
+61.0,Mohamed,30, Paris ,France, SALES ,2500,test@yahoo.com,,N/A
+265.0, Ali ,28,Lyon,France,,2200,invalid-email,,90
+,Lina,twenty,LILLE,,,4000,,2023/01/05,30
+380.0,Nadia,24,Lyon,,Marketing,999999,,2023/01/05,
+122.0, Nadia ,21,lyon,france,Marketing,3500,contact@outlook.com,not_a_date,20
+66.0, Fatima ,26,PARIS,,Finance,2000,invalid-email,2023/01/05,60
+277.0,Karim,20,Lyon,FRA,SALES,999999,,,10
+,Karim,27,Paris,FR,Marketing,999999,invalid-email,,70
+,SARA,28,,france,,2500,contact@outlook.com,2023/01/05,80
+14.0,Lina,30,,FRA,HR,,test@yahoo.com,not_a_date,90
+13.0,Amina,29,,France,Sales,??,invalid-email,05/01/2023,80
+72.0,Youssef,26,Marseille,france,,3500,contact@outlook.com,,70
+142.0,Youssef,??,paris,FRA, IT ,-100,,2023-01-05,60
+,Sara,twenty,,France,IT,2500,test@yahoo.com,,10
+75.0,Fatima,22,LILLE,,Sales,4k,test@yahoo.com,2023/01/05,N/A
+131.0,Mohamed,29,,,Sales,999999,test@yahoo.com,Jan 5 2023,20
+77.0,,24,  ,, SALES ,4000,,05/01/2023,20
+,,30,Lyon,France,Marketing,??,,,20
+,mohamed ,20,Marseille,,SALES,??,contact@outlook.com,2023-01-05,90
+331.0,Ali,??,marseille,FRA,Sales,4000,contact@outlook.com,,80
+81.0,Karim,22,Lille,,Marketing,4k,,,80
+238.0,,,,FR,it,2500,user@gmail.com,Jan 5 2023,80
+124.0,Amina,29,,FRA,it,1800,invalid-email,,60
+93.0,Fatima,25,lyon,FR,Marketing,4k,,Jan 5 2023,90
+, Fatima ,21,Lyon,,SALES,,,,40
+353.0, ali ,,LILLE,FRA,IT,2000,contact@outlook.com,05/01/2023,70
+87.0,Youssef,30,,FR,,3000€,,Jan 5 2023,70
+,Lina,25,LILLE,FR,Marketing,3000,test@yahoo.com,2023-01-05,N/A
+98.0,Sara,,Lille,,HR,2500,test@yahoo.com,,80
+,Amina,twenty,Lille,,Marketing,2000,test@yahoo.com,Jan 5 2023,40
+91.0,Youssef,20,Lille,france, Marketing ,1800,user@gmail.com,not_a_date,50
+92.0,  ali  ,??, LILLE ,France,IT,4k,contact@outlook.com,2023/01/05,80
+225.0,Mohamed,20,lyon,FRA,Sales,2000,invalid-email,2023/01/05,20
+, ali ,20,PARIS,france,Marketing,2000,test@yahoo.com,2023-01-05,90
+391.0,Amina,29,,france,,4000,invalid-email,2023/01/05,50
+,Karim,24,,,IT,4k,,2023-01-05,fifty
+,Fatima,24,,France,HR,2500,test@yahoo.com,not_a_date,20
+98.0,Karim,27,  ,FRA,Marketing,1800,test@yahoo.com,Jan 5 2023,N/A
+,,27,paris,, Finance ,3000,,not_a_date,
+100.0,Karim,21,Lille,france, HR ,3000,test@yahoo.com,2023-01-05,10
+84.0,Amina,,,FR,,2000,invalid-email,,50
+358.0, Youssef ,28,Lille,FRA,,2000,,2023-01-05,70
+376.0,Amina,24,Paris,France, Finance ,??,,not_a_date,10
+,,24,,France,HR,,,,80
+469.0,Mohamed,29,marseille,,,2000,invalid-email,Jan 5 2023,70
+170.0, ali ,21,PARIS,FR,SALES,-100,invalid-email,Jan 5 2023,
+483.0,,twenty, Lille ,France,,2000,contact@outlook.com,Jan 5 2023,60
+59.0,,28,Paris,,,,invalid-email,2023-01-05,40
+265.0,Amina,twenty,LILLE,,,999999,user@gmail.com,05/01/2023,50
+110.0,,24,LILLE,,,2000,user@gmail.com,,100
+111.0, SARA ,22,lyon,,IT,3000€,invalid-email,2023-01-05,40
+112.0, Nadia ,21,,france,,-100,contact@outlook.com,not_a_date,N/A
+139.0,,27,LILLE,france,,3000€,test@yahoo.com,2023/01/05,40
+,Omar,,PARIS,France,Marketing,999999,invalid-email,Jan 5 2023,fifty
+259.0,,20,lyon,, Marketing ,4k,,,80
+116.0, Nadia ,28,LILLE,FR,it,3000€,,2023/01/05,80
+477.0,,23,Lyon,,SALES,2500,invalid-email,2023-01-05,60
+381.0, SARA ,twenty,marseille,FRA, HR ,,user@gmail.com,05/01/2023,90
+, Lina ,??, paris ,FRA, Sales ,3000€,invalid-email,2023-01-05,N/A
+73.0,,30,PARIS,France,,999999,contact@outlook.com,Jan 5 2023,100
+354.0, ali ,21,Marseille,,,4000,contact@outlook.com,,N/A
+454.0,,28, Paris ,, Sales ,2500,,,50
+,Sara,26,paris,,Sales,,test@yahoo.com,,50
+124.0, Ali ,25,Paris,FR, it ,3500,invalid-email,05/01/2023,40
+271.0,Amina,30,PARIS,france,HR,2000,,,70
+, Fatima ,27,,france,Finance,,,Jan 5 2023,80
+, Ali ,twenty,LILLE,FR,,2200,user@gmail.com,2023/01/05,60
+300.0,  ali  ,26,lyon,FRA,Marketing,2500,invalid-email,,80
+129.0, Karim ,29,Marseille,,Marketing,-100,contact@outlook.com,2023-01-05,
+202.0,Ali,29,,, IT ,4k,,2023/01/05,50
+131.0,Amina,twenty, Marseille ,france,Finance,4k,contact@outlook.com,,fifty
+, ali ,??,PARIS,,Sales,??,,2023-01-05,50
+403.0, Ali ,29,Marseille,,HR,2000,contact@outlook.com,Jan 5 2023,N/A
+134.0,Fatima,22,Lille,FR,,3000€,contact@outlook.com,,30
+131.0,mohamed ,24,Marseille,France,,2000,test@yahoo.com,,40
+,SARA,30, marseille ,,it,2000,invalid-email,2023-01-05,50
+137.0,Nadia,25,,, Marketing ,4k,invalid-email,,
+481.0, Sara ,30, Lyon ,FRA,IT,4k,,Jan 5 2023,100
+, Sara ,30,LILLE,,Marketing,??,invalid-email,2023-01-05,30
+140.0,Youssef,27,paris,France, Finance ,3000€,test@yahoo.com,2023/01/05,80
+,SARA,,Lille,FRA,HR,4000,,2023-01-05,80
+315.0,Youssef,20,Marseille,france,,,test@yahoo.com,,60
+, Lina ,28,,FR,IT,4000,contact@outlook.com,05/01/2023,20
+485.0, Sara ,30,Lyon,,IT,1800,contact@outlook.com,05/01/2023,30
+,Fatima,21, Lille ,france,Finance,2500,contact@outlook.com,,30
+,Ali,24,PARIS,france,,3000,test@yahoo.com,2023-01-05,
+147.0,Mohamed,20, Marseille ,france,it,1800,test@yahoo.com,Jan 5 2023,10
+,Karim,28, paris ,,Sales,,invalid-email,,60
+,Sara,27,Lille,france, IT ,-100,,not_a_date,50
+,Ali,20,LILLE,FRA,SALES,??,user@gmail.com,2023/01/05,N/A
+465.0, Sara ,21, Marseille ,, HR ,2000,test@yahoo.com,Jan 5 2023,100
+,Omar,, Marseille ,FRA,,3000,invalid-email,not_a_date,100
+153.0, mohamed  ,,paris,,,-100,test@yahoo.com,2023/01/05,80
+154.0,Karim,25,LILLE,FRA,SALES,-100,user@gmail.com,Jan 5 2023,70
+, Youssef ,25, PARIS ,,,2000,user@gmail.com,,20
+47.0, Sara ,,Marseille,france,,1800,,not_a_date,90
+,Sara,26, Marseille ,, SALES ,-100,user@gmail.com,Jan 5 2023,100
+159.0,Sara,29,Lille,france,HR,??,invalid-email,05/01/2023,20
+,Lina,21,lyon,, Finance ,999999,invalid-email,,90
+,Amina,30,,,IT,4k,,,N/A
+161.0,Mohamed,24,lyon,FR,it,1800,test@yahoo.com,,30
+,Karim,21,PARIS,,IT,2000,,not_a_date,40
+192.0,Nadia,25,PARIS,FR,Marketing,-100,contact@outlook.com,,100
+164.0,  ,20,PARIS,france, IT ,??,user@gmail.com,Jan 5 2023,80
+338.0,Nadia,29,LILLE,FRA, Marketing ,2500,,2023-01-05,60
+166.0,Youssef,30,,,,3000€,,Jan 5 2023,10
+112.0,Amina,20,Paris,france,Marketing,2500,test@yahoo.com,,50
+148.0,Sara,20,LILLE,,SALES,2200,test@yahoo.com,2023/01/05,90
+169.0,Omar,28,,FR,Sales,4000,,2023-01-05,70
+9.0,,21,Marseille,,SALES,4k,invalid-email,,
+213.0,Sara,26, Paris ,FR,HR,999999,,2023/01/05,N/A
+470.0,Sara,26,paris,france, SALES ,4k,invalid-email,not_a_date,20
+202.0,SARA,25,Lyon,FR,HR,2000,,,20
+, Fatima ,twenty, Marseille ,FR,HR,2500,user@gmail.com,05/01/2023,50
+175.0,Amina,22,,France,HR,999999,,2023/01/05,80
+,mohamed ,29,LILLE,,it,??,contact@outlook.com,05/01/2023,80
+34.0,Nadia,30, lyon ,FR,IT,3500,,2023-01-05,50
+236.0, Ali ,20,Marseille,FR, Sales ,??,user@gmail.com,not_a_date,100
+259.0,Nadia,29,Lille,,IT,,,,40
+,Nadia,28, PARIS ,France,,2000,contact@outlook.com,,20
+,Mohamed,20,Lyon,,,,,not_a_date,100
+81.0,Lina,24,marseille,FRA,it,??,,2023-01-05,fifty
+,Lina,21,Marseille,France,,??,invalid-email,Jan 5 2023,50
+,,29,PARIS,FR,Sales,4k,,05/01/2023,60
+,SARA,30,marseille,france,Sales,3000,,2023/01/05,
+405.0,,22,,,,2000,,,70
+260.0,Ali,25,lyon,france,Finance,3500,invalid-email,05/01/2023,40
+188.0, Sara ,24,paris,,,-100,,2023-01-05,
+, Mohamed ,29,marseille,france,HR,2200,,,100
+190.0,SARA,27,Paris,FRA, it ,??,,05/01/2023,80
+312.0,mohamed ,,LILLE,france,,2500,contact@outlook.com,,fifty
+192.0,Lina,30,,FRA,,999999,contact@outlook.com,,70
+,Karim,22,Lyon,,HR,3000,user@gmail.com,,80
+447.0, Omar ,21,Lille,France,Marketing,2000,test@yahoo.com,Jan 5 2023,80
+,Mohamed,??, marseille ,France,Finance,,contact@outlook.com,2023-01-05,70
+27.0,Omar,25, Lyon ,FRA,Sales,3500,test@yahoo.com,2023-01-05,60
+197.0,,,,FR,HR,2200,user@gmail.com,Jan 5 2023,80
+198.0,mohamed ,,LILLE,FRA, IT ,2000,user@gmail.com,Jan 5 2023,40
+199.0,Omar,,  ,,SALES,2000,contact@outlook.com,05/01/2023,50
+200.0,Fatima,26,,,,2000,user@gmail.com,,80
+,Ali,30,Lille,,Finance,-100,test@yahoo.com,Jan 5 2023,70
+,Lina,23,,FRA,HR,??,,2023-01-05,90
+499.0,Sara,28,Lille,,,3000€,user@gmail.com,2023/01/05,80
+,Karim,25, lyon ,,IT,3500,user@gmail.com,Jan 5 2023,40
+, ali ,21,  ,,it,2200,user@gmail.com,Jan 5 2023,90
+,Mohamed,??,,FRA,,??,test@yahoo.com,,30
+,mohamed ,27, Paris ,FR,Finance,1800,test@yahoo.com,2023-01-05,60
+477.0,Omar,26, Lille ,FRA,Marketing,1800,,05/01/2023,50
+209.0,,30,Marseille,FR, Sales ,999999,contact@outlook.com,2023/01/05,70
+380.0,,26,Marseille,france,,-100,invalid-email,Jan 5 2023,fifty
+265.0,mohamed ,21,marseille,France,SALES,4k,test@yahoo.com,not_a_date,50
+212.0,Sara,25,,FR,Marketing,,,,70
+,Nadia,25,LILLE,France,it,4k,invalid-email,Jan 5 2023,
+214.0,Sara,30,,FRA,it,3000€,,,30
+215.0,Mohamed,??,,,,1800,test@yahoo.com,2023-01-05,40
+,Lina,25,marseille,,IT,4k,test@yahoo.com,,80
+485.0,Lina,27,paris,, HR ,3000€,contact@outlook.com,2023/01/05,60
+332.0,Fatima,21,Paris,,HR,,,2023/01/05,90
+60.0,mohamed ,24, LILLE ,france, Marketing ,-100,invalid-email,05/01/2023,20
+220.0, Nadia ,22,LILLE,France,it,??,contact@outlook.com,,20
+,Youssef,24,PARIS,,HR,999999,contact@outlook.com,not_a_date,40
+222.0,mohamed ,22,Lyon,FRA,IT,3500,,not_a_date,60
+,Mohamed,29,paris,France,Marketing,4000,,,80
+269.0,mohamed ,26,,France,HR,3500,,2023-01-05,80
+, Omar ,25,PARIS,, HR ,999999,test@yahoo.com,2023/01/05,90
+226.0,,21,Lille,france,Marketing,2200,test@yahoo.com,Jan 5 2023,N/A
+115.0, Omar ,24,paris,FR,Finance,??,,Jan 5 2023,30
+320.0, Amina ,28,paris,,HR,4k,,05/01/2023,30
+,SARA,29,Marseille,,IT,1800,user@gmail.com,2023-01-05,
+, Youssef ,30,Lyon,,SALES,4k,,2023-01-05,80
+,Omar,24,,FR,,2500,,2023/01/05,50
+232.0,SARA,20,PARIS,FRA, SALES ,,invalid-email,05/01/2023,60
+233.0,Lina,??,Marseille,,it,4000,test@yahoo.com,,60
+,Sara,25,Lyon,FRA,Sales,3000,invalid-email,05/01/2023,30
+235.0, Youssef ,26,,FRA,Finance,2200,contact@outlook.com,not_a_date,N/A
+236.0,mohamed ,22, LILLE ,,,,contact@outlook.com,2023/01/05,10
+46.0, Omar ,27,Lyon,france, it ,1800,user@gmail.com,Jan 5 2023,80
+, ali ,27, lyon ,,IT,2000,invalid-email,05/01/2023,50
+372.0, mohamed  ,26,Marseille,France,SALES,1800,,not_a_date,40
+,Youssef,21,marseille,,,999999,,Jan 5 2023,100
+,Sara,22,paris,FRA,it,999999,contact@outlook.com,not_a_date,60
+242.0,Fatima,29,Lille,FRA,,1800,user@gmail.com,2023-01-05,30
+365.0,mohamed ,27, Lille ,FRA,HR,4k,,05/01/2023,60
+,Lina,22,marseille,,Marketing,4k,contact@outlook.com,not_a_date,90
+272.0,SARA,29,lyon,FRA,IT,3500,contact@outlook.com,,20
+, Youssef ,twenty,,France,,3000,,,fifty
+,Fatima,,Paris,,,2200,,,N/A
+317.0,Mohamed,??,,france,IT,4k,,2023-01-05,40
+9.0,Lina,26,PARIS,FRA,Finance,4000,,,100
+471.0,,??, Paris ,,HR,3000€,test@yahoo.com,not_a_date,60
+339.0,Omar,26,Marseille,france,,3000€,contact@outlook.com,not_a_date,60
+,  ali  ,30,lyon,,,2500,test@yahoo.com,Jan 5 2023,90
+253.0,Youssef,twenty, lyon ,,Finance,-100,,2023/01/05,60
+245.0,Omar,twenty,lyon,FR,Sales,4k,,not_a_date,70
+458.0,,25,PARIS,FR,IT,3000,,2023-01-05,60
+473.0, ali ,24,LILLE,france,Finance,3000€,contact@outlook.com,not_a_date,N/A
+257.0,Sara,29,,france,Finance,1800,,not_a_date,40
+258.0, Ali ,21,marseille,FR,,2000,,,30
+,,22,marseille,,,,,05/01/2023,fifty
+493.0,Lina,24,,France,Sales,??,,05/01/2023,90
+,,20,PARIS,FRA,HR,1800,invalid-email,,80
+,,24, Paris ,France,Marketing,4k,,2023-01-05,60
+145.0, ali ,28, Lille ,FRA,HR,3000€,invalid-email,Jan 5 2023,40
+264.0,Lina,22,LILLE,,Marketing,-100,test@yahoo.com,2023-01-05,N/A
+172.0,Amina,30,Lyon,france,SALES,4000,,Jan 5 2023,20
+,Sara,22,PARIS,FRA,it,2500,user@gmail.com,Jan 5 2023,70
+120.0, mohamed  ,24,Marseille,FR,IT,3000,,Jan 5 2023,N/A
+268.0, ali ,21,LILLE,FR,HR,4000,,not_a_date,N/A
+394.0,SARA,21,,FR,it,4k,test@yahoo.com,05/01/2023,30
+270.0,Nadia,,,FR, SALES ,-100,,2023/01/05,fifty
+,,23,Lyon,,Sales,3000€,invalid-email,not_a_date,N/A
+272.0,,29,paris,France,,3000€,test@yahoo.com,not_a_date,90
+273.0,Lina,??,Lille,FRA, Sales ,??,test@yahoo.com,,100
+274.0,,28,LILLE,France,,2200,,2023/01/05,80
+275.0,Omar,27,,FR,IT,4000,contact@outlook.com,,10
+276.0,Amina,21,Paris,FRA,it,-100,user@gmail.com,not_a_date,10
+277.0,,27,Paris,FR, SALES ,2200,test@yahoo.com,,
+, ali ,26,Marseille,FRA,,4000,invalid-email,2023-01-05,
+,,28,PARIS,,it,2000,test@yahoo.com,not_a_date,70
+280.0,SARA,23,Paris,France,Marketing,,,,90
+, Karim ,??,Lyon,france,,3500,test@yahoo.com,Jan 5 2023,40
+,mohamed ,21,Paris,,SALES,4k,user@gmail.com,05/01/2023,40
+283.0,Amina,20,LILLE,, IT ,2500,,2023-01-05,70
+284.0,Omar,23,Paris,france,,3000,test@yahoo.com,,N/A
+294.0,Amina,29,,FR,Finance,3000,test@yahoo.com,,90
+113.0, Youssef ,24,Paris,,HR,??,,2023/01/05,90
+287.0,Lina,30,,FRA,,3500,,2023/01/05,70
+76.0,Karim,22,Lille,FRA,Finance,2500,contact@outlook.com,,N/A
+73.0,,20,Lille,FRA,SALES,3000€,,05/01/2023,70
+124.0, Fatima ,25,,France,,3500,user@gmail.com,not_a_date,N/A
+291.0, Ali ,24,marseille,,IT,2000,test@yahoo.com,,fifty
+, ali ,28,Lyon,FRA,Finance,3500,contact@outlook.com,2023-01-05,40
+293.0,SARA,21,LILLE,france,Finance,4000,test@yahoo.com,not_a_date,60
+397.0,Karim,27,Lille,, it ,3000,contact@outlook.com,Jan 5 2023,90
+451.0,Nadia,21,LILLE,FR,Finance,3500,contact@outlook.com,2023/01/05,10
+296.0,SARA,22,Paris,FR,,4k,,,70
+297.0,Fatima,25,Lyon,FRA,Finance,,,,
+172.0,mohamed ,??,LILLE,,,,test@yahoo.com,,fifty
+299.0, Mohamed ,,Lille,FRA,HR,3000€,,2023-01-05,90
+300.0,,30,Paris,France,SALES,2200,,05/01/2023,20
+301.0,Ali,23,Lille,FRA,it,1800,,,
+,,27,,FRA,IT,1800,,not_a_date,70
+303.0,Omar,,lyon,,Marketing,1800,,,N/A
+345.0,mohamed ,22,paris,France,,2200,test@yahoo.com,05/01/2023,100
+269.0,,25,lyon,FRA, Sales ,3500,invalid-email,2023/01/05,100
+,Fatima,24,,France,IT,2000,invalid-email,2023/01/05,70
+282.0, Ali ,30, Paris ,,HR,2000,invalid-email,,70
+330.0, Amina ,??, paris ,,IT,2500,test@yahoo.com,,N/A
+, Nadia ,24,Paris,France, Marketing ,3000€,,,10
+91.0,Ali,23,,france,SALES,2000,contact@outlook.com,05/01/2023,100
+,,??,marseille,,  ,3500,invalid-email,,N/A
+,SARA,21,Lille,, it ,1800,user@gmail.com,2023/01/05,40
+313.0,Lina,29,,,SALES,999999,contact@outlook.com,2023-01-05,
+139.0,Nadia,23,Marseille,,SALES,4000,test@yahoo.com,,100
+338.0,Sara,twenty,,FR,Finance,-100,user@gmail.com,2023-01-05,50
+78.0,SARA,twenty,,france,SALES,3500,contact@outlook.com,2023-01-05,20
+2.0,Nadia,25,lyon,France,HR,2000,test@yahoo.com,2023/01/05,80
+,Omar,26,paris,France,Sales,3500,,2023-01-05,100
+306.0,,26,Paris,FR,SALES,4000,user@gmail.com,,90
+320.0,Amina,28,PARIS,,SALES,2200,test@yahoo.com,Jan 5 2023,50
+137.0,Mohamed,21,PARIS,FRA,Marketing,4000,contact@outlook.com,2023/01/05,fifty
+39.0,Youssef,23,,FRA,Finance,,user@gmail.com,05/01/2023,50
+3.0,Lina,??,  ,FRA,it,,contact@outlook.com,2023/01/05,
+,Mohamed,24,Marseille,,Finance,,contact@outlook.com,05/01/2023,70
+495.0,Youssef,,,FRA,Finance,3500,invalid-email,Jan 5 2023,fifty
+201.0,Sara,29, Lyon ,,,2200,,,90
+,Nadia,,Lyon,FRA, Marketing ,-100,user@gmail.com,,fifty
+407.0,  ali  ,27, PARIS ,,Marketing,2500,contact@outlook.com,,30
+366.0,mohamed ,26,paris,FRA,,4k,invalid-email,not_a_date,90
+, Karim ,28, Paris ,FR,,4k,,2023-01-05,20
+331.0, ali ,30,Marseille,france,IT,4k,,,
+204.0,mohamed ,26,paris,France,Sales,3000,test@yahoo.com,not_a_date,N/A
+,Amina,,,france,,3500,invalid-email,2023/01/05,fifty
+,SARA,28, PARIS ,FR,IT,,user@gmail.com,Jan 5 2023,70
+335.0,Sara,??,PARIS,FR,Marketing,3500,invalid-email,,40
+266.0,Lina,27,paris,FRA,,3500,user@gmail.com,Jan 5 2023,10
+,Sara,20,Marseille,,Sales,??,test@yahoo.com,,40
+338.0,Omar,22,Marseille,,SALES,,test@yahoo.com,,70
+339.0,Mohamed,30,,FRA,SALES,1800,,not_a_date,40
+,Karim,26,Paris,,Finance,2500,contact@outlook.com,,N/A
+341.0,Amina,21, Lille ,france,it,3500,test@yahoo.com,2023/01/05,20
+,,27,Lille,,it,4k,invalid-email,not_a_date,70
+343.0,Lina,25, LILLE ,, HR ,??,,,50
+,Amina,21,,france,it,2000,test@yahoo.com,Jan 5 2023,20
+93.0, SARA ,22,Lille,FRA,SALES,4k,test@yahoo.com,not_a_date,70
+346.0,Nadia,30,Lille,, HR ,3000€,test@yahoo.com,2023/01/05,50
+347.0,Lina,??,LILLE,,IT,3500,user@gmail.com,2023/01/05,30
+99.0,Omar,28,,FRA,SALES,??,invalid-email,2023/01/05,N/A
+430.0,Nadia,22,paris,, IT ,999999,test@yahoo.com,Jan 5 2023,10
+350.0, Omar ,24,PARIS,FRA,,3000€,,2023-01-05,100
+58.0,mohamed ,28,Marseille,,IT,999999,,2023/01/05,90
+111.0, Sara ,,,france,Marketing,1800,invalid-email,Jan 5 2023,60
+353.0,Nadia,??,paris,france,Finance,999999,,not_a_date,N/A
+,Amina,30,marseille,france,HR,999999,test@yahoo.com,,40
+355.0, Amina ,25, Lille ,FR,,2200,contact@outlook.com,,50
+,Youssef,??, Lille ,,Sales,2200,invalid-email,2023-01-05,50
+,Mohamed,,PARIS,france, HR ,-100,contact@outlook.com,,40
+, Karim ,27,PARIS,,Marketing,??,invalid-email,2023/01/05,80
+,mohamed ,twenty,paris,FRA,  ,-100,contact@outlook.com,,60
+232.0,Lina,29,Paris,, Sales ,-100,invalid-email,,
+357.0,,21,Lille,FRA, Finance ,4000,test@yahoo.com,2023/01/05,50
+165.0, Lina ,28,,france,,999999,contact@outlook.com,,fifty
+363.0,Sara,30, LILLE ,France,Sales,2200,invalid-email,2023/01/05,10
+490.0,Fatima,,PARIS,,Marketing,2200,contact@outlook.com,2023-01-05,
+184.0,Sara,25,,,HR,1800,invalid-email,,50
+,mohamed ,23,marseille,, Sales ,-100,user@gmail.com,2023-01-05,40
+367.0,Mohamed,29,Lyon,,,1800,user@gmail.com,,60
+368.0,,26,PARIS,FRA,Sales,2500,invalid-email,2023-01-05,N/A
+369.0,Sara,25,Marseille,FR,HR,4000,test@yahoo.com,,
+370.0, Omar ,29,Paris,,HR,,contact@outlook.com,,40
+,Mohamed,26,,,,2500,user@gmail.com,2023-01-05,30
+372.0,Amina,,marseille,FR,SALES,3500,test@yahoo.com,05/01/2023,50
+373.0,Fatima,28,,,Marketing,999999,,2023-01-05,
+448.0,Fatima,28,,,Finance,-100,invalid-email,Jan 5 2023,
+375.0,Nadia,26,paris,france,,??,,2023-01-05,90
+376.0,Lina,25,PARIS,FRA, SALES ,3500,,,30
+390.0, mohamed  ,21,Paris,, Sales ,1800,contact@outlook.com,05/01/2023,10
+378.0,mohamed ,26,Lille,FR,  ,999999,invalid-email,2023/01/05,N/A
+379.0,  ali  ,28,Lille,,HR,3000,user@gmail.com,Jan 5 2023,20
+380.0,mohamed ,22, Lille ,FR,SALES,4k,,,
+,Sara,24,marseille,,Finance,1800,test@yahoo.com,2023-01-05,70
+59.0, Amina ,29,Paris,FR,HR,2000,user@gmail.com,,30
+383.0,Mohamed,27,Marseille,,,999999,,Jan 5 2023,30
+384.0,SARA,twenty,lyon,, Sales ,999999,user@gmail.com,Jan 5 2023,fifty
+219.0,Omar,21,lyon,,Sales,,invalid-email,not_a_date,60
+28.0,,29, PARIS ,FR,HR,3000,user@gmail.com,not_a_date,
+387.0,Fatima,,Lille,France,IT,1800,test@yahoo.com,2023-01-05,80
+186.0,  ,22, PARIS ,France,,999999,,,
+389.0,Lina,23,marseille,,it,3000,user@gmail.com,not_a_date,60
+,  ali  ,20, PARIS ,france,,1800,invalid-email,2023-01-05,80
+443.0,mohamed ,??,lyon,FR,Sales,3000€,invalid-email,2023-01-05,60
+102.0,Amina,twenty, lyon ,,Finance,,contact@outlook.com,not_a_date,80
+393.0,SARA,28,Lyon,france, IT ,4000,user@gmail.com,05/01/2023,90
+,,, Paris ,FR,IT,999999,,2023/01/05,N/A
+372.0,Sara,23,Lille,france,SALES,,user@gmail.com,05/01/2023,N/A
+396.0, Ali ,23,Lille,FRA,it,,,2023-01-05,100
+,Mohamed,30, marseille ,France,IT,4000,,05/01/2023,40
+149.0,,25,marseille,,it,3500,invalid-email,Jan 5 2023,40
+399.0,Mohamed,twenty,,France, HR ,2000,test@yahoo.com,2023/01/05,80
+160.0,Sara,28,Marseille,france,,3000,invalid-email,Jan 5 2023,20
+401.0,mohamed ,30,lyon,,IT,2500,contact@outlook.com,05/01/2023,20
+402.0,Lina,26,Lille,France,Marketing,3000,test@yahoo.com,2023-01-05,70
+437.0, Omar ,,Lille,france,Sales,,user@gmail.com,,fifty
+404.0,Ali,20,Lyon,france,Finance,4000,contact@outlook.com,,
+,Sara,29,,FR, Sales ,1800,user@gmail.com,05/01/2023,
+406.0,Sara,??,Marseille,France,IT,,user@gmail.com,05/01/2023,100
+, Karim ,27, Paris ,FRA,SALES,2200,contact@outlook.com,05/01/2023,30
+140.0,Nadia,22,Paris,,Finance,??,contact@outlook.com,2023/01/05,70
+, Nadia ,20,paris,FR,SALES,2200,invalid-email,05/01/2023,
+,Fatima,30,Lille,France, SALES ,999999,,Jan 5 2023,80
+278.0,Lina,29,Lille,FR,SALES,3000,test@yahoo.com,2023-01-05,60
+412.0,Ali,twenty,lyon,France,,3000€,contact@outlook.com,,100
+413.0,Sara,23,,france,Marketing,3000€,,2023-01-05,fifty
+414.0,Amina,??,marseille,FR,HR,2200,test@yahoo.com,not_a_date,60
+,SARA,25,,France,it,4k,,05/01/2023,100
+416.0,,twenty,LILLE,, Marketing ,2200,invalid-email,2023-01-05,20
+417.0,Amina,23, Paris ,,,1800,contact@outlook.com,not_a_date,40
+418.0,Lina,,PARIS,FR,IT,1800,test@yahoo.com,not_a_date,N/A
+419.0,mohamed ,21, Lille ,FR, Sales ,3500,,,70
+420.0, Lina ,24,Marseille,france,HR,-100,invalid-email,,
+491.0, ali ,25,PARIS,,,-100,,,60
+,Amina,??,PARIS,FRA,Marketing,-100,,Jan 5 2023,30
+,Ali,,  ,FRA,IT,2200,,Jan 5 2023,fifty
+,Fatima,30,,France,,2200,contact@outlook.com,,20
+121.0,Lina,22,,France,it,,user@gmail.com,Jan 5 2023,40
+, Sara ,25,lyon,France,IT,1800,invalid-email,2023/01/05,N/A
+427.0,,26,LILLE,FRA,it,3000€,invalid-email,2023-01-05,80
+, ali ,twenty,,france,HR,,user@gmail.com,,10
+429.0,Lina,24,paris,France,it,2200,invalid-email,05/01/2023,N/A
+,,21,Marseille,,,-100,user@gmail.com,2023/01/05,
+,,26,PARIS,France, Sales ,3500,test@yahoo.com,05/01/2023,70
+,SARA,,Lille,FR,Marketing,3000,test@yahoo.com,2023-01-05,10
+,Omar,??, LILLE ,france, IT ,3500,user@gmail.com,2023/01/05,20
+,  ali  ,29,LILLE,france,Sales,1800,test@yahoo.com,05/01/2023,
+435.0, Nadia ,??,paris,FR,SALES,,invalid-email,,50
+,Omar,26,PARIS,FR, SALES ,3500,test@yahoo.com,2023/01/05,10
+134.0,Nadia,24,Lyon,FR,IT,2200,,,20
+,Lina,twenty, Lille ,FRA,Finance,3000€,user@gmail.com,,70
+,Karim,28,,FRA,Finance,,contact@outlook.com,2023-01-05,70
+,Ali,28,,,HR,2000,invalid-email,05/01/2023,30
+441.0,mohamed ,23,PARIS,France, SALES ,2000,,2023/01/05,40
+, Mohamed ,??,,FR,it,-100,user@gmail.com,2023-01-05,70
+284.0,Omar,25, lyon ,,,1800,,not_a_date,100
+267.0,Sara,26, PARIS ,france,Sales,2000,,,20
+402.0,,28,Marseille,FRA,Marketing,4000,,2023/01/05,100
+311.0,Ali,22,lyon,FRA,HR,4k,,,N/A
+447.0,Karim,25,Lyon,France,,3000,contact@outlook.com,2023-01-05,60
+418.0, Youssef ,24, LILLE ,,Sales,2500,test@yahoo.com,Jan 5 2023,N/A
+226.0,Youssef,, marseille ,,Sales,2500,invalid-email,05/01/2023,70
+379.0,mohamed ,28,Marseille,France,,999999,test@yahoo.com,2023-01-05,50
+,Karim,22,Lille,,IT,2200,test@yahoo.com,,40
+452.0,Fatima,20,LILLE,France,it,-100,test@yahoo.com,Jan 5 2023,60
+421.0,Omar,26,,France,IT,2500,contact@outlook.com,2023/01/05,100
+454.0,,27,,,it,3500,test@yahoo.com,,50
+,Sara,24,Paris,FRA, IT ,2200,,,40
+456.0, ali ,23,,france, Marketing ,??,invalid-email,not_a_date,10
+,Ali,27,PARIS,,HR,4k,user@gmail.com,05/01/2023,50
+311.0,SARA,,,FR,SALES,4000,contact@outlook.com,2023/01/05,50
+111.0, Youssef ,30,Lille,, SALES ,4k,user@gmail.com,2023-01-05,90
+339.0,Omar,30,,, Marketing ,3000,,2023-01-05,80
+32.0,Youssef,30,Marseille,FR,Marketing,??,,,50
+462.0,Omar,twenty,Lyon,France, SALES ,??,contact@outlook.com,,30
+463.0,  ali  ,27,lyon,FR,SALES,4000,invalid-email,,10
+,Amina,??, Lyon ,FR, Finance ,??,,,fifty
+,Lina,28,lyon,france,,2200,contact@outlook.com,2023-01-05,80
+,Youssef,, Lille ,france,it,??,user@gmail.com,05/01/2023,60
+,,24,marseille,FR,it,3000,,Jan 5 2023,80
+468.0,Nadia,20,,,Sales,,test@yahoo.com,not_a_date,20
+,Karim,28,lyon,FRA,IT,2200,test@yahoo.com,05/01/2023,60
+,,27,PARIS,FR,HR,999999,user@gmail.com,2023/01/05,60
+471.0,Lina,30,Paris,France,,3000,test@yahoo.com,,fifty
+,mohamed ,22, LILLE ,France, HR ,4k,invalid-email,,70
+206.0, Nadia ,26,Paris,France,  ,2500,,Jan 5 2023,10
+456.0,mohamed ,??,Lille,france, IT ,??,user@gmail.com,,N/A
+475.0,SARA,25, lyon ,france, Sales ,4000,,not_a_date,50
+476.0,,20,lyon,FR,,-100,,not_a_date,90
+172.0,,30, PARIS ,FR,,3500,test@yahoo.com,05/01/2023,fifty
+478.0, Fatima ,23,PARIS,france,IT,4k,,05/01/2023,20
+, ali ,twenty,Paris,FRA,Marketing,999999,,not_a_date,10
+480.0, ali ,21,,France,IT,-100,user@gmail.com,2023/01/05,80
+481.0,Omar,24,LILLE,,HR,2500,,,
+4.0,Karim,30, paris ,,,3000,,not_a_date,N/A
+70.0,,21, Lille ,,Sales,3000,user@gmail.com,,20
+484.0, Amina ,23,lyon,,Finance,3500,,2023/01/05,50
+485.0,Omar,27,Lyon,,,3500,test@yahoo.com,2023-01-05,10
+486.0,,21,,,,2200,user@gmail.com,,90
+, SARA ,21, lyon ,,Finance,,contact@outlook.com,Jan 5 2023,80
+488.0,,22,Paris,FR,it,999999,,Jan 5 2023,70
+489.0,Sara,??,Paris,France,HR,??,,05/01/2023,60
+183.0,Amina,24,paris,FR,it,2200,user@gmail.com,2023/01/05,70
+492.0,Youssef,??,marseille,,,999999,invalid-email,,fifty
+492.0, Mohamed ,,Paris,france,Sales,4000,,2023/01/05,fifty
+,Nadia,22,,FRA,it,4k,user@gmail.com,,
+,,22,LILLE,FRA, Sales ,4000,invalid-email,2023-01-05,20
+,Lina,20,,,Finance,??,contact@outlook.com,not_a_date,90
+, Amina ,21,marseille,,Finance,,contact@outlook.com,,
+328.0,Mohamed,??, Lille ,,IT,1800,,05/01/2023,90
+434.0,,27, PARIS ,France,,3500,test@yahoo.com,Jan 5 2023,50
+,Fatima,28,,FRA,SALES,2500,user@gmail.com,2023/01/05,80
+,Nadia,21,LILLE,FRA,it,2000,invalid-email,,
+501.0,Karim,26,Paris,,,1800,user@gmail.com,,100
+, ali ,24, Lille ,, Finance ,??,,2023/01/05,60
+503.0,,23,LILLE,FR,,999999,,not_a_date,80
+,Lina,,LILLE,France,Sales,999999,,05/01/2023,10
+174.0,,30,lyon,,  ,3500,,2023-01-05,10
+506.0,Nadia,22,marseille,France, Marketing ,4k,test@yahoo.com,05/01/2023,20
+476.0,Fatima,27,Lyon,, it ,2000,invalid-email,2023-01-05,
+,Amina,21,LILLE,FRA,  ,2200,invalid-email,2023-01-05,90
+509.0,Omar,26,,FRA,,999999,test@yahoo.com,,100
+,,22, paris ,FRA,it,3000€,invalid-email,2023/01/05,100
+,mohamed ,23,lyon,FRA,it,3000,invalid-email,,30
+70.0,Amina,,Lille,FR,,3500,,,90
+513.0, Fatima ,23,,,Marketing,??,contact@outlook.com,,30
+,Mohamed,28,Lille,,it,-100,user@gmail.com,,60
+287.0,Amina,29,,,SALES,??,,,90
+146.0, mohamed  ,20, Lille ,France,IT,4000,test@yahoo.com,2023-01-05,
+517.0, Youssef ,twenty,PARIS,FR,Marketing,2200,user@gmail.com,,fifty
+518.0,mohamed ,28,Paris,FR,,2000,,,
+,,23,,,SALES,2500,,,fifty
+,Youssef,,,France,SALES,4000,invalid-email,,
+, Ali ,20, lyon ,france,,2500,,,N/A
+331.0,mohamed ,29,Lille,,Finance,999999,,05/01/2023,50
+523.0,  ali  ,21,PARIS,france,,2000,invalid-email,2023-01-05,70
+,Youssef,22,PARIS,,Marketing,1800,contact@outlook.com,2023/01/05,N/A
+525.0, Ali ,22,Marseille,,IT,999999,,not_a_date,
+154.0, mohamed  ,29, Lille ,FR,Sales,999999,,Jan 5 2023,90
+527.0,Omar,21,Lille,france, SALES ,3000€,,2023/01/05,20
+528.0,,23,,FR, it ,3500,contact@outlook.com,05/01/2023,fifty
+,Nadia,28,,France,Sales,??,contact@outlook.com,2023/01/05,40
+, Amina ,29,Lyon,France,it,4000,user@gmail.com,2023/01/05,50
+,Youssef,20, Lille ,FR,,999999,,2023/01/05,80
+22.0,,30, Lyon ,FR,,2000,user@gmail.com,05/01/2023,fifty
+,Ali,30,paris,france,Finance,??,invalid-email,,20
+,,,marseille,,Sales,-100,,05/01/2023,10
+,Lina,20,paris,France,IT,2200,contact@outlook.com,not_a_date,20
+536.0,,24,marseille,FRA,,??,invalid-email,2023/01/05,60
+8.0, ali ,21,Lille,France, Sales ,999999,,not_a_date,10
+538.0,Lina,28,paris,FR, Marketing ,4k,user@gmail.com,Jan 5 2023,fifty
+474.0,Karim,26,,France,,2200,,05/01/2023,30
+382.0,mohamed ,twenty,Lille,FR,HR,3000,,,N/A
+331.0,Ali,28,Lille,france,Sales,1800,user@gmail.com,not_a_date,100
+,Omar,21,lyon,france,it,2500,invalid-email,,90
+543.0,Mohamed,23,,FR, Finance ,2000,test@yahoo.com,,fifty
+544.0,,twenty,Lille,FRA,,2000,contact@outlook.com,,20
+545.0,Fatima,,,FRA,it,3500,test@yahoo.com,,
+546.0,Youssef,29,paris,france,it,,invalid-email,Jan 5 2023,100
+337.0,SARA,29,PARIS,,it,999999,contact@outlook.com,2023/01/05,30
+2.0,Fatima,twenty, Lyon ,,SALES,3000,contact@outlook.com,05/01/2023,
+375.0,,27, LILLE ,FRA,it,999999,contact@outlook.com,2023/01/05,90
+550.0, ali ,29, paris ,FR,HR,3000€,test@yahoo.com,Jan 5 2023,N/A
+,Sara,, paris ,France,,??,user@gmail.com,,100
+296.0,mohamed ,29, Lyon ,France,  ,3000,,not_a_date,80
+553.0,Lina,26,Lyon,,Marketing,2200,invalid-email,not_a_date,90
+46.0,Lina,28,Paris,,Finance,999999,,,30
+,Mohamed,27, PARIS ,france,HR,-100,,2023/01/05,60
+556.0,mohamed ,27,Lyon,France, Marketing ,3500,test@yahoo.com,2023-01-05,
+,,twenty,Marseille,FRA,,,user@gmail.com,2023-01-05,
+558.0,SARA,28,,FR,Marketing,4k,,not_a_date,30
+,Karim,25,,, Sales ,3000€,contact@outlook.com,2023/01/05,40
+264.0, Lina ,??,Marseille,FRA,,4k,user@gmail.com,not_a_date,30
+561.0,Fatima,21, Lille ,,Marketing,2500,test@yahoo.com,05/01/2023,30
+, SARA ,??,paris,,Finance,4000,contact@outlook.com,,20
+,Nadia,27,Lyon,,HR,??,invalid-email,2023-01-05,40
+564.0,Amina,29, PARIS ,france,  ,1800,,05/01/2023,10
+85.0,  ,22,Lille,FRA,IT,-100,,,50
+566.0,Fatima,27,,FRA,,2200,test@yahoo.com,,70
+567.0,mohamed ,29,PARIS,,,3000,test@yahoo.com,,
+175.0, Amina ,29,paris,france,SALES,4000,test@yahoo.com,2023-01-05,10
+,,28,,FRA,HR,4k,user@gmail.com,05/01/2023,80
+,Amina,20,Lille,,Sales,2000,invalid-email,,30
+,Omar,??,Paris,,SALES,3000€,invalid-email,Jan 5 2023,10
+,Karim,23,LILLE,FRA,it,4k,,,N/A
+573.0,Karim,22,lyon,FRA,Finance,2000,contact@outlook.com,not_a_date,90
+209.0,Fatima,20,Paris,,,2000,,2023-01-05,70
+575.0, SARA ,twenty,Marseille,FRA,it,2000,test@yahoo.com,2023/01/05,
+299.0,Youssef,??,Lille,FRA, it ,4k,contact@outlook.com,,70
+577.0,Karim,28,Lille,FRA,HR,3500,,not_a_date,80
+129.0,Amina,25,marseille,,HR,??,user@gmail.com,,40
+,Mohamed,21,Lyon,,SALES,999999,contact@outlook.com,,90
+, ali ,, Paris ,france,SALES,??,user@gmail.com,,20
+581.0, Nadia ,29, marseille ,France,Sales,3000,test@yahoo.com,Jan 5 2023,20
+582.0, SARA ,26, marseille ,,,3000,,not_a_date,10
+583.0, ali ,27,LILLE,France,Finance,??,,Jan 5 2023,40
+,Omar,28,Lyon,,HR,??,user@gmail.com,Jan 5 2023,40
+585.0,Mohamed,21,lyon,FRA,it,??,invalid-email,2023/01/05,100
+, Ali ,,paris,France,,3000,,,90
+, Lina ,25,lyon,france,Finance,,invalid-email,not_a_date,10
+588.0,Karim,28, paris ,, Sales ,3000€,contact@outlook.com,Jan 5 2023,20
+,Youssef,28,  ,FR,,4000,,2023/01/05,fifty
+124.0, mohamed  ,27,,FRA,IT,,user@gmail.com,Jan 5 2023,20
+,mohamed ,23,,,Finance,999999,contact@outlook.com,2023/01/05,60
+,Ali,, lyon ,france,Marketing,2000,invalid-email,,N/A
+420.0,Sara,28, PARIS ,FRA,it,3500,test@yahoo.com,not_a_date,50
+,  ali  ,23,LILLE,,Finance,2500,,05/01/2023,50
+595.0, Fatima ,??,Lyon,, it ,2200,user@gmail.com,2023-01-05,20
+,Nadia,29,Paris,,IT,,contact@outlook.com,not_a_date,60
+,,24,LILLE,france,,3000,invalid-email,05/01/2023,fifty
+598.0,Ali,28,marseille,FRA,,1800,,Jan 5 2023,70
+, mohamed  ,22,LILLE,France,,,contact@outlook.com,,10
+, Fatima ,26,,France,it,3500,,,50
+,Youssef,23,lyon,FRA,it,3500,test@yahoo.com,2023/01/05,70
+107.0,SARA,twenty, Marseille ,FR, SALES ,3000,invalid-email,05/01/2023,100
+, ali ,23,paris,, Marketing ,999999,test@yahoo.com,not_a_date,70
+438.0,Fatima,22, PARIS ,FRA,IT,2200,invalid-email,2023/01/05,30
+,Omar,28,Marseille,FRA,Marketing,3000,,,100
+24.0,Sara,,PARIS,France,Finance,3000,invalid-email,,
+49.0,SARA,25,lyon,FR, it ,3000€,,,50
+608.0,Karim,21,Marseille,,Finance,4k,,,
+609.0,mohamed ,24, Marseille ,FR,,,,2023/01/05,20
+,Youssef,27,,france, HR ,??,contact@outlook.com,2023/01/05,
+,Karim,??,paris,France,HR,3500,test@yahoo.com,Jan 5 2023,60
+334.0,SARA,24,,, SALES ,3000,invalid-email,,60
+,Omar,27,marseille,france,HR,1800,test@yahoo.com,,40
+338.0,SARA,,paris,france,HR,4000,user@gmail.com,2023-01-05,20
+479.0,Omar,20,Paris,FRA,,999999,user@gmail.com,2023-01-05,50
+616.0,Sara,30, marseille ,FR, Finance ,2500,,Jan 5 2023,80
+617.0, Mohamed ,28, PARIS ,France,IT,??,contact@outlook.com,,60
+442.0,Nadia,??,Lille,FR,,,test@yahoo.com,,90
+,Amina,27,,,SALES,3000€,,,90
+158.0, Nadia ,28,Lyon,France,,3000,contact@outlook.com,2023/01/05,50
+79.0,Ali,20,Lille,france,it,3000,invalid-email,not_a_date,10
+352.0,mohamed ,27,lyon,France,SALES,999999,contact@outlook.com,not_a_date,40
+623.0,Omar,25,Lyon,FRA,  ,4000,invalid-email,05/01/2023,30
+, ali ,26,marseille,france,Marketing,2000,invalid-email,,40
+,mohamed ,,,FR,Marketing,??,,not_a_date,fifty
+137.0,Fatima,??,paris,france,HR,3000,user@gmail.com,,80
+316.0,Youssef,,,FRA,Finance,3500,user@gmail.com,05/01/2023,10
+,Ali,22,paris,FR,Marketing,2200,,2023/01/05,N/A
+629.0,Sara,22,Paris,FRA,Finance,3500,invalid-email,Jan 5 2023,fifty
+409.0, Lina ,27,Paris,FR,Sales,999999,test@yahoo.com,2023-01-05,50
+397.0,Sara,28,LILLE,france,Finance,3000,invalid-email,,10
+, Fatima ,26,LILLE,france,IT,2500,invalid-email,,fifty
+, ali ,23,LILLE,FRA,Marketing,3500,test@yahoo.com,,N/A
+,,28,Lille,France,Marketing,,,Jan 5 2023,40
+635.0,,30,Lyon,France,Finance,??,invalid-email,Jan 5 2023,10
+85.0,Amina,21,marseille,france, IT ,1800,,,N/A
+,Amina,22, Marseille ,France,Finance,2200,invalid-email,2023-01-05,
+316.0,  ,twenty,,France,IT,3500,,05/01/2023,N/A
+639.0,Mohamed,27,Lyon,FR,,999999,,,60
+412.0,SARA,23,Paris,,SALES,3500,,05/01/2023,50
+641.0,Nadia,, LILLE ,,Marketing,3000€,,2023/01/05,40
+642.0,Omar,25,Marseille,,,3000,,,90
+643.0,Omar,22, LILLE ,FR,Marketing,3000€,contact@outlook.com,2023/01/05,10
+,Omar,26,PARIS,France,it,999999,,05/01/2023,60
+645.0, ali ,28,marseille,france,,??,invalid-email,,90
+,Youssef,25,marseille,,it,2000,user@gmail.com,not_a_date,
+647.0,,22, PARIS ,France, Finance ,2000,invalid-email,05/01/2023,20
+,  ali  ,??,marseille,,,3000€,,,100
+649.0,Lina,23,  ,,Sales,1800,test@yahoo.com,,80
+650.0,Nadia,twenty,,France, it ,3000€,,2023/01/05,60
+,Ali,??,,FR,,1800,,2023-01-05,50
+652.0,Omar,21,paris,, Finance ,3000€,invalid-email,05/01/2023,40
+, Fatima ,29,,france,,-100,,2023/01/05,N/A
+,Amina,25,,FRA,SALES,2000,test@yahoo.com,,30
+281.0, Omar ,25,,france,  ,4k,invalid-email,Jan 5 2023,60
+281.0,,25,marseille,,SALES,-100,contact@outlook.com,not_a_date,40
+,Fatima,26,Lille,,Marketing,3500,invalid-email,2023/01/05,70
+,Ali,24,,France,  ,2200,contact@outlook.com,2023-01-05,50
+659.0,,25,Paris,,Marketing,3000€,,not_a_date,100
+,Mohamed,21, Paris ,FRA,it,2200,test@yahoo.com,Jan 5 2023,60
+,Fatima,23,lyon,FR,Sales,4k,invalid-email,not_a_date,40
+662.0,SARA,25,LILLE,france,,-100,,not_a_date,20
+,Youssef,20,,FRA,Sales,999999,user@gmail.com,,60
+178.0, Karim ,??,paris,france,IT,??,,2023/01/05,10
+,Ali,25,Lille,, HR ,3500,,,40
+666.0, ali ,,marseille,FRA,,2000,test@yahoo.com,2023/01/05,50
+402.0,Mohamed,22,Marseille,France,,4k,,2023-01-05,90
+204.0,Sara,26, Lille ,FRA,HR,999999,test@yahoo.com,2023/01/05,90
+101.0,Karim,30,,france,,4k,,not_a_date,40
+670.0,Youssef,twenty,marseille,FR,Sales,2000,,2023/01/05,70
+187.0, Fatima ,25,Marseille,,IT,999999,contact@outlook.com,05/01/2023,60
+315.0,Amina,22,LILLE,France,Finance,2500,,Jan 5 2023,30
+,,21,paris,,IT,2500,,05/01/2023,50
+7.0,SARA,twenty, paris ,FR,,,user@gmail.com,Jan 5 2023,40
+,Fatima,23,Lille,,Marketing,3000€,invalid-email,not_a_date,N/A
+,SARA,30,Paris,FRA,,1800,contact@outlook.com,05/01/2023,10
+677.0,mohamed ,,,FR,IT,,,2023-01-05,20
+,Youssef,30,,FR, Sales ,1800,contact@outlook.com,,
+679.0,Karim,28,paris,FR,,4k,,2023-01-05,30
+, Nadia ,28,Paris,France,Finance,3000€,contact@outlook.com,Jan 5 2023,80
+,Mohamed,20, Marseille ,, it ,3500,,Jan 5 2023,40
+, Youssef ,twenty,Paris,,Marketing,4000,user@gmail.com,not_a_date,50
+683.0, Lina ,26,,france,Sales,-100,invalid-email,not_a_date,
+,  ali  ,23,marseille,france,HR,4000,contact@outlook.com,not_a_date,60
+,Mohamed,23,,france,,??,test@yahoo.com,,30
+,SARA,28, PARIS ,FRA,HR,??,,05/01/2023,60
+, Omar ,,paris,france, it ,2200,,2023-01-05,fifty
+163.0,Karim,24,LILLE,,Marketing,2200,test@yahoo.com,2023-01-05,30
+689.0, mohamed  ,29,,FR,Finance,4k,test@yahoo.com,05/01/2023,
+13.0, Sara ,,LILLE,france,  ,4k,invalid-email,,
+691.0,,26, LILLE ,FRA,HR,2200,test@yahoo.com,05/01/2023,10
+692.0,,24,marseille,france,Finance,999999,test@yahoo.com,2023-01-05,30
+474.0,,29, LILLE ,,it,,test@yahoo.com,2023/01/05,70
+694.0, Amina ,,marseille,,it,4000,,,100
+,Omar,30, Paris ,, Sales ,,invalid-email,,10
+696.0,Omar,28,marseille,, IT ,3000€,invalid-email,not_a_date,fifty
+697.0,Fatima,24,LILLE,FRA,Marketing,999999,contact@outlook.com,2023/01/05,30
+216.0,Amina,20,Lille,france,,??,invalid-email,2023-01-05,N/A
+699.0,Mohamed,twenty,,,,2200,invalid-email,2023/01/05,60
+700.0,Mohamed,27,,,Finance,,user@gmail.com,Jan 5 2023,60
+,,,PARIS,,Sales,2000,user@gmail.com,,80
+324.0,Sara,28,marseille,,,4k,test@yahoo.com,2023/01/05,90
+703.0, mohamed  ,22,Marseille,,HR,2200,test@yahoo.com,05/01/2023,fifty
+704.0,Karim,24,lyon,,,3000,,05/01/2023,20
+705.0,Fatima,20,,FR,IT,,invalid-email,,80
+706.0,Amina,27,Lyon,france,,,invalid-email,2023/01/05,20
+,Ali,23,Lille,FR,,2500,user@gmail.com,05/01/2023,30
+,Lina,20,PARIS,France,Marketing,3500,user@gmail.com,2023-01-05,20
+709.0,Mohamed,30, lyon ,,,2200,invalid-email,,100
+710.0,Sara,twenty,lyon,FR,it,4000,user@gmail.com,,70
+, Sara ,24, LILLE ,france,Sales,-100,contact@outlook.com,Jan 5 2023,90
+,Fatima,,Lyon,,IT,2000,,,
+713.0,Nadia,,,,Marketing,4000,,,60
+,Amina,29, Marseille ,france,,3000€,,,80
+715.0,,29,Lyon,,Marketing,2500,user@gmail.com,2023-01-05,10
+,mohamed ,21,Lyon,,SALES,4000,user@gmail.com,Jan 5 2023,60
+,Fatima,20,,france,Marketing,3000,user@gmail.com,Jan 5 2023,50
+, Lina ,twenty,Paris,France,it,3500,invalid-email,,100
+719.0,,22, Lyon ,FR, it ,??,invalid-email,2023/01/05,fifty
+,Mohamed,27,PARIS,,,3000€,contact@outlook.com,2023/01/05,fifty
+416.0,,, Paris ,,Marketing,4k,,,60
+,Ali,23,,,it,999999,contact@outlook.com,2023-01-05,30
+723.0,Lina,26,,,HR,4k,,2023/01/05,30
+724.0,,twenty,lyon,,it,-100,user@gmail.com,Jan 5 2023,70
+44.0,,23,Marseille,FRA, Marketing ,2500,,Jan 5 2023,30
+57.0,mohamed ,20,Lyon,France,,3000€,user@gmail.com,,80
+,Mohamed,23,Marseille,FRA,,3000,contact@outlook.com,05/01/2023,fifty
+728.0,,28,,france,Finance,-100,user@gmail.com,2023/01/05,70
+,Sara,20,lyon,France, Sales ,3500,invalid-email,2023-01-05,20
+, SARA ,24,Paris,,Marketing,??,test@yahoo.com,Jan 5 2023,40
+98.0,Youssef,28,Marseille,FRA,Sales,3000,test@yahoo.com,05/01/2023,50
+732.0,Amina,28,Lille,France,Finance,3000€,contact@outlook.com,not_a_date,60
+733.0, SARA ,twenty,lyon,,Finance,2200,user@gmail.com,Jan 5 2023,100
+456.0,Omar,27,Paris,france,IT,,,2023-01-05,20
+735.0,Sara,26,marseille,france,,4k,contact@outlook.com,Jan 5 2023,60
+736.0, SARA ,twenty,,,Sales,999999,invalid-email,not_a_date,30
+,Nadia,21,LILLE,FR,,,test@yahoo.com,05/01/2023,30
+,Youssef,25, marseille ,france,it,999999,contact@outlook.com,2023/01/05,80
+739.0,Nadia,21,Marseille,FRA,,2200,contact@outlook.com,,60
+,Mohamed,28, paris ,FRA, Sales ,3500,,,20
+405.0,Omar,27,marseille,,SALES,2500,,05/01/2023,90
+81.0,Karim,21,Marseille,france, SALES ,999999,invalid-email,not_a_date,fifty
+,SARA,23,PARIS,, Sales ,-100,,not_a_date,80
+,Amina,27, Marseille ,,Sales,,test@yahoo.com,Jan 5 2023,70
+,Sara,30,  ,FRA,it,,,,10
+746.0,,22,  ,,IT,999999,test@yahoo.com,,30
+,Youssef,26,,,,2500,test@yahoo.com,,60
+, mohamed  ,30, lyon ,FRA,it,2000,,2023-01-05,100
+261.0,,22,lyon,France,it,3000€,user@gmail.com,2023-01-05,N/A
+286.0,Sara,??,lyon,France,Finance,4000,,not_a_date,70
+320.0,SARA,26,marseille,FRA, SALES ,3000€,test@yahoo.com,,30
+752.0, Fatima ,28,marseille,FR,SALES,2200,contact@outlook.com,,
+753.0,Ali,21,,France,HR,-100,invalid-email,,70
+754.0,Sara,22,,FRA,,999999,,not_a_date,70
+755.0,Nadia,28,marseille,,,4000,contact@outlook.com,05/01/2023,30
+,Ali,29,LILLE,,Finance,-100,,Jan 5 2023,70
+,Amina,25,Paris,France,,-100,contact@outlook.com,2023-01-05,100
+, Sara ,22,Lille,FR,,3000€,user@gmail.com,not_a_date,100
+759.0,Nadia,30,,, Sales ,??,,not_a_date,fifty
+296.0,Amina,20, Marseille ,,IT,,invalid-email,not_a_date,80
+,Lina,26,Marseille,FR,Marketing,2200,user@gmail.com,,100
+383.0,SARA,twenty,,FR,IT,??,invalid-email,not_a_date,30
+763.0, ali ,24,,France,Marketing,,user@gmail.com,05/01/2023,90
+39.0,Youssef,22,,FR, Marketing ,3000,user@gmail.com,,20
+765.0,,29,PARIS,,,3500,test@yahoo.com,Jan 5 2023,fifty
+766.0,Nadia,22,Lille,France,it,2000,test@yahoo.com,not_a_date,30
+428.0, mohamed  ,26,marseille,france,,-100,,05/01/2023,40
+,,25,Paris,, Marketing ,999999,user@gmail.com,2023-01-05,30
+237.0,Nadia,24, LILLE ,,,2500,invalid-email,,N/A
+199.0,Youssef,22, Lille ,FRA, IT ,3000,invalid-email,2023/01/05,
+, ali ,20,paris,,it,4000,,,50
+171.0,Youssef,twenty, paris ,FR,SALES,,,,40
+,Amina,twenty,Lyon,,it,??,,05/01/2023,60
+774.0, ali ,20, paris ,France,SALES,2000,,2023-01-05,
+228.0,Fatima,,lyon,FR,Finance,1800,user@gmail.com,not_a_date,20
+,  ali  ,??,Lyon,, Sales ,-100,user@gmail.com,2023-01-05,100
+66.0, ali ,twenty,,,HR,2000,,05/01/2023,50
+150.0, ali ,21,,FRA,Marketing,999999,invalid-email,,
+394.0,Youssef,22, paris ,FR,IT,4000,invalid-email,Jan 5 2023,10
+132.0, Mohamed ,27, paris ,FRA,Finance,4k,invalid-email,05/01/2023,
+781.0,Mohamed,28, marseille ,france,Sales,,,Jan 5 2023,20
+782.0, Sara ,29,lyon,FRA, IT ,,test@yahoo.com,,
+783.0,  ali  ,26,lyon,france,it,4000,,2023-01-05,90
+362.0,Nadia,26,marseille,,Sales,3000€,test@yahoo.com,2023-01-05,70
+,,twenty, LILLE ,France,,3500,contact@outlook.com,,50
+786.0, ali ,30,paris,FR,,3500,user@gmail.com,,80
+389.0, ali ,23,PARIS,,IT,4000,,05/01/2023,50
+356.0,  ,21,,,it,,user@gmail.com,,80
+789.0,Mohamed,20,Lyon,France,Finance,,invalid-email,2023-01-05,fifty
+, Youssef ,27,Lille,FRA,IT,1800,contact@outlook.com,2023-01-05,60
+,Ali,26, paris ,france,,,,,90
+, Amina ,23,paris,France,HR,,,2023-01-05,80
+,Ali,23,,france,IT,2200,,2023-01-05,50
+794.0,Nadia,29,PARIS,,Sales,2000,user@gmail.com,2023/01/05,100
+, Fatima ,21,Lyon,FRA,it,999999,,,70
+796.0, ali ,29,Lille,france,it,999999,test@yahoo.com,,10
+797.0,Lina,21,paris,FR,HR,999999,invalid-email,05/01/2023,N/A
+,Mohamed,27, Lyon ,, IT ,2200,user@gmail.com,,
+313.0,mohamed ,22,Paris,FRA,Sales,1800,user@gmail.com,05/01/2023,20
+,Amina,24,marseille,,,-100,test@yahoo.com,05/01/2023,30
+327.0, Omar ,27, marseille ,france, HR ,4k,,2023-01-05,100
+,Nadia,29,paris,,Marketing,3500,invalid-email,2023-01-05,90
+803.0,Sara,28,paris,,it,999999,,not_a_date,40
+, ali ,23, lyon ,France,Finance,2000,test@yahoo.com,,80
+805.0,Mohamed,30,Paris,France,it,3000,test@yahoo.com,2023/01/05,50
+, mohamed  ,twenty,LILLE,France,Sales,-100,user@gmail.com,not_a_date,30
+807.0,Nadia,28,paris,France, Finance ,-100,invalid-email,not_a_date,100
+166.0,Fatima,,,FR,Finance,999999,user@gmail.com,Jan 5 2023,40
+809.0,SARA,26,Lyon,FRA,Finance,2000,invalid-email,not_a_date,80
+27.0, Mohamed ,23,,FRA,HR,4000,contact@outlook.com,05/01/2023,80
+811.0, ali ,25,lyon,france, it ,2200,user@gmail.com,,100
+30.0,Mohamed,21, LILLE ,FRA,SALES,2200,contact@outlook.com,05/01/2023,50
+813.0,mohamed ,twenty,,,HR,4k,,,40
+44.0,,28,LILLE,france,,,contact@outlook.com,2023-01-05,N/A
+,,23,Lyon,FR,SALES,4k,test@yahoo.com,not_a_date,30
+,  ,20,marseille,France,IT,,,,90
+17.0,Omar,26,LILLE,,Sales,,invalid-email,05/01/2023,20
+818.0,SARA,,marseille,france,HR,3500,contact@outlook.com,05/01/2023,
+819.0,Nadia,30,lyon,france,,4k,,not_a_date,10
+499.0,Nadia,twenty,PARIS,,SALES,2200,contact@outlook.com,,80
+,Ali,??,,France,SALES,-100,contact@outlook.com,not_a_date,10
+151.0,mohamed ,24,,,Finance,999999,,2023-01-05,100
+450.0,SARA,20,Lille,,it,1800,user@gmail.com,2023/01/05,60
+,Ali,25,Marseille,france,,-100,user@gmail.com,not_a_date,N/A
+825.0,Mohamed,25,Lyon,, Sales ,??,invalid-email,,fifty
+, Fatima ,twenty,Lyon,FR,it,3000,,,70
+827.0,Sara,25,Marseille,FRA,,3000€,,,20
+,Omar,30,Lille,FR,,4k,contact@outlook.com,,
+,mohamed ,21,Lyon,FRA, Sales ,2000,invalid-email,05/01/2023,50
+830.0,Sara,22,lyon,France,HR,,test@yahoo.com,,40
+,Ali,24, marseille ,,,2200,invalid-email,Jan 5 2023,70
+, ali ,20,lyon,france, Sales ,1800,test@yahoo.com,,90
+330.0, Karim ,29,Marseille,,it,,,,N/A
+,Nadia,27,lyon,,HR,999999,contact@outlook.com,05/01/2023,fifty
+835.0,Nadia,25,lyon,France, HR ,3500,contact@outlook.com,2023/01/05,30
+836.0,SARA,28, lyon ,france,HR,-100,,,fifty
+837.0,Fatima,21,Paris,FR, HR ,,contact@outlook.com,Jan 5 2023,30
+, SARA ,20,,FR,it,2200,contact@outlook.com,2023/01/05,90
+839.0,Omar,24,paris,France,SALES,,test@yahoo.com,2023/01/05,60
+840.0, SARA ,28,Lille,FR,Marketing,,contact@outlook.com,,100
+841.0, mohamed  ,29,LILLE,FR,Sales,-100,invalid-email,2023-01-05,30
+,Sara,24,Paris,FRA, Finance ,,contact@outlook.com,2023-01-05,60
+, ali ,23,,,Finance,999999,contact@outlook.com,05/01/2023,10
+,,27,,, Sales ,3000€,invalid-email,05/01/2023,80
+,Amina,28,Paris,,it,4000,test@yahoo.com,,70
+189.0,Lina,20,lyon,FR,it,3000,invalid-email,,90
+847.0, SARA ,27,marseille,FRA,Marketing,2200,,2023/01/05,N/A
+458.0,Mohamed,??,,,Sales,2200,test@yahoo.com,Jan 5 2023,80
+, Lina ,21,  ,FRA,Sales,1800,invalid-email,,50
+850.0,Omar,27,,france, Finance ,2200,invalid-email,Jan 5 2023,90
+851.0,,??,lyon,,Marketing,,,,80
+852.0, mohamed  ,20, PARIS ,FR,Marketing,??,,2023/01/05,20
+,,24,marseille,france,,-100,,05/01/2023,10
+61.0,Nadia,21,,,it,4k,invalid-email,not_a_date,70
+444.0, ali ,30,LILLE,,Sales,3500,,,100
+8.0,Mohamed,29,Paris,france,it,,,05/01/2023,60
+857.0,Youssef,25, marseille ,,it,1800,contact@outlook.com,Jan 5 2023,90
+858.0, Omar ,23,,france, Sales ,4k,test@yahoo.com,not_a_date,60
+446.0,,??,,FR,Marketing,??,,,60
+, Amina ,25,PARIS,France,HR,3000€,contact@outlook.com,Jan 5 2023,fifty
+248.0, Lina ,22,paris,france, HR ,3000€,test@yahoo.com,,40
+, Amina ,,Lille,,,-100,user@gmail.com,2023/01/05,80
+863.0, Sara ,??,PARIS,France,,3500,contact@outlook.com,,60
+71.0,,29,Lille,FR,HR,-100,contact@outlook.com,2023-01-05,N/A
+865.0, Fatima ,22,PARIS,,Finance,3000,test@yahoo.com,05/01/2023,30
+40.0,SARA,twenty, paris ,France,IT,999999,invalid-email,,70
+867.0, Sara ,20,,,IT,,user@gmail.com,Jan 5 2023,10
+33.0, ali ,20,paris,France,Finance,4k,test@yahoo.com,05/01/2023,
+869.0,Sara,22, lyon ,,it,3500,test@yahoo.com,,90
+, Amina ,23,Lille,,Sales,2000,,,10
+871.0,SARA,23,lyon,france,,1800,,2023-01-05,40
+,,,LILLE,FR,HR,,,2023-01-05,30
+427.0,Karim,26,Lyon,, Finance ,4000,user@gmail.com,,60
+63.0,Sara,28,PARIS,FRA, it ,-100,contact@outlook.com,not_a_date,N/A
+875.0,Lina,27,paris,FRA, Marketing ,,,,50
+351.0,Fatima,28,marseille,FR,SALES,2500,user@gmail.com,,fifty
+,Lina,22,Paris,,,??,user@gmail.com,2023/01/05,80
+,  ali  ,21,paris,france,SALES,4000,,not_a_date,20
+879.0,Sara,25, Lyon ,FR,Finance,4k,invalid-email,2023-01-05,40
+429.0,SARA,27,lyon,,Marketing,999999,,2023/01/05,60
+,Amina,26,LILLE,, Marketing ,2200,invalid-email,2023-01-05,20
+128.0, Nadia ,23,,france,IT,2000,,2023-01-05,20
+,Ali,22,marseille,,it,2200,contact@outlook.com,not_a_date,100
+884.0, ali ,twenty,Lille,FRA,,2500,contact@outlook.com,,80
+,Youssef,28,Marseille,,,1800,user@gmail.com,2023/01/05,20
+196.0, Lina ,??,marseille,FRA,,1800,user@gmail.com,05/01/2023,90
+337.0,,, PARIS ,FRA,SALES,2200,contact@outlook.com,,70
+888.0,Amina,30,LILLE,,,??,,not_a_date,80
+,,22,Lille,France,SALES,3000,invalid-email,not_a_date,70
+, Lina ,twenty,lyon,FR, IT ,1800,,2023-01-05,30
+428.0,Lina,twenty,  ,France,it,4000,user@gmail.com,2023/01/05,60
+182.0, Lina ,20,,france, Finance ,2500,,Jan 5 2023,100
+,Sara,??,lyon,France,it,2200,user@gmail.com,not_a_date,60
+19.0, ali ,??,marseille,,  ,4000,contact@outlook.com,2023-01-05,N/A
+, Ali ,25,marseille,,SALES,3500,,2023-01-05,fifty
+896.0,SARA,30,Lyon,FR,,3000€,,Jan 5 2023,30
+314.0,Lina,26, Lyon ,FRA,Sales,3000€,test@yahoo.com,Jan 5 2023,50
+24.0,Amina,26,Lyon,,Sales,-100,,2023-01-05,100
+172.0,Sara,29,Lille,FRA,SALES,2500,contact@outlook.com,,20
+333.0,Omar,twenty, lyon ,FRA,  ,3500,test@yahoo.com,2023/01/05,70
+,Omar,27,,, HR ,1800,,,90
+902.0,Amina,27,Lyon,,,3000,,not_a_date,fifty
+314.0,,29,,France,  ,2500,contact@outlook.com,2023/01/05,30
+904.0,SARA,30,lyon,FRA,SALES,3500,user@gmail.com,,40
+433.0,Youssef,??,lyon,, HR ,3000,,not_a_date,40
+906.0,Sara,22, Lyon ,France,Finance,999999,contact@outlook.com,2023/01/05,80
+286.0,Karim,30,Paris,france,HR,3000,test@yahoo.com,2023-01-05,50
+404.0, ali ,28,PARIS,,IT,-100,invalid-email,,10
+909.0,Lina,29,lyon,France, SALES ,3500,,,20
+,,22,Lyon,France,  ,2000,,,100
+,Youssef,27, paris ,france,Sales,999999,contact@outlook.com,Jan 5 2023,100
+377.0,mohamed ,,Lyon,FRA, Finance ,2200,user@gmail.com,05/01/2023,40
+496.0,Nadia,26,lyon,, IT ,,,Jan 5 2023,N/A
+914.0,Lina,28, marseille ,FRA,Finance,3000,test@yahoo.com,Jan 5 2023,80
+366.0,,24,Paris,,IT,-100,,,10
+, Fatima ,24, Lille ,FRA,Marketing,??,,Jan 5 2023,fifty
+917.0,Omar,??,Lyon,FRA,SALES,1800,invalid-email,Jan 5 2023,50
+918.0,Youssef,23,PARIS,FRA,it,999999,,2023/01/05,fifty
+17.0,,21,LILLE,FRA,SALES,3500,,2023/01/05,20
+920.0,SARA,24,Lille,France, it ,4000,,,90
+377.0,Nadia,,Paris,France,HR,??,invalid-email,,
+922.0,Karim,23,,FR,it,4k,user@gmail.com,2023-01-05,30
+,SARA,twenty,,france,SALES,999999,contact@outlook.com,2023/01/05,80
+,Mohamed,24,PARIS,, it ,999999,contact@outlook.com,05/01/2023,20
+212.0, Mohamed ,26,marseille,,Finance,1800,user@gmail.com,not_a_date,
+,Fatima,21,LILLE,france,Marketing,-100,test@yahoo.com,2023-01-05,70
+316.0,Amina,24,PARIS,France,it,2200,,2023-01-05,10
+,Karim,twenty,LILLE,,,2000,test@yahoo.com,,40
+97.0,Youssef,,LILLE,FRA,HR,4000,test@yahoo.com,not_a_date,40
+421.0,SARA,30,Lyon,FRA,HR,4000,test@yahoo.com,2023-01-05,50
+499.0,Fatima,29,LILLE,france, it ,4k,,,80
+932.0,Nadia,22,Marseille,,SALES,??,test@yahoo.com,,70
+362.0, SARA ,29,lyon,France,Sales,3000€,user@gmail.com,2023-01-05,60
+934.0,Nadia,25,,,IT,1800,contact@outlook.com,not_a_date,100
+195.0,Karim,30,Marseille,france,,1800,,05/01/2023,50
+, Nadia ,25,LILLE,france,Sales,3500,,not_a_date,70
+72.0,Sara,25, Paris ,france,,3000,,Jan 5 2023,70
+144.0,Amina,??,lyon,,it,4000,test@yahoo.com,Jan 5 2023,N/A
+939.0,Omar,??,,,,1800,test@yahoo.com,05/01/2023,10
+940.0,Ali,27,lyon,france,,4000,user@gmail.com,2023/01/05,10
+226.0,SARA,28,LILLE,FRA,,2000,,,30
+63.0,Sara,23, lyon ,france,HR,-100,,,50
+,Amina,23,,France,,999999,,05/01/2023,70
+944.0, Fatima ,twenty,LILLE,,Sales,3500,user@gmail.com,Jan 5 2023,
+945.0,Karim,25,,France,it,2200,user@gmail.com,2023-01-05,80
+, ali ,27,LILLE,,Marketing,4k,,2023-01-05,60
+947.0, ali ,29,LILLE,FR,HR,2500,user@gmail.com,,
+144.0,mohamed ,20,paris,,SALES,2000,invalid-email,Jan 5 2023,30
+122.0,Sara,20,Lyon,france, SALES ,999999,invalid-email,Jan 5 2023,
+,Mohamed,21,lyon,FRA,SALES,-100,contact@outlook.com,,100
+67.0,  ali  ,21, Marseille ,,Finance,,invalid-email,2023/01/05,80
+,Amina,26,paris,FRA,it,4k,test@yahoo.com,2023/01/05,
+953.0,Ali,28,Marseille,FRA,Finance,??,,,30
+476.0,Omar,30,,,Sales,3000,invalid-email,2023/01/05,20
+464.0,Youssef,22,PARIS,,Marketing,2500,,2023/01/05,50
+956.0, Omar ,21,Paris,,Sales,3000€,invalid-email,2023/01/05,20
+,SARA,29,lyon,FR, Marketing ,4k,user@gmail.com,,90
+958.0,SARA,30, LILLE ,france,HR,4000,user@gmail.com,2023-01-05,70
+,Youssef,25,,,,999999,,2023/01/05,100
+413.0,Lina,??,PARIS,france,HR,2000,,not_a_date,50
+,Sara,26,Lille,France, IT ,4000,user@gmail.com,2023-01-05,30
+335.0,Nadia,,marseille,,,3000,,,100
+, ali ,,,FRA,Marketing,2000,test@yahoo.com,05/01/2023,10
+964.0,,20,Lyon,France,Finance,,,05/01/2023,
+123.0,,30,Lille,france,Sales,3000,invalid-email,05/01/2023,80
+966.0,Sara,22, PARIS ,,,,invalid-email,2023-01-05,80
+967.0,Fatima,24,  ,FRA,IT,3500,user@gmail.com,2023-01-05,
+,Karim,26,LILLE,,,3000,user@gmail.com,2023/01/05,70
+,Amina,,,,,2500,,2023-01-05,90
+9.0,Amina,25,Lille,France,Marketing,??,invalid-email,2023/01/05,20
+, ali ,25,LILLE,, SALES ,1800,test@yahoo.com,Jan 5 2023,N/A
+98.0,Lina,27, Lyon ,,Finance,4k,,Jan 5 2023,100
+, ali ,27,PARIS,FR,SALES,4000,,,N/A
+184.0,mohamed ,??, PARIS ,, Finance ,3000,,,20
+341.0,Mohamed,22,Lyon,france,,2000,invalid-email,2023/01/05,50
+976.0,Omar,20,Paris,FR,Marketing,3500,,05/01/2023,30
+, Ali ,twenty,paris,FR,SALES,2000,,05/01/2023,20
+978.0,Nadia,24,Marseille,FR, IT ,999999,,Jan 5 2023,30
+,,28,  ,,Sales,-100,user@gmail.com,2023/01/05,fifty
+980.0, Sara ,twenty,,,Sales,3000€,user@gmail.com,not_a_date,20
+,Sara,??,Lyon,FR, HR ,-100,contact@outlook.com,,80
+,Nadia,, paris ,france,it,3500,test@yahoo.com,2023-01-05,40
+224.0,mohamed ,twenty,Paris,france,,3500,contact@outlook.com,not_a_date,30
+43.0, Lina ,, marseille ,FR,Finance,2200,,2023/01/05,fifty
+985.0,mohamed ,26,marseille,FRA,,3000€,,Jan 5 2023,10
+986.0,mohamed ,20,Lille,France,Sales,3500,contact@outlook.com,2023/01/05,fifty
+84.0,Ali,26,Paris,,HR,4k,user@gmail.com,,N/A
+,,28,lyon,FRA, SALES ,??,,not_a_date,50
+,Lina,25,Paris,FR,,4k,test@yahoo.com,,70
+,Fatima,28,,,,-100,contact@outlook.com,,fifty
+332.0,mohamed ,23,lyon,France, IT ,3000€,contact@outlook.com,2023/01/05,N/A
+,,22,Lille,, Marketing ,2500,user@gmail.com,not_a_date,90
+,Lina,twenty,,france,IT,1800,,not_a_date,50
+123.0,SARA,26,Lille,France,IT,3500,contact@outlook.com,,90
+995.0, Ali ,twenty,,France,,3000,,,10
+232.0,Fatima,twenty,,,,4k,test@yahoo.com,Jan 5 2023,50
+,mohamed ,??,  ,,HR,-100,invalid-email,not_a_date,N/A
+998.0,Lina,28,,france,it,,user@gmail.com,05/01/2023,N/A
+217.0,Sara,21,Paris,FRA,HR,,test@yahoo.com,2023/01/05,20
+,Omar,26,,,,999999,invalid-email,,50
+299.0, ali ,26, LILLE ,,,-100,invalid-email,,30
+, Mohamed ,27,LILLE,france,  ,3000€,user@gmail.com,,40
+233.0,Ali,,PARIS,,it,2000,,,70
+1004.0, Lina ,29,lyon,France,  ,2200,user@gmail.com,Jan 5 2023,50
+191.0,Youssef,27,Paris,france,HR,999999,,2023/01/05,10
+479.0,,24,Lyon,france,,1800,user@gmail.com,not_a_date,60
+1007.0,Karim,27,,FR,,3500,invalid-email,2023/01/05,N/A
+, Mohamed ,twenty,PARIS,,,999999,invalid-email,,80
+, Lina ,21,,, SALES ,4000,test@yahoo.com,2023/01/05,60
+1010.0,  ali  ,27,lyon,,Sales,2200,,2023-01-05,100
+,Youssef,28,,France,,2000,test@yahoo.com,not_a_date,90
+1012.0, Amina ,28,Lyon,FRA,,1800,user@gmail.com,,90
+1013.0,Youssef,twenty,Lyon,france,,2000,,not_a_date,60
+, Ali ,27,Paris,FR,SALES,2200,invalid-email,2023-01-05,90
+162.0, Youssef ,21,paris,France,,2200,contact@outlook.com,05/01/2023,30
+1016.0,Mohamed,24,marseille,,HR,1800,,Jan 5 2023,30
+,Ali,24, marseille ,France,it,2200,invalid-email,Jan 5 2023,50
+1018.0,Ali,23,Lyon,,Finance,,,,90
+1019.0,Youssef,20,Marseille,FRA,  ,4000,user@gmail.com,2023/01/05,10
+, Fatima ,20,lyon,,Sales,2500,,,fifty
+64.0,Amina,26,LILLE,France,,2500,test@yahoo.com,Jan 5 2023,90
+1022.0,Omar,26,Lille,FRA,IT,1800,invalid-email,,100
+,Mohamed,20,Paris,FRA,Marketing,4k,contact@outlook.com,,
+194.0,,30,Lyon,,,3000,user@gmail.com,05/01/2023,N/A
+,Sara,24,paris,FRA,Sales,2200,,not_a_date,50
+449.0,Fatima,29,Lille,FR,it,??,contact@outlook.com,,N/A
+231.0,Fatima,30, Marseille ,FR, Finance ,,,Jan 5 2023,10
+,Mohamed,30, Paris ,,,1800,user@gmail.com,,30
+,,,LILLE,FRA,,2000,,,20
+1030.0,  ,??,,FRA,Sales,3500,invalid-email,,100
+183.0,Mohamed,??,Paris,France,,3500,test@yahoo.com,2023/01/05,10
+,Ali,twenty, lyon ,,it,2500,user@gmail.com,,100
+320.0, mohamed  ,, Lyon ,france,,3500,user@gmail.com,Jan 5 2023,80
+, SARA ,29,Lyon,France,Finance,??,invalid-email,2023-01-05,50
+,Nadia,22,Lille,france,HR,2000,,05/01/2023,N/A
+1036.0,Youssef,29,Lyon,,Marketing,2500,,2023-01-05,N/A
+,Amina,24,,,,1800,invalid-email,,
+,Ali,??,Marseille,FRA,SALES,3000,user@gmail.com,,90
+238.0,Lina,28,Paris,,Finance,1800,contact@outlook.com,2023/01/05,90
+229.0, Ali ,26,Lyon,FR,Sales,4k,user@gmail.com,,40
+,Karim,21,Lyon,france,HR,3500,contact@outlook.com,2023-01-05,
+1042.0,Ali,27, marseille ,France,it,3000,test@yahoo.com,2023-01-05,80
+122.0,,20,Marseille,, Finance ,2000,,not_a_date,80
+1044.0, ali ,27,  ,France,Sales,1800,user@gmail.com,2023/01/05,60
+,Sara,twenty,PARIS,France,,1800,contact@outlook.com,not_a_date,
+1046.0, Sara ,30,Paris,,IT,3000,invalid-email,2023/01/05,20
+316.0,Fatima,??,,,IT,,invalid-email,2023/01/05,fifty
+, Amina ,21,Marseille,, IT ,,,Jan 5 2023,100
+1049.0, Sara ,20,,,Sales,4k,test@yahoo.com,not_a_date,30
+,Youssef,25,marseille,FRA,,2200,test@yahoo.com,05/01/2023,fifty
+1051.0,Mohamed,24,,FRA,,??,contact@outlook.com,Jan 5 2023,100
+, mohamed  ,22,PARIS,FRA,Marketing,4k,contact@outlook.com,Jan 5 2023,60
+1053.0,Omar,29,,,HR,1800,test@yahoo.com,not_a_date,90
+1054.0,Karim,25, Lyon ,france,Finance,999999,user@gmail.com,Jan 5 2023,40
+341.0,SARA,,LILLE,,it,4k,,Jan 5 2023,100
+153.0,Lina,22, paris ,FRA,IT,,test@yahoo.com,2023-01-05,
+,Fatima,27,,france,Finance,,,,60
+,Karim,23,marseille,france, IT ,3500,user@gmail.com,2023-01-05,60
+,Sara,22,lyon,FRA,Finance,??,,,60
+1060.0,Fatima,23,lyon,france,Finance,3000,,05/01/2023,60
+,Fatima,22,Lyon,France, HR ,3000,user@gmail.com,2023-01-05,
+70.0, ali ,twenty,paris,FR, Finance ,3000,invalid-email,05/01/2023,60
+414.0, ali ,22, Lille ,,SALES,-100,user@gmail.com,2023-01-05,30
+1064.0,mohamed ,23,Lyon,, SALES ,-100,contact@outlook.com,Jan 5 2023,100
+, Fatima ,20,  ,,Finance,3000€,contact@outlook.com,,30
+1066.0,Ali,30,lyon,france,  ,4k,invalid-email,05/01/2023,N/A
+41.0,mohamed ,30,,France,HR,3000€,invalid-email,,
+,Lina,27,Lille,FRA, HR ,3500,,Jan 5 2023,90
+355.0,SARA,27,LILLE,FR, SALES ,??,,,10
+1070.0,,23,LILLE,france,SALES,2500,contact@outlook.com,2023/01/05,70
+1071.0,,??,Marseille,FR,,2000,test@yahoo.com,,20
+151.0,Omar,25, Lyon ,,IT,,,not_a_date,60
+218.0, Nadia ,26,marseille,FR,,3500,contact@outlook.com,2023/01/05,10
+91.0,Fatima,24,,France,it,2000,contact@outlook.com,,90
+,  ali  ,21,lyon,france, Sales ,2000,user@gmail.com,Jan 5 2023,10
+1076.0, Lina ,23,,FR,Marketing,3000,,,fifty
+349.0,Fatima,,,france,,3000,user@gmail.com,,50
+144.0,mohamed ,26,marseille,,IT,,,not_a_date,fifty
+1079.0,,26,Lyon,france, Finance ,,test@yahoo.com,not_a_date,100
+,mohamed ,27,LILLE,FR, Sales ,3500,test@yahoo.com,2023/01/05,fifty
+,Karim,23,LILLE,FRA,,1800,contact@outlook.com,05/01/2023,100
+1082.0,Youssef,, Paris ,FRA, it ,3500,test@yahoo.com,2023/01/05,70
+351.0, mohamed  ,twenty,Lille,FR,it,4k,user@gmail.com,not_a_date,fifty
+1084.0, Mohamed ,25,,,SALES,4000,test@yahoo.com,2023/01/05,20
+273.0,Fatima,27,paris,FR,,??,contact@outlook.com,2023-01-05,30
+,Omar,22, Paris ,,,1800,test@yahoo.com,05/01/2023,20
+466.0,Youssef,23,Lyon,FR,,2000,invalid-email,2023-01-05,60
+1088.0,Mohamed,25,marseille,FRA,HR,2000,test@yahoo.com,not_a_date,70
+,Sara,26,Lyon,france,Finance,3000,invalid-email,,N/A
+340.0,Mohamed,29,,FR,Finance,3000€,,,80
+1091.0,Ali,22,LILLE,France, SALES ,4k,test@yahoo.com,not_a_date,60
+,,27, LILLE ,FRA,IT,-100,user@gmail.com,Jan 5 2023,
+451.0, Lina ,,lyon,FRA,HR,4000,test@yahoo.com,05/01/2023,100
+375.0,Nadia,26,,france,Sales,4000,,2023-01-05,40
+1095.0, Youssef ,30, Lille ,FR,Sales,-100,,,40
+465.0,Karim,twenty,Lille,France, it ,2000,user@gmail.com,not_a_date,fifty
+399.0, Karim ,27,PARIS,FR,Finance,3000€,user@gmail.com,2023/01/05,10
+,SARA,30,LILLE,FRA, it ,-100,invalid-email,,40
+1099.0,Ali,24,paris,,HR,3500,,,80
+248.0,Sara,21,Lille,, Finance ,-100,invalid-email,05/01/2023,80
+420.0,,22, PARIS ,France,Sales,2200,contact@outlook.com,2023-01-05,90
+379.0,Mohamed,21,,France,Marketing,2200,invalid-email,Jan 5 2023,30
+, Ali ,30,Lille,france,,-100,user@gmail.com,,
+, ali ,30,,France,SALES,-100,contact@outlook.com,2023/01/05,10
+1105.0, Ali ,twenty,marseille,france,Finance,3500,test@yahoo.com,05/01/2023,20
+8.0,Ali,20,Marseille,france,Sales,2500,user@gmail.com,,
+,Mohamed,20,marseille,,Sales,3500,contact@outlook.com,not_a_date,
+,Fatima,28, marseille ,FRA,Sales,2500,test@yahoo.com,2023-01-05,60
+1109.0,Ali,26,,FR,IT,4000,test@yahoo.com,2023/01/05,40
+,,24,,,it,1800,user@gmail.com,05/01/2023,70
+,Nadia,21,Lille,,HR,3000,user@gmail.com,not_a_date,60
+, Karim ,30,PARIS,FR,HR,??,,Jan 5 2023,
+1113.0,Lina,20,,,,4000,,,N/A
+,Amina,,Paris,france,IT,4k,user@gmail.com,Jan 5 2023,40
+377.0,mohamed ,23,,France,IT,2200,contact@outlook.com,2023/01/05,50
+1116.0, Karim ,23,,France,Finance,-100,,2023/01/05,N/A
+449.0,Mohamed,24, Marseille ,,IT,3000€,invalid-email,,50
+1118.0,Fatima,??,Marseille,FR,Finance,2500,,2023-01-05,
+,SARA,,Lyon,,SALES,3000€,contact@outlook.com,05/01/2023,80
+1120.0, Sara ,??,LILLE,France, Finance ,1800,,05/01/2023,40
+1121.0,Mohamed,29,Lille,france,Finance,3000€,user@gmail.com,2023/01/05,N/A
+239.0,Mohamed,,Lyon,france, SALES ,2200,,05/01/2023,50
+,Nadia,30,Lyon,FR,,2000,contact@outlook.com,2023/01/05,70
+85.0,Nadia,26,Lille,,SALES,999999,test@yahoo.com,,fifty
+1125.0,mohamed ,26,marseille,France,Marketing,4k,,05/01/2023,90
+1126.0,Youssef,26,LILLE,FR,,3000,invalid-email,not_a_date,100
+1127.0,Lina,22,LILLE,france,HR,2500,user@gmail.com,2023-01-05,90
+,Lina,27, marseille ,FRA,SALES,-100,contact@outlook.com,2023/01/05,80
+,Amina,21, marseille ,France,Sales,4000,,05/01/2023,40
+390.0,Youssef,twenty,Marseille,,,??,,Jan 5 2023,N/A
+,Karim,26, Lyon ,france,,1800,contact@outlook.com,,N/A
+1132.0,SARA,30,,france,Marketing,4k,invalid-email,,30
+1133.0,Amina,29,,france,IT,2000,user@gmail.com,,N/A
+469.0,Karim,,,France,  ,2500,invalid-email,05/01/2023,70
+,Youssef,28, Lille ,,SALES,4k,contact@outlook.com,,70
+,,21,paris,,it,2200,contact@outlook.com,,40
+,Karim,,lyon,France,HR,,user@gmail.com,2023-01-05,20
+,Karim,28,marseille,, Marketing ,-100,invalid-email,05/01/2023,30
+1139.0,SARA,22,Lyon,FRA,HR,3000€,user@gmail.com,2023/01/05,100
+1140.0, Mohamed ,23,Paris,,HR,999999,test@yahoo.com,Jan 5 2023,70
+,,29,paris,,HR,2000,contact@outlook.com,2023-01-05,70
+63.0,Sara,25, Paris ,,Finance,,invalid-email,,fifty
+1143.0,Ali,24,Paris,,IT,2000,test@yahoo.com,not_a_date,fifty
+3.0,Amina,28,lyon,FRA,,999999,contact@outlook.com,not_a_date,70
+172.0, ali ,25,Marseille,france,it,??,invalid-email,2023/01/05,100
+29.0,,25,paris,France,,-100,invalid-email,,30
+, Sara ,??, Lille ,FR,Finance,3500,invalid-email,not_a_date,
+337.0,Omar,26,,france, IT ,??,contact@outlook.com,2023-01-05,
+1149.0, mohamed  ,,Marseille,,,2500,,2023/01/05,70
+,mohamed ,21,Marseille,FRA,,??,,2023-01-05,N/A
+197.0,Amina,23,PARIS,,,1800,test@yahoo.com,2023/01/05,fifty
+44.0,,30,Lille,FRA,HR,,user@gmail.com,2023/01/05,
+1153.0,Fatima,23,PARIS,,Sales,2000,invalid-email,,10
+82.0,,26, lyon ,france,Marketing,??,invalid-email,,20
+1155.0,,28,,,,2000,,Jan 5 2023,40
+, mohamed  ,29,paris,,it,4000,,,N/A
+371.0, ali ,30,Lille,FRA,Finance,2500,contact@outlook.com,2023-01-05,50
+1158.0,Sara,25,,france,Sales,4k,contact@outlook.com,05/01/2023,60
+488.0, Amina ,,Paris,FR, IT ,4k,,05/01/2023,70
+216.0,mohamed ,25,,france,  ,??,,not_a_date,40
+54.0,Ali,28,LILLE,FR,HR,3000,test@yahoo.com,2023/01/05,
+1162.0,Amina,24, PARIS ,,IT,4k,contact@outlook.com,Jan 5 2023,90
+1163.0,Youssef,??,,FRA,Finance,,contact@outlook.com,,70
+30.0,Mohamed,??, Lyon ,, Finance ,-100,,2023-01-05,fifty
+91.0,SARA,26,lyon,,HR,1800,,2023/01/05,60
+,Nadia,25,marseille,FRA,Sales,3000€,,Jan 5 2023,50
+1167.0,SARA,??,Lille,FRA,Sales,2200,contact@outlook.com,,fifty
+1168.0,,,lyon,FRA, HR ,4k,test@yahoo.com,2023/01/05,N/A
+247.0,,22,Lyon,france,Finance,-100,,2023-01-05,60
+, Sara ,30,PARIS,FRA, SALES ,??,test@yahoo.com,2023-01-05,20
+182.0, Mohamed ,20,paris,,it,4k,invalid-email,05/01/2023,
+369.0,Fatima,20, paris ,france,SALES,,contact@outlook.com,,100
+1173.0,  ali  ,,marseille,,Sales,999999,invalid-email,,
+195.0, ali ,30,LILLE,FR, IT ,2000,user@gmail.com,2023-01-05,20
+, ali ,28, Lyon ,France,,3000,,,20
+, Mohamed ,26,LILLE,,SALES,3000,,05/01/2023,20
+1177.0,SARA,??, Lille ,france,SALES,-100,user@gmail.com,2023/01/05,90
+,mohamed ,twenty,Lille,FRA,Sales,3000€,,not_a_date,N/A
+,Sara,twenty,Lyon,,Sales,2200,,,30
+,Nadia,twenty,Marseille,France,IT,2200,,05/01/2023,
+1181.0, Omar ,24, Paris ,France,Sales,3000€,contact@outlook.com,Jan 5 2023,90
+87.0, ali ,20,Lyon,FR,IT,3000€,contact@outlook.com,,90
+1183.0,Amina,27,Marseille,,it,4k,,not_a_date,40
+1184.0,  ali  ,??,Paris,france,IT,2500,test@yahoo.com,Jan 5 2023,40
+1185.0,Amina,28, Lyon ,,it,3000,test@yahoo.com,,100
+1186.0,Omar,24, lyon ,FRA, HR ,4000,invalid-email,2023-01-05,50
+346.0,SARA,22,Lille,france,Sales,??,,Jan 5 2023,
+,Fatima,,Marseille,,,4k,test@yahoo.com,2023/01/05,30
+161.0,Karim,20,,france,Sales,3000,user@gmail.com,not_a_date,20
+, Karim ,21,Marseille,, Sales ,3500,contact@outlook.com,,50
+1191.0, Youssef ,20,paris,FRA,Finance,4000,user@gmail.com,,20
+,SARA,24,,FRA,Sales,3000€,contact@outlook.com,,100
+443.0,Omar,24,,France, IT ,2200,contact@outlook.com,,70
+92.0, mohamed  ,,,,,4k,invalid-email,2023/01/05,100
+65.0, Ali ,30,Lille,,HR,??,test@yahoo.com,05/01/2023,70
+,Youssef,20,,FR,Finance,??,,2023/01/05,N/A
+1197.0,Nadia,25,LILLE,,Marketing,3000,invalid-email,not_a_date,N/A
+1198.0,Youssef,30, paris ,FR,SALES,999999,contact@outlook.com,,20
+1199.0, Sara ,,Lyon,France,HR,4k,user@gmail.com,2023-01-05,N/A
+,,27,Paris,FRA,,-100,test@yahoo.com,2023/01/05,80
+, ali ,28,paris,FRA,IT,4k,test@yahoo.com,,N/A
+,Karim,,Lille,, it ,2500,,,90
+, Ali ,29,LILLE,france,  ,2500,test@yahoo.com,2023-01-05,60
+1204.0,Omar,25,Paris,FRA,,4000,test@yahoo.com,Jan 5 2023,20
+,Fatima,??,Lille,France,Marketing,3000,invalid-email,Jan 5 2023,50
+1206.0,SARA,30,,FRA,Finance,3000,,not_a_date,10
+478.0,,29, LILLE ,France,it,1800,,2023/01/05,60
+152.0, Sara ,20,Marseille,, HR ,4000,contact@outlook.com,2023-01-05,20
+220.0, Fatima ,21,Lille,,HR,4000,user@gmail.com,2023/01/05,10
+, Youssef ,23, LILLE ,FRA,it,3000,contact@outlook.com,2023/01/05,30
+274.0,Sara,27,,FRA,HR,2200,contact@outlook.com,,70
+2.0,,??,Lyon,France,Finance,3000,user@gmail.com,05/01/2023,70
+, Lina ,20,PARIS,,Finance,,,Jan 5 2023,20
+215.0,Omar,27,,,HR,3500,invalid-email,not_a_date,N/A
+,,??,marseille,france,Sales,2000,user@gmail.com,05/01/2023,30
+,Ali,twenty,,france,IT,??,contact@outlook.com,2023/01/05,100
+1217.0,Karim,27,lyon,FR,,2000,invalid-email,05/01/2023,100
+,Omar,22,Lyon,FR,Sales,3000,,05/01/2023,
+420.0,Fatima,27,paris,,,4k,test@yahoo.com,05/01/2023,100
+, Mohamed ,23,paris,france,SALES,1800,contact@outlook.com,05/01/2023,30
+1221.0,Amina,23,paris,France, SALES ,4000,,Jan 5 2023,N/A
+1222.0,Fatima,25,marseille,FRA,IT,3000€,invalid-email,,10
+1223.0, Youssef ,25,lyon,FR,SALES,2500,contact@outlook.com,2023-01-05,30
+1224.0,Ali,30,Marseille,france,Marketing,,contact@outlook.com,not_a_date,20
+1225.0, Youssef ,27, Marseille ,FR, Marketing ,2000,user@gmail.com,,10
+,mohamed ,??,PARIS,FR,it,-100,contact@outlook.com,,fifty
+,Amina,25,Lyon,, Marketing ,2500,,2023/01/05,20
+1228.0,Mohamed,30,,France,IT,4k,,,40
+,Nadia,21,paris,, it ,3000,,2023/01/05,fifty
+,SARA,22,Paris,france,Finance,4000,,,50
+,Lina,25,LILLE,, Sales ,4000,user@gmail.com,2023/01/05,70
+,mohamed ,20,PARIS,,Marketing,-100,test@yahoo.com,Jan 5 2023,10
+,Ali,twenty,Lyon,, SALES ,,,not_a_date,90
+1234.0,Mohamed,27, Lille ,FRA,,999999,invalid-email,2023/01/05,100
+1235.0,Mohamed,20,PARIS,,Finance,4k,,2023-01-05,fifty
+262.0, Omar ,,Lille,FR,Marketing,2500,contact@outlook.com,,50
+1237.0,Mohamed,23,Paris,, Finance ,3000,user@gmail.com,,30
+482.0,,22,lyon,France,Finance,2500,,2023-01-05,10
+332.0, ali ,29,Marseille,FR,Sales,-100,,Jan 5 2023,N/A
+68.0,,29, lyon ,FR,IT,??,user@gmail.com,,60
+,Youssef,22,lyon,France,,??,,2023-01-05,N/A
+,Karim,30,lyon,,  ,2500,invalid-email,05/01/2023,60
+1243.0,Amina,30,marseille,france,,2500,,,70
+1244.0,,27,paris,FRA,HR,,test@yahoo.com,,30
+,Nadia,,PARIS,,Marketing,1800,contact@outlook.com,05/01/2023,30
+418.0, ali ,29,Lyon,France,HR,2000,invalid-email,05/01/2023,80
+,Karim,21,Lille,france,IT,4k,user@gmail.com,2023/01/05,70
+1248.0,,20,,France,HR,2500,user@gmail.com,Jan 5 2023,30
+,Amina,20,Paris,France,,-100,contact@outlook.com,,N/A
+1250.0,Mohamed,27,,FRA,HR,3000,contact@outlook.com,2023/01/05,30
+1251.0, Omar ,,lyon,,,2000,user@gmail.com,,10
+,Youssef,21,Lille,FRA,HR,1800,test@yahoo.com,2023-01-05,40
+218.0, Mohamed ,25,,FR,Finance,??,invalid-email,,N/A
+1254.0,Nadia,22,paris,france,Sales,3000,contact@outlook.com,2023-01-05,100
+1255.0,Lina,21,Paris,,HR,2200,invalid-email,not_a_date,60
+1256.0,  ali  ,26,PARIS,, Marketing ,4k,contact@outlook.com,Jan 5 2023,20
+138.0,  ali  ,25,lyon,,Sales,999999,user@gmail.com,,30
+,Mohamed,25,PARIS,FRA,,-100,invalid-email,,20
+,Karim,,lyon,france,Sales,3500,test@yahoo.com,05/01/2023,fifty
+197.0, Lina ,27,marseille,FRA,SALES,4k,,Jan 5 2023,30
+,  ,23,marseille,FRA,,,,not_a_date,80
+,,23,marseille,France,SALES,3000€,,,N/A
+,Fatima,, paris ,france,it,1800,test@yahoo.com,,10
+, Nadia ,22, paris ,France,it,3500,test@yahoo.com,Jan 5 2023,80
+,,26,Lyon,france,Finance,1800,,05/01/2023,20
+,SARA,22,marseille,,IT,-100,invalid-email,Jan 5 2023,10
+1267.0,  ali  ,29,paris,FRA,HR,1800,test@yahoo.com,Jan 5 2023,30
+1268.0,Sara,20,,FRA,HR,999999,test@yahoo.com,2023/01/05,N/A
+, Omar ,,lyon,FRA, SALES ,-100,contact@outlook.com,2023/01/05,fifty
+, Ali ,24,paris,france,IT,??,user@gmail.com,not_a_date,fifty
+,Mohamed,20,marseille,FRA,,3000€,,,50
+,Omar,24,Lyon,FRA,HR,3000,user@gmail.com,not_a_date,70
+1273.0,SARA,23,marseille,,IT,2500,invalid-email,05/01/2023,N/A
+,Amina,??,paris,,,,contact@outlook.com,,
+207.0, Mohamed ,20,Marseille,,SALES,2500,contact@outlook.com,2023-01-05,20
+39.0,Amina,twenty,Marseille,France,Finance,3000,test@yahoo.com,not_a_date,20
+1277.0, Amina ,20,lyon,france,,2500,,2023-01-05,40
+1278.0,Amina,29, Paris ,,,1800,user@gmail.com,Jan 5 2023,20
+483.0,Ali,25, lyon ,FRA,,2500,contact@outlook.com,,70
+371.0,Mohamed,,,France,it,4000,,not_a_date,20
+1281.0,Ali,29,marseille,FRA,IT,3000,test@yahoo.com,05/01/2023,
+1282.0,,30,paris,,Finance,2500,,,30
+,Mohamed,28,Lille,,,999999,contact@outlook.com,2023/01/05,fifty
+67.0,Youssef,25,,FRA,IT,-100,,2023/01/05,40
+,Amina,21,PARIS,,,2000,user@gmail.com,05/01/2023,fifty
+445.0,Omar,??,paris,FRA,Sales,,contact@outlook.com,05/01/2023,50
+1287.0,Youssef,29,Marseille,FR,Sales,2000,test@yahoo.com,,fifty
+235.0,Nadia,24,LILLE,,HR,2000,,2023/01/05,10
+186.0, Karim ,26,,,HR,,contact@outlook.com,not_a_date,100
+487.0,Lina,21,,FRA,,,contact@outlook.com,,10
+,Ali,,Lyon,,,1800,test@yahoo.com,,20
+148.0,Mohamed,29,marseille,France,Finance,4000,invalid-email,,20
+178.0,Nadia,30,Lille,FRA,Sales,2000,test@yahoo.com,,20
+469.0, mohamed  ,26, Lyon ,FRA,it,2000,contact@outlook.com,Jan 5 2023,100
+1295.0,SARA,,LILLE,France,Marketing,,user@gmail.com,not_a_date,30
+485.0,Mohamed,30,Lyon,FR,IT,4k,invalid-email,2023-01-05,fifty
+185.0,Nadia,23,Paris,france,IT,999999,,2023/01/05,50
+,Mohamed,21,PARIS,France,Marketing,4000,user@gmail.com,Jan 5 2023,N/A
+231.0,Omar,23,,FR,HR,1800,user@gmail.com,2023/01/05,60
+493.0, Mohamed ,23,Marseille,FRA,,,,,fifty
+, Karim ,25,  ,FRA, IT ,3000€,,05/01/2023,20
+, Amina ,29, PARIS ,FR,it,1800,test@yahoo.com,2023/01/05,30
+255.0,Sara,twenty,,FRA,Marketing,3000€,,2023-01-05,80
+1304.0, ali ,27,,,Sales,1800,test@yahoo.com,,40
+,Omar,twenty,PARIS,, SALES ,2500,contact@outlook.com,05/01/2023,40
+,Amina,20,Marseille,FR, IT ,3000,contact@outlook.com,not_a_date,20
+358.0, ali ,27,marseille,FRA,it,3500,,2023/01/05,90
+498.0,Sara,22,LILLE,FRA,it,2200,,not_a_date,30
+277.0,Karim,24,,,SALES,??,contact@outlook.com,,100
+1310.0,Sara,twenty,paris,France,IT,4k,invalid-email,2023-01-05,80
+,,28, paris ,,,3000€,,,10
+341.0,,26,Lyon,france,,3000€,invalid-email,2023-01-05,40
+438.0,Sara,25,LILLE,FRA,SALES,1800,contact@outlook.com,,40
+259.0,Youssef,30,lyon,FR,SALES,??,test@yahoo.com,2023-01-05,70
+1315.0,Ali,22,Marseille,,it,3500,test@yahoo.com,not_a_date,70
+,Karim,23,,,SALES,1800,,2023/01/05,30
+, Karim ,,PARIS,FRA,it,3000€,test@yahoo.com,2023/01/05,40
+,mohamed ,22,Lille,France, SALES ,999999,,Jan 5 2023,90
+81.0,Fatima,21,paris,France,SALES,1800,,,100
+1320.0, Amina ,,Lille,France, SALES ,1800,,,30
+,  ali  ,twenty,Marseille,france,Finance,??,test@yahoo.com,Jan 5 2023,40
+1322.0,SARA,twenty, marseille ,FR,IT,3000,user@gmail.com,05/01/2023,
+,Amina,??,paris,France,,4k,user@gmail.com,2023-01-05,30
+144.0,,22,paris,France,,3500,test@yahoo.com,2023/01/05,20
+1325.0,Karim,21,LILLE,, Sales ,2500,,2023/01/05,70
+455.0, ali ,27,PARIS,france, Marketing ,1800,test@yahoo.com,,100
+,,20,paris,FR,it,,,not_a_date,90
+1328.0,Omar,, lyon ,France,Finance,4k,user@gmail.com,not_a_date,10
+,mohamed ,22,Lyon,FR,Sales,2500,user@gmail.com,Jan 5 2023,30
+1330.0, SARA ,,PARIS,FR,Marketing,,test@yahoo.com,2023-01-05,60
+, ali ,24,LILLE,,,4000,,2023/01/05,40
+1332.0,Fatima,30,lyon,FRA,Sales,4k,,Jan 5 2023,30
+1333.0,SARA,27,marseille,FRA,SALES,4k,,Jan 5 2023,60
+1334.0,Amina,26,marseille,france, it ,3500,,,20
+1335.0,,20,Lille,FR,SALES,3000,,,
+,Lina,26,Paris,France,HR,999999,contact@outlook.com,2023/01/05,fifty
+95.0,Fatima,21,Lyon,,it,3500,test@yahoo.com,,60
+1338.0,Lina,, Paris ,,it,2500,invalid-email,not_a_date,fifty
+1339.0,Omar,21,marseille,FR,Finance,3000€,test@yahoo.com,2023-01-05,90
+, Amina ,twenty,,France,SALES,??,invalid-email,Jan 5 2023,60
+1341.0,Ali,twenty,LILLE,FRA,IT,3000,invalid-email,2023-01-05,20
+1342.0,Amina,25,  ,FRA,Finance,4k,user@gmail.com,Jan 5 2023,10
+,Ali,27,lyon,france, SALES ,1800,,not_a_date,10
+, Ali ,21,LILLE,France,SALES,-100,contact@outlook.com,Jan 5 2023,60
+385.0,Karim,21, Lille ,FR,,4k,user@gmail.com,2023/01/05,50
+356.0,Nadia,??,,France,it,4k,user@gmail.com,2023-01-05,40
+1347.0,Mohamed,21,Marseille,, SALES ,2500,test@yahoo.com,2023-01-05,40
+370.0,,28,Paris,,IT,3000,user@gmail.com,2023-01-05,10
+484.0,Sara,24,Marseille,,SALES,3000,,05/01/2023,30
+298.0,Sara,22,Marseille,france,SALES,??,invalid-email,,20
+,Fatima,29,LILLE,,,3000,contact@outlook.com,,N/A
+1352.0,Sara,24,lyon,, Sales ,3500,,,40
+,SARA,??, Lyon ,,Sales,2000,invalid-email,2023-01-05,40
+, Fatima ,27,marseille,france,,2000,contact@outlook.com,05/01/2023,100
+,Omar,??, Marseille ,FR,,??,test@yahoo.com,,90
+1356.0,Fatima,25, marseille ,FRA,,2500,invalid-email,05/01/2023,20
+142.0, Mohamed ,30,lyon,,Sales,2200,invalid-email,2023-01-05,N/A
+1358.0,Ali,27,PARIS,FR,IT,,,not_a_date,80
+180.0,Sara,28,paris,FR,SALES,2500,test@yahoo.com,2023/01/05,90
+,Lina,20,LILLE,FR,it,2000,user@gmail.com,,70
+374.0,Fatima,24,Lyon,FRA,HR,4k,contact@outlook.com,not_a_date,100
+,Karim,21,,France,Finance,2000,test@yahoo.com,2023-01-05,10
+1363.0, Amina ,24,Lyon,France,,2000,contact@outlook.com,05/01/2023,100
+, Karim ,26,marseille,France,Finance,-100,,Jan 5 2023,80
+1365.0,mohamed ,23,Marseille,, Marketing ,-100,,Jan 5 2023,N/A
+1366.0,Mohamed,28,,FRA,Marketing,-100,test@yahoo.com,05/01/2023,60
+1367.0,Mohamed,22,Marseille,FRA,HR,1800,,2023/01/05,70
+1368.0,Mohamed,24, paris ,france,IT,4k,contact@outlook.com,2023/01/05,100
+0.0,,23,LILLE,France,IT,1800,,,50
+1370.0, Omar ,28,PARIS,france,Sales,2000,contact@outlook.com,,N/A
+171.0,Nadia,,Marseille,,Marketing,??,invalid-email,Jan 5 2023,60
+1372.0,,25,lyon,, it ,3000€,,,100
+1373.0,Youssef,30,Lille,,IT,2200,invalid-email,,40
+1374.0,Lina,27,Paris,france,SALES,3500,test@yahoo.com,,20
+99.0, ali ,21,lyon,,  ,,,05/01/2023,50
+,Lina,25, marseille ,,SALES,3000,contact@outlook.com,05/01/2023,10
+,SARA,25,,France,SALES,999999,invalid-email,not_a_date,fifty
+405.0,Youssef,21,Paris,FRA, HR ,,,05/01/2023,90
+494.0, Amina ,28,,france,Marketing,,contact@outlook.com,2023-01-05,fifty
+1380.0,Nadia,20,Lyon,FR, Sales ,1800,invalid-email,Jan 5 2023,10
+220.0, ali ,??,Paris,France,Marketing,2200,contact@outlook.com,Jan 5 2023,fifty
+, ali ,twenty,Lille,france, Sales ,-100,contact@outlook.com,05/01/2023,N/A
+100.0, Amina ,21,lyon,france,IT,,contact@outlook.com,05/01/2023,fifty
+,Karim,26,marseille,France,Marketing,3000,,Jan 5 2023,30
+288.0, ali ,25,,france,Finance,3000,test@yahoo.com,2023/01/05,90
+102.0,Youssef,21,lyon,,,3000€,test@yahoo.com,2023/01/05,fifty
+448.0,Sara,22,Lille,FRA, it ,3000€,,,60
+239.0,Karim,27,marseille,FRA,,1800,,2023-01-05,fifty
+1389.0,mohamed ,22,,FR,Finance,4k,,Jan 5 2023,30
+,,29,lyon,France,SALES,2200,invalid-email,,10
+,Nadia,??,Paris,France,IT,3000,,2023-01-05,60
+1392.0,,24,,FRA,it,1800,user@gmail.com,,100
+,SARA,,Paris,,Finance,3000€,test@yahoo.com,not_a_date,N/A
+495.0, Mohamed ,23,,,HR,3000,,Jan 5 2023,N/A
+1395.0,mohamed ,27,,,Finance,2000,user@gmail.com,2023-01-05,30
+1396.0,Omar,21,Lyon,france,Sales,,user@gmail.com,,90
+227.0,Ali,21,lyon,FRA,,2200,test@yahoo.com,,90
+, ali ,27,,,Sales,4000,test@yahoo.com,,10
+1399.0,,,,france,HR,3000€,,,90
+102.0,Nadia,24, lyon ,,Sales,4k,invalid-email,Jan 5 2023,
+140.0,Karim,,paris,FRA, SALES ,4000,test@yahoo.com,2023-01-05,50
+1402.0,Amina,26,Paris,,Marketing,1800,,,
+317.0,Ali,25, PARIS ,FRA,,3000,user@gmail.com,05/01/2023,60
+,Fatima,25,Lille,FRA,,2000,test@yahoo.com,,30
+,SARA,29,Marseille,FRA, HR ,3000,,Jan 5 2023,70
+, Nadia ,26,LILLE,, HR ,4k,,not_a_date,fifty
+,Youssef,22, Marseille ,,it,4k,,,70
+1408.0,Ali,??, PARIS ,france,Sales,??,user@gmail.com,2023/01/05,
+243.0,mohamed ,23,Lyon,France,HR,-100,invalid-email,,70
+1410.0,Ali,29,lyon,France,IT,-100,user@gmail.com,2023/01/05,fifty
+, ali ,??,Paris,france,it,2000,,2023/01/05,70
+,Amina,28,Lyon,france, Marketing ,,invalid-email,,50
+1413.0,SARA,22,marseille,,Finance,2000,,2023-01-05,
+,Sara,23,Paris,france,IT,3500,invalid-email,not_a_date,90
+1415.0,Lina,22,,,,,test@yahoo.com,,40
+292.0, Omar ,25,Marseille,,,2200,user@gmail.com,2023/01/05,70
+320.0,,21,,France,HR,999999,,Jan 5 2023,20
+60.0,Fatima,20,  ,, it ,1800,test@yahoo.com,,50
+472.0,Karim,,Marseille,France,HR,3000,user@gmail.com,not_a_date,100
+,,29,Lille,FR,SALES,4k,user@gmail.com,not_a_date,N/A
+1421.0, Amina ,27,lyon,,IT,1800,contact@outlook.com,2023/01/05,50
+102.0,,twenty,Paris,france,Finance,3000€,,Jan 5 2023,fifty
+1423.0,Fatima,27,paris,,IT,3500,user@gmail.com,2023/01/05,100
+,  ,21, Lille ,FRA,HR,3000,,2023-01-05,20
+18.0,Omar,23,,FR,SALES,,contact@outlook.com,,40
+1426.0,Ali,twenty,Lyon,, SALES ,??,,,10
+282.0, Ali ,26, marseille ,,HR,4000,,2023/01/05,90
+1428.0,Nadia,21,  ,FR,it,2500,contact@outlook.com,2023/01/05,10
+1429.0, Sara ,29,Paris,france,SALES,-100,,not_a_date,10
+1430.0,,,Lyon,France,Sales,1800,test@yahoo.com,2023/01/05,30
+1431.0,Lina,25,,,Finance,3000,test@yahoo.com,not_a_date,70
+,Sara,30,paris,France, Marketing ,3000€,test@yahoo.com,2023/01/05,N/A
+376.0,  ,??,Lyon,FRA,Marketing,3500,,Jan 5 2023,
+,,24,Marseille,,,3000€,user@gmail.com,2023-01-05,60
+461.0, SARA ,29,LILLE,FR,Sales,2500,test@yahoo.com,,90
+118.0, SARA ,28,Lyon,France,it,-100,test@yahoo.com,2023-01-05,40
+357.0, ali ,twenty,LILLE,France,IT,,user@gmail.com,Jan 5 2023,50
+301.0,Youssef,??,paris,France,Marketing,4k,invalid-email,2023/01/05,10
+441.0, Karim ,27,Paris,france,Finance,4000,test@yahoo.com,,70
+1440.0, ali ,24,Paris,,it,1800,,,60
+472.0,mohamed ,twenty,  ,france, IT ,3500,,,100
+222.0,mohamed ,,Paris,France,,4000,,,50
+,Nadia,26,,,,3000,test@yahoo.com,2023/01/05,80
+1444.0,Mohamed,20, lyon ,,Marketing,2000,test@yahoo.com,,90
+151.0, Amina ,26,Paris,,Marketing,3500,contact@outlook.com,,50
+,mohamed ,twenty,  ,France,Sales,3000,,,60
+428.0,,22, LILLE ,FRA,IT,,user@gmail.com,2023/01/05,10
+494.0,Nadia,30,Lille,france, SALES ,1800,,2023-01-05,50
+,Omar,25,paris,FRA,HR,3000,contact@outlook.com,Jan 5 2023,80
+1450.0, ali ,22,PARIS,,IT,2500,user@gmail.com,,10
+,Omar,??,LILLE,, it ,1800,,,40
+,Youssef,24, Paris ,,it,3000€,,2023-01-05,100
+120.0,Sara,21,Lille,FRA,Sales,3000€,user@gmail.com,05/01/2023,40
+,Lina,??,,FRA, Sales ,??,invalid-email,Jan 5 2023,30
+12.0,Amina,twenty,Marseille,FR,SALES,??,contact@outlook.com,2023/01/05,50
+1456.0,Mohamed,25,Paris,FR,HR,4k,user@gmail.com,2023-01-05,100
+108.0,Omar,,Lille,,it,2500,invalid-email,,100
+, SARA ,22,marseille,,Sales,2000,test@yahoo.com,not_a_date,90
+, Omar ,,marseille,,Sales,3000€,user@gmail.com,not_a_date,80
+,Omar,27,Marseille,FR, Finance ,4k,contact@outlook.com,05/01/2023,60
+124.0, Fatima ,27,Marseille,,Sales,-100,test@yahoo.com,2023/01/05,N/A
+490.0, Lina ,21,Marseille,,,2000,contact@outlook.com,,80
+1463.0,Nadia,twenty, marseille ,france,HR,3000€,test@yahoo.com,,70
+, ali ,22,,FR,Marketing,3500,contact@outlook.com,2023-01-05,20
+209.0,Omar,22,,FRA,Finance,2200,invalid-email,2023-01-05,30
+61.0,Youssef,twenty,Lille,,,-100,user@gmail.com,05/01/2023,10
+426.0,Ali,,PARIS,France,HR,3000€,,2023/01/05,70
+1468.0,Karim,,Lille,france,Marketing,2000,contact@outlook.com,,60
+,Amina,21,Paris,France,it,,invalid-email,,80
+379.0,Youssef,twenty,LILLE,,HR,-100,test@yahoo.com,,fifty
+, Sara ,22, Paris ,,it,??,,2023/01/05,70
+164.0,Mohamed,28,  ,FR, Sales ,2500,contact@outlook.com,2023/01/05,60
+,Omar,28,,,SALES,3000,contact@outlook.com,2023/01/05,60
+1474.0,Mohamed,20,Lyon,FRA,,3000,,not_a_date,60
+50.0,Youssef,22,paris,FR,Marketing,,invalid-email,05/01/2023,30
+147.0,Amina,twenty,paris,france,Marketing,2200,user@gmail.com,05/01/2023,90
+,mohamed ,22,Paris,, IT ,3000€,,,40
+3.0,,??,Paris,FR,Finance,3000,,2023/01/05,N/A
+,Mohamed,??,LILLE,FR, Sales ,-100,,,20
+227.0,Nadia,24,paris,france,Marketing,-100,,2023-01-05,60
+1481.0,SARA,twenty, Lyon ,,Sales,3500,test@yahoo.com,not_a_date,60
+141.0, ali ,,Lille,,Sales,-100,,Jan 5 2023,10
+1483.0,,,Lille,FR,Finance,3000€,,,
+,  ali  ,20,Lyon,france,SALES,2500,,05/01/2023,50
+1485.0,Nadia,??,PARIS,,,3000,test@yahoo.com,05/01/2023,
+1486.0,Omar,??,Lyon,France,SALES,2000,invalid-email,not_a_date,100
+,Mohamed,20, marseille ,,Marketing,4k,invalid-email,,100
+,Lina,27,Lille,,HR,3000,test@yahoo.com,Jan 5 2023,
+248.0,mohamed ,30,marseille,,it,3000€,invalid-email,Jan 5 2023,20
+1490.0,,twenty,lyon,FRA,,3500,test@yahoo.com,,70
+1491.0,Nadia,25,,France,it,-100,invalid-email,,30
+396.0,,twenty,LILLE,, SALES ,??,test@yahoo.com,2023-01-05,50
+,Fatima,??,marseille,France,,999999,contact@outlook.com,Jan 5 2023,
+162.0,Karim,twenty,LILLE,FRA,SALES,3000,user@gmail.com,Jan 5 2023,80
+1495.0,Lina,30,Paris,FR,,4000,test@yahoo.com,not_a_date,30
+1496.0,mohamed ,30,paris,, it ,2200,,not_a_date,10
+,Ali,twenty,marseille,France,it,3500,,2023-01-05,
+, Fatima ,25,Lille,france,HR,3000€,invalid-email,,N/A
+117.0,mohamed ,22,Marseille,FR, SALES ,2500,,,40
+1500.0,Ali,??,Paris,,Sales,3000€,invalid-email,,80
+1501.0,Youssef,24,Paris,france,Finance,1800,contact@outlook.com,,20
+416.0, ali ,26, PARIS ,,Marketing,2000,user@gmail.com,2023-01-05,90
+,mohamed ,,marseille,France,IT,-100,,not_a_date,30
+,Amina,twenty,marseille,france, Marketing ,999999,contact@outlook.com,2023/01/05,90
+1505.0, Youssef ,24,LILLE,france,Sales,3000,,not_a_date,80
+192.0,Karim,21,Lyon,FRA,  ,3000,invalid-email,Jan 5 2023,N/A
+,Fatima,26, Paris ,FRA,SALES,3500,,,20
+1508.0,Amina,20,marseille,france,,3500,invalid-email,not_a_date,20
+329.0, Lina ,22,,France,Sales,3000€,test@yahoo.com,05/01/2023,80
+1510.0,Sara,22,marseille,,,3000€,,,100
+1511.0,Ali,twenty,LILLE,FR,SALES,3000,,Jan 5 2023,30
+18.0,SARA,29,,FRA,IT,3000,,05/01/2023,fifty
+287.0,Omar,27,Marseille,, Finance ,3500,invalid-email,,80
+,,,paris,France, SALES ,-100,user@gmail.com,2023/01/05,30
+1515.0, Mohamed ,28,paris,france,Finance,,user@gmail.com,2023-01-05,70
+1516.0, ali ,twenty,Lille,FRA, HR ,-100,,2023/01/05,70
+4.0, Sara ,26,lyon,, Marketing ,3000€,contact@outlook.com,not_a_date,60
+,Mohamed,22,lyon,,Finance,999999,,,60
+,Youssef,27, LILLE ,france,it,-100,,,30
+,SARA,??,LILLE,France,it,4000,test@yahoo.com,05/01/2023,80
+1521.0,Youssef,,Lyon,france,Sales,3000€,invalid-email,Jan 5 2023,20
+, Nadia ,29,PARIS,France,it,??,,05/01/2023,60
+1523.0,,23, lyon ,FR,SALES,4k,,Jan 5 2023,60
+319.0,  ,24,Lille,,Finance,2000,,05/01/2023,20
+1525.0,Youssef,22, lyon ,, Sales ,2200,,not_a_date,
+392.0,Lina,29,,,Marketing,999999,,,100
+342.0,Fatima,22,Paris,france,Finance,2000,,05/01/2023,30
+84.0,,20,Marseille,France,IT,2200,,,80
+,Nadia,25, lyon ,,Sales,2500,,2023/01/05,70
+396.0,SARA,27, Marseille ,FR,,3500,,2023-01-05,100
+1531.0,Mohamed,30, lyon ,,HR,4000,,2023/01/05,80
+355.0,  ali  ,21,Lille,FRA, it ,2200,user@gmail.com,,60
+437.0,mohamed ,30, Marseille ,, SALES ,2500,,not_a_date,40
+195.0, Mohamed ,, Paris ,france,,3500,,05/01/2023,10
+300.0,Lina,21,Marseille,FR,,1800,,Jan 5 2023,10
+331.0, ali ,27,marseille,France,Marketing,3000,,2023-01-05,100
+1537.0,,, LILLE ,,,,test@yahoo.com,2023/01/05,N/A
+,mohamed ,28,paris,France,it,1800,,,30
+,Mohamed,??,PARIS,France,SALES,2000,user@gmail.com,2023/01/05,
+1540.0,Lina,21,Lille,FR,Finance,??,,,10
+,,25,PARIS,,it,3000€,user@gmail.com,,70
+, ali ,20,paris,france,,2200,,Jan 5 2023,20
+88.0,Ali,24,,france,,4000,test@yahoo.com,,N/A
+1544.0,Youssef,24, Lille ,FR, Sales ,3500,invalid-email,not_a_date,N/A
+,,27,paris,France,Sales,2200,,2023-01-05,30
+, ali ,20, PARIS ,France,Finance,??,contact@outlook.com,2023/01/05,20
+, Fatima ,24,,,Finance,-100,,05/01/2023,50
+27.0,SARA,24,PARIS,FR,HR,4k,contact@outlook.com,2023/01/05,40
+1549.0,Youssef,23,PARIS,FR,Marketing,-100,invalid-email,Jan 5 2023,20
+250.0,Amina,25,Marseille,,,,,,30
+,Karim,22,Lille,,Finance,-100,invalid-email,Jan 5 2023,
+, mohamed  ,24,Lyon,FR,,3000€,,,50
+,mohamed ,23, lyon ,france,,3000,user@gmail.com,2023-01-05,90
+,Mohamed,27,PARIS,FRA, it ,3500,,2023/01/05,
+1555.0,Lina,,paris,,it,1800,test@yahoo.com,2023/01/05,80
+171.0,  ali  ,21,PARIS,FR,Marketing,2200,invalid-email,not_a_date,30
+1557.0,Nadia,twenty,,FRA,SALES,-100,invalid-email,2023/01/05,40
+, Lina ,29, Marseille ,FRA,SALES,3000,user@gmail.com,05/01/2023,fifty
+,Sara,26,marseille,FR,SALES,4k,user@gmail.com,05/01/2023,90
+85.0,,29,Lille,france,HR,2200,,Jan 5 2023,fifty
+1561.0,Sara,24, PARIS ,FR,,4000,test@yahoo.com,2023/01/05,10
+1562.0,Fatima,22,lyon,FR,Sales,2200,test@yahoo.com,,40
+1563.0, SARA ,23, PARIS ,,  ,999999,contact@outlook.com,2023-01-05,80
+81.0,Sara,27,Lille,,SALES,-100,test@yahoo.com,2023/01/05,
+192.0,SARA,23,paris,FRA,HR,3500,test@yahoo.com,2023/01/05,fifty
+167.0,,30,marseille,,SALES,3000€,user@gmail.com,Jan 5 2023,80
+,Amina,20,Lyon,,HR,999999,test@yahoo.com,Jan 5 2023,60
+,,20,,,SALES,2000,,05/01/2023,30
+1569.0,Ali,23,lyon,FRA,Sales,3500,invalid-email,,30
+1570.0, Youssef ,24,marseille,,,1800,contact@outlook.com,2023/01/05,30
+83.0, ali ,28,paris,FRA,Sales,3500,,,20
+335.0,mohamed ,twenty,Paris,france,it,2200,,not_a_date,70
+351.0,Ali,27,,,SALES,4000,user@gmail.com,Jan 5 2023,70
+, ali ,21,,FRA,,3500,invalid-email,,60
+,Lina,21, PARIS ,FRA,,999999,invalid-email,,
+1576.0, Ali ,25,  ,FR, Finance ,3000€,,,80
+1577.0,Nadia,24,Paris,France,,,contact@outlook.com,2023-01-05,100
+351.0,Youssef,26,Marseille,,Marketing,999999,user@gmail.com,not_a_date,50
+91.0,Lina,26, Paris ,FRA,it,3000,,2023-01-05,100
+57.0,SARA,20,Lille,,SALES,2500,test@yahoo.com,2023-01-05,90
+1581.0,SARA,22,,FRA,SALES,3000,contact@outlook.com,2023/01/05,N/A
+1582.0,,??,Lille,,,1800,user@gmail.com,Jan 5 2023,60
+1583.0,Amina,,,France, SALES ,3000€,,2023-01-05,60
+,SARA,24,marseille,FRA,IT,2200,,Jan 5 2023,N/A
+,,21,marseille,France, Finance ,4k,contact@outlook.com,Jan 5 2023,100
+,,twenty, Lyon ,, IT ,3500,,2023/01/05,40
+389.0,Youssef,,PARIS,FR,,??,user@gmail.com,not_a_date,70
+1588.0, ali ,24, lyon ,France,SALES,2500,user@gmail.com,,70
+1589.0,Youssef,24, LILLE ,,it,2000,test@yahoo.com,05/01/2023,10
+363.0, Fatima ,21,,FR,,4k,invalid-email,,100
+,Karim,27,Lille,France,it,3500,contact@outlook.com,Jan 5 2023,80
+77.0,,,LILLE,france,,-100,test@yahoo.com,,70
+130.0,Ali,30,,France,,3000€,contact@outlook.com,2023-01-05,40
+,Lina,24,lyon,FR,,??,invalid-email,2023-01-05,30
+,Mohamed,29, Marseille ,,SALES,4000,user@gmail.com,,50
+,Nadia,23,marseille,,HR,4000,,,20
+49.0, Fatima ,23,paris,,Marketing,2200,test@yahoo.com,,fifty
+376.0,Omar,26, Marseille ,france, SALES ,4k,contact@outlook.com,Jan 5 2023,fifty
+,Sara,30,,,it,3000€,,not_a_date,70
+115.0,Nadia,twenty, LILLE ,FR,,2200,test@yahoo.com,2023/01/05,50
+,,25, LILLE ,,HR,??,user@gmail.com,2023/01/05,100
+334.0,Karim,26,Lyon,,IT,4k,test@yahoo.com,05/01/2023,100
+,Sara,29,,,SALES,1800,contact@outlook.com,not_a_date,40
+, ali ,27,,France,it,1800,,not_a_date,fifty
+334.0,Omar,28,Lyon,france,,3500,,,40
+89.0,  ,,Lyon,FR,HR,3000,user@gmail.com,2023-01-05,40
+295.0,Nadia,23,,,,2500,test@yahoo.com,2023/01/05,90
+1608.0,mohamed ,29,Marseille,france,Finance,,,2023-01-05,10
+1609.0, ali ,30, marseille ,,,4000,user@gmail.com,,70
+490.0,,,Lille,France,,-100,user@gmail.com,2023/01/05,80
+,Ali,24,marseille,,IT,3500,invalid-email,,90
+,Nadia,26, paris ,France,HR,3000,,,fifty
+,Mohamed,25,marseille,, it ,2200,test@yahoo.com,,80
+107.0,Sara,25,,,Sales,,,2023/01/05,fifty
+125.0,Lina,24, LILLE ,FR,,-100,contact@outlook.com,not_a_date,50
+1616.0,mohamed ,22, PARIS ,,Marketing,1800,test@yahoo.com,Jan 5 2023,100
+,Youssef,24,PARIS,,Marketing,,,2023/01/05,
+1618.0,SARA,twenty,PARIS,france,Marketing,4000,contact@outlook.com,,40
+1619.0, Amina ,24,PARIS,,IT,3000,contact@outlook.com,,90
+,Karim,27,,france,it,??,test@yahoo.com,not_a_date,90
+,Lina,26, LILLE ,,HR,3000€,invalid-email,05/01/2023,80
+459.0,Ali,30,paris,FR,Finance,3000,test@yahoo.com,05/01/2023,30
+,mohamed ,,paris,, Finance ,3500,invalid-email,2023/01/05,100
+,,20, Lille ,france,Finance,3500,,2023-01-05,70
+1625.0,Lina,28,paris,FR,,3000€,,not_a_date,20
+1626.0, Nadia ,29, Lille ,france,Finance,3000,,05/01/2023,N/A
+,,23,Lyon,,,2200,user@gmail.com,not_a_date,50
+282.0,Sara,, Lyon ,, Sales ,2200,,Jan 5 2023,10
+1629.0,Fatima,29,  ,FRA,,2000,,,10
+, Sara ,23,LILLE,France,,2000,invalid-email,05/01/2023,20
+,Fatima,29,LILLE,FR,IT,4k,invalid-email,,20
+368.0,mohamed ,30, Lyon ,,,1800,contact@outlook.com,,70
+307.0,Nadia,30,PARIS,FR,,,,Jan 5 2023,
+153.0,,28,Lyon,FR,Marketing,??,,not_a_date,50
+320.0,Sara,twenty,PARIS,FRA,IT,3500,,2023/01/05,80
+1636.0,Sara,twenty,marseille,, Marketing ,2000,invalid-email,Jan 5 2023,
+,,22, Lyon ,France,Finance,2500,contact@outlook.com,not_a_date,50
+,Nadia,21,,FR,Finance,4k,,05/01/2023,60
+1639.0,mohamed ,26,PARIS,france,HR,3500,,2023/01/05,
+304.0,mohamed ,,lyon,france,Marketing,,contact@outlook.com,Jan 5 2023,30
+156.0,SARA,25,Marseille,FRA,Marketing,4000,,2023/01/05,fifty
+1642.0,mohamed ,26,Paris,FRA,it,??,test@yahoo.com,2023/01/05,fifty
+1643.0,,,Lyon,france,Marketing,3000,contact@outlook.com,2023-01-05,60
+218.0,Lina,28,Lille,,Finance,999999,test@yahoo.com,not_a_date,90
+225.0, Sara ,21,Lyon,france,it,-100,invalid-email,,100
+1646.0,mohamed ,30, marseille ,,,2500,contact@outlook.com,not_a_date,100
+1647.0,Sara,20,,FR, Marketing ,3000€,contact@outlook.com,2023/01/05,50
+56.0,Mohamed,,paris,FR,SALES,2200,test@yahoo.com,not_a_date,50
+1649.0, Omar ,21,LILLE,france,it,4k,,,
+,Omar,??,lyon,, IT ,2200,user@gmail.com,,fifty
+,SARA,25, Marseille ,FRA,Finance,2200,contact@outlook.com,2023/01/05,40
+235.0,Lina,23,,,Marketing,3000,,,10
+1653.0, ali ,26,marseille,FRA,,999999,user@gmail.com,,90
+,Lina,20,  ,FRA,IT,3000€,contact@outlook.com,,90
+251.0,Amina,25,,France,Sales,4k,user@gmail.com,not_a_date,fifty
+,Mohamed,twenty,Lille,France,,4k,,05/01/2023,fifty
+,Karim,??,lyon,FRA,,-100,test@yahoo.com,,60
+1658.0, ali ,29,Marseille,FRA,,999999,,,70
+1659.0,Karim,29,lyon,France, SALES ,1800,user@gmail.com,05/01/2023,60
+1660.0, Youssef ,??,Lyon,,it,3000€,invalid-email,,
+,,25,  ,france,Finance,999999,test@yahoo.com,05/01/2023,50
+1662.0,Ali,28,  ,France,HR,3000€,contact@outlook.com,2023-01-05,60
+445.0,,23,,france,Finance,3000,test@yahoo.com,2023/01/05,50
+1664.0, mohamed  ,25, Paris ,france,,2000,invalid-email,2023-01-05,80
+,,,Lyon,FRA,IT,,invalid-email,2023/01/05,40
+105.0,Amina,??,paris,France,HR,3000€,,,90
+1667.0,mohamed ,23,paris,FRA, it ,-100,contact@outlook.com,2023/01/05,40
+1668.0,mohamed ,28,Marseille,FRA,Marketing,3000€,user@gmail.com,2023/01/05,10
+3.0, mohamed  ,26, marseille ,France,it,3500,contact@outlook.com,,20
+,Youssef,23,paris,,SALES,,user@gmail.com,Jan 5 2023,N/A
+331.0,Ali,22,Lyon,france,IT,2200,,05/01/2023,30
+355.0,mohamed ,20,Paris,,Finance,-100,,Jan 5 2023,60
+316.0,,22,marseille,france,HR,3000€,test@yahoo.com,,fifty
+,Mohamed,25,paris,france,IT,,test@yahoo.com,Jan 5 2023,70
+320.0,,??,lyon,, it ,1800,user@gmail.com,Jan 5 2023,10
+455.0,Ali,,PARIS,FRA, IT ,3000€,invalid-email,,100
+,Mohamed,22,paris,France,it,2500,user@gmail.com,2023/01/05,20
+57.0, Nadia ,26, Lille ,FRA, HR ,4k,,2023-01-05,50
+243.0,,24,PARIS,FR,,3500,,,N/A
+49.0, Nadia ,,,france, HR ,2500,,05/01/2023,fifty
+1681.0,Fatima,30, paris ,,Sales,-100,invalid-email,Jan 5 2023,100
+1682.0,Fatima,24,PARIS,,Marketing,3500,,2023/01/05,
+,Omar,29,lyon,france,it,4000,contact@outlook.com,,30
+,,??, Paris ,,SALES,??,user@gmail.com,,40
+1685.0,Mohamed,30,Paris,france,HR,4000,contact@outlook.com,2023-01-05,100
+246.0,,25,Lyon,,SALES,,test@yahoo.com,2023/01/05,100
+, Nadia ,21, lyon ,,,3500,contact@outlook.com,05/01/2023,50
+174.0,mohamed ,28,LILLE,,Sales,??,contact@outlook.com,,90
+1689.0,mohamed ,25,marseille,,IT,3000€,test@yahoo.com,2023-01-05,40
+499.0,,21,paris,,Marketing,2200,contact@outlook.com,Jan 5 2023,80
+,Sara,??, Lille ,france,SALES,3000€,test@yahoo.com,05/01/2023,
+1692.0,Fatima,,Marseille,, HR ,4k,,not_a_date,10
+,Lina,28, Lyon ,,,2200,contact@outlook.com,05/01/2023,20
+1694.0, ali ,30,,france, HR ,3000€,,2023/01/05,40
+1695.0, Karim ,24,marseille,,SALES,,invalid-email,Jan 5 2023,30
+369.0,Ali,21,lyon,,,??,contact@outlook.com,05/01/2023,N/A
+,Sara,20,marseille,france,HR,,test@yahoo.com,,fifty
+1698.0, Karim ,twenty, PARIS ,,SALES,4000,,05/01/2023,40
+427.0, Sara ,23, lyon ,france,SALES,2000,,,100
+,Mohamed,23, LILLE ,france,Marketing,999999,contact@outlook.com,2023-01-05,
+,Youssef,28,paris,,,2500,,2023/01/05,50
+1702.0, Omar ,,  ,FRA, HR ,2000,,Jan 5 2023,50
+1703.0,Karim,??,lyon,France,,4000,,05/01/2023,N/A
+354.0,mohamed ,24,Lyon,,Sales,2000,,not_a_date,100
+442.0, Fatima ,??,,FRA,SALES,4000,user@gmail.com,,20
+442.0,,, lyon ,FR,,3500,invalid-email,,50
+1707.0,Ali,21,LILLE,france,,2500,,2023/01/05,
+1708.0,mohamed ,??,LILLE,,SALES,4k,,,
+1709.0,Amina,21,,,Sales,4k,user@gmail.com,2023-01-05,fifty
+122.0,Amina,30,,FRA,SALES,-100,,2023-01-05,60
+331.0,,27,,,IT,4000,,,fifty
+,,20,Lyon,, HR ,1800,,Jan 5 2023,20
+149.0, mohamed  ,20,LILLE,FR,it,??,contact@outlook.com,Jan 5 2023,40
+141.0, mohamed  ,20,Marseille,FRA,Marketing,999999,test@yahoo.com,05/01/2023,90
+, ali ,25,marseille,FR,HR,,user@gmail.com,Jan 5 2023,60
+,SARA,twenty,Lyon,FR,Marketing,2000,,2023-01-05,
+207.0,Amina,27,,france,SALES,2500,contact@outlook.com,,N/A
+248.0,Lina,twenty,LILLE,FR,HR,2200,contact@outlook.com,2023-01-05,20
+, Youssef ,28,,,Marketing,999999,,not_a_date,30
+, SARA ,21, Lyon ,France,Sales,-100,,,70
+436.0,Mohamed,,Marseille,,it,4000,test@yahoo.com,2023/01/05,20
+,,twenty,lyon,,Sales,3500,test@yahoo.com,2023/01/05,10
+, Mohamed ,30,lyon,France,,2500,,05/01/2023,40
+1724.0,Nadia,30,Lyon,france,IT,3000,test@yahoo.com,2023-01-05,100
+247.0,Karim,28,Lille,,Finance,4000,test@yahoo.com,,90
+297.0, ali ,29,marseille,,Marketing,-100,contact@outlook.com,,fifty
+134.0,Lina,25, Lyon ,FR,,3500,user@gmail.com,,30
+,Fatima,twenty,Lille,, HR ,2000,,,80
+274.0,Sara,twenty,,france,it,-100,,,90
+1730.0,Nadia,24,,France,,4k,invalid-email,2023/01/05,100
+1731.0, Mohamed ,20,Lille,FRA,,??,user@gmail.com,Jan 5 2023,80
+, Mohamed ,21,,FR,Sales,-100,contact@outlook.com,not_a_date,50
+,Ali,,  ,FRA,SALES,-100,test@yahoo.com,2023/01/05,40
+338.0, Youssef ,28,,FR,it,2500,,,90
+484.0,Mohamed,twenty,Lille,,it,1800,,2023-01-05,N/A
+386.0,Amina,21,paris,, Sales ,3000€,invalid-email,,30
+1737.0, Fatima ,29, PARIS ,france,IT,??,invalid-email,,20
+1738.0,Sara,26,,, SALES ,999999,invalid-email,2023/01/05,N/A
+1739.0,,25, PARIS ,France, Marketing ,3500,test@yahoo.com,,70
+450.0,Nadia,21,PARIS,FR,SALES,2500,test@yahoo.com,Jan 5 2023,
+1741.0,Lina,27,paris,,Marketing,1800,,2023-01-05,90
+,Lina,21,PARIS,France,,1800,user@gmail.com,Jan 5 2023,70
+1743.0,mohamed ,29,,FR, Sales ,2200,test@yahoo.com,,100
+1744.0,Omar,23,Marseille,France,HR,4k,contact@outlook.com,not_a_date,30
+456.0,SARA,??,PARIS,,HR,,user@gmail.com,not_a_date,10
+,,twenty,paris,FR, Marketing ,2000,contact@outlook.com,,30
+,Mohamed,21,LILLE,france,HR,4k,contact@outlook.com,2023/01/05,
+280.0,mohamed ,27,paris,,,2000,contact@outlook.com,05/01/2023,60
+1749.0,,27, Lyon ,FRA,IT,3500,user@gmail.com,2023/01/05,fifty
+, SARA ,twenty,  ,France,,2000,,,60
+,Amina,29,Lille,, SALES ,999999,,,40
+144.0,Mohamed,27,Lyon,FR, SALES ,4000,invalid-email,2023/01/05,20
+1753.0,Nadia,21,Marseille,,,4k,invalid-email,Jan 5 2023,80
+402.0, mohamed  ,30,Paris,,IT,2500,user@gmail.com,Jan 5 2023,100
+,Omar,22,,FR,IT,3000€,user@gmail.com,2023-01-05,50
+1756.0,Lina,28,Paris,,SALES,-100,,not_a_date,30
+260.0, ali ,, Paris ,france, Sales ,,test@yahoo.com,05/01/2023,N/A
+1758.0,SARA,23, LILLE ,france,IT,1800,invalid-email,05/01/2023,N/A
+59.0, Ali ,23,,FR,HR,4000,test@yahoo.com,Jan 5 2023,70
+1760.0,Mohamed,29,Lyon,,Marketing,4000,,not_a_date,N/A
+, Youssef ,23,,,Marketing,4000,,2023-01-05,70
+421.0,Karim,24,Lyon,FRA,Marketing,4k,user@gmail.com,,N/A
+1763.0,SARA,twenty, LILLE ,france,Finance,2000,,2023-01-05,20
+81.0,Sara,22,Lille,FR,HR,-100,contact@outlook.com,,N/A
+,Karim,24, Lille ,FR,Marketing,4k,contact@outlook.com,2023-01-05,fifty
+61.0,,23, paris ,,,2500,test@yahoo.com,not_a_date,10
+240.0,Sara,21, Lyon ,France,SALES,2200,user@gmail.com,,N/A
+1768.0,Fatima,26,,FR,,-100,test@yahoo.com,2023/01/05,100
+1769.0, ali ,28,Lyon,france,it,1800,,2023-01-05,30
+174.0,,22,Marseille,FRA,Finance,??,user@gmail.com,2023/01/05,70
+78.0,Omar,21, Lyon ,france,Finance,3500,,,80
+12.0,Sara,??, Lyon ,,,3000,,05/01/2023,30
+280.0,Ali,21,,France,SALES,3000€,,2023-01-05,100
+1774.0,SARA,25, Marseille ,France,HR,2000,,05/01/2023,10
+1775.0,Amina,20,marseille,,Sales,2500,,2023-01-05,100
+1776.0,Ali,30,LILLE,, SALES ,3000,,not_a_date,70
+,Fatima,30, LILLE ,,Marketing,3500,,2023/01/05,80
+1778.0,Nadia,28, Marseille ,france, HR ,3000,,,30
+493.0,Youssef,22,Marseille,,IT,4000,contact@outlook.com,05/01/2023,10
+235.0,SARA,28,Lyon,FRA,HR,??,contact@outlook.com,05/01/2023,70
+215.0,Nadia,,LILLE,FRA,SALES,,contact@outlook.com,Jan 5 2023,60
+340.0,Mohamed,,Lille,france,Finance,2500,,05/01/2023,100
+, ali ,twenty,,FR,,3000€,invalid-email,Jan 5 2023,
+1784.0,Karim,22,LILLE,France,,??,invalid-email,Jan 5 2023,fifty
+, Karim ,20, Lyon ,france,it,3000€,test@yahoo.com,,70
+,Karim,22, LILLE ,France,Finance,4000,,,30
+, ali ,29,PARIS,,SALES,4k,test@yahoo.com,05/01/2023,70
+162.0, Fatima ,??,PARIS,FRA, it ,4k,,not_a_date,N/A
+1789.0, ali ,21,paris,France,IT,1800,user@gmail.com,Jan 5 2023,20
+160.0,Fatima,,PARIS,france,Marketing,2000,contact@outlook.com,not_a_date,60
+298.0,Nadia,25, PARIS ,FR,Marketing,2000,,05/01/2023,30
+83.0, Sara ,28,  ,FRA,HR,3000€,,,80
+358.0,SARA,??,Lyon,France,HR,,user@gmail.com,,10
+69.0,Nadia,26, LILLE ,france,IT,4k,,,60
+476.0,Amina,29,PARIS,FRA,IT,,,not_a_date,60
+453.0, Sara ,25,paris,france,HR,4k,contact@outlook.com,,70
+1797.0,Sara,twenty,,france, it ,3000,,,fifty
+42.0,Amina,twenty,LILLE,France,SALES,2200,contact@outlook.com,,50
+,Youssef,28,Paris,FRA, it ,2200,user@gmail.com,,40
+358.0,Youssef,27,marseille,FR,IT,3000,,,
+,Sara,25, Lille ,France,HR,4k,user@gmail.com,,100
+9.0,Karim,23,LILLE,FRA,SALES,1800,,,50
+356.0,Lina,25,Lille,FRA,SALES,-100,contact@outlook.com,05/01/2023,60
+368.0,Omar,23,LILLE,FR,Marketing,2000,invalid-email,,20
+,,25,Lille,France,IT,999999,test@yahoo.com,,fifty
+1806.0,Sara,22,Marseille,France, HR ,4k,test@yahoo.com,,20
+1807.0,Ali,,Paris,, it ,4k,user@gmail.com,05/01/2023,100
+320.0, ali ,??,Marseille,,Sales,4k,user@gmail.com,2023-01-05,N/A
+1809.0,,,paris,france,Sales,-100,user@gmail.com,2023-01-05,70
+, Fatima ,23,Paris,, Sales ,4000,contact@outlook.com,,90
+98.0,,23,LILLE,,HR,,contact@outlook.com,,
+1812.0,Nadia,22,Lille,France,Sales,2200,test@yahoo.com,Jan 5 2023,30
+,Amina,23,paris,,Sales,2500,test@yahoo.com,,60
+1814.0,Mohamed,26,,,Marketing,4k,invalid-email,not_a_date,
+1815.0,Karim,24,Marseille,,Finance,3000€,user@gmail.com,,
+128.0,mohamed ,22,paris,France, Sales ,,contact@outlook.com,,10
+317.0,Sara,30,LILLE,France,Sales,3500,,,60
+, Amina ,30,paris,,Marketing,-100,contact@outlook.com,2023/01/05,60
+380.0,Lina,27,lyon,FRA,it,3000€,,05/01/2023,40
+1820.0,Ali,,Marseille,FRA,,,contact@outlook.com,,70
+237.0,Nadia,22,PARIS,,SALES,4000,user@gmail.com,,30
+403.0, Karim ,??,,france,SALES,3500,user@gmail.com,2023/01/05,fifty
+,,22, PARIS ,, HR ,2500,user@gmail.com,2023-01-05,70
+1824.0,Youssef,25,Lyon,France,,4000,test@yahoo.com,Jan 5 2023,90
+1825.0,Fatima,27,,,,4000,invalid-email,,30
+,Ali,25,paris,France,it,-100,invalid-email,not_a_date,50
+1827.0,Omar,27,Lyon,FRA,,1800,contact@outlook.com,,30
+,Youssef,30,,FRA,Sales,4k,test@yahoo.com,not_a_date,50
+,Lina,twenty,PARIS,FR,,2000,user@gmail.com,2023/01/05,60
+1830.0,Fatima,25, Lyon ,FR,,999999,contact@outlook.com,not_a_date,60
+295.0,SARA,23, PARIS ,FR,Finance,-100,,not_a_date,40
+1832.0,Nadia,29,LILLE,France,it,3000€,user@gmail.com,2023/01/05,fifty
+,Lina,21,Lille,FRA,,4k,,Jan 5 2023,20
+230.0,mohamed ,23, lyon ,,HR,3500,user@gmail.com,2023/01/05,40
+,Ali,25, Marseille ,,,3000€,test@yahoo.com,,50
+489.0, Nadia ,25,,,Finance,999999,,05/01/2023,100
+1837.0,Youssef,,Paris,,Finance,3000€,,Jan 5 2023,40
+404.0,Karim,,Paris,FR,Marketing,2500,test@yahoo.com,Jan 5 2023,10
+,  ali  ,twenty,marseille,France, it ,,test@yahoo.com,2023/01/05,
+, Mohamed ,29,LILLE,FR,Sales,3000,invalid-email,Jan 5 2023,40
+,Nadia,24,PARIS,,HR,3500,user@gmail.com,2023-01-05,10
+444.0,Omar,27,Marseille,france,it,-100,invalid-email,not_a_date,10
+321.0, ali ,25,marseille,france,it,4k,user@gmail.com,,50
+,mohamed ,29,Paris,,IT,-100,,,30
+1845.0,  ,21,PARIS,france,Sales,3000€,test@yahoo.com,,40
+47.0,Lina,25,paris,FRA, it ,999999,user@gmail.com,2023/01/05,70
+1847.0,Omar,26,,FRA,HR,3000€,user@gmail.com,,40
+1848.0,Sara,twenty,lyon,france,Finance,1800,,,90
+1849.0, ali ,??,Lyon,FRA,IT,1800,test@yahoo.com,,40
+1850.0,,22, Lille ,FR,it,4000,,,70
+,mohamed ,24,LILLE,France,SALES,3000€,user@gmail.com,2023-01-05,40
+1852.0,Fatima,23,,FRA, IT ,3500,,2023-01-05,100
+451.0, Omar ,??,PARIS,FRA,Finance,2200,,2023-01-05,
+,Youssef,24,Lille,FR,,4000,test@yahoo.com,,40
+,Youssef,25, Lyon ,FR,Marketing,4000,user@gmail.com,,50
+1856.0,Nadia,29,,,,999999,invalid-email,05/01/2023,30
+1857.0,Karim,twenty,paris,,Finance,2500,,,N/A
+, ali ,23,,FR, it ,,user@gmail.com,,
+,,??,lyon,france,,1800,contact@outlook.com,2023-01-05,40
+1860.0,,25,Lyon,FRA,SALES,-100,contact@outlook.com,2023/01/05,70
+1861.0,,27,LILLE,,Marketing,999999,,,40
+,Sara,20,Paris,, IT ,1800,contact@outlook.com,2023-01-05,50
+227.0,SARA,29,PARIS,France,IT,3500,test@yahoo.com,,40
+497.0,SARA,25, paris ,FR,SALES,??,user@gmail.com,Jan 5 2023,fifty
+1865.0, Youssef ,22, lyon ,FRA,Finance,2000,,,
+1866.0,,27, PARIS ,France,Sales,2000,,05/01/2023,80
+,SARA,28, lyon ,FR,IT,-100,,2023/01/05,20
+,Mohamed,23,paris,FRA, SALES ,1800,user@gmail.com,2023/01/05,70
+425.0, Karim ,22,Paris,, IT ,??,user@gmail.com,,50
+363.0,SARA,27,Lyon,FR,IT,??,contact@outlook.com,,40
+, Nadia ,twenty,Paris,,IT,4k,invalid-email,not_a_date,N/A
+1872.0,SARA,??,Paris,FR,it,2000,,Jan 5 2023,80
+420.0,Omar,22, Marseille ,,it,-100,,not_a_date,30
+,  ali  ,25,marseille,france,SALES,3500,invalid-email,Jan 5 2023,fifty
+1875.0,,30,LILLE,,,4000,contact@outlook.com,2023/01/05,20
+308.0,,22,Marseille,FR,,,,,
+1877.0,Lina,28,,france,it,3000€,,,N/A
+, Mohamed ,??,Lyon,, SALES ,2000,invalid-email,2023-01-05,90
+1879.0, Omar ,21,,France,Marketing,3000€,,05/01/2023,N/A
+, SARA ,twenty,Marseille,FRA,Sales,3500,,,fifty
+,,26, Lille ,,SALES,2500,,Jan 5 2023,N/A
+,mohamed ,21,Lyon,,,2200,,,40
+1883.0,,twenty, Lille ,France,,2200,user@gmail.com,,50
+123.0,Youssef,??,Lyon,,Sales,2500,user@gmail.com,2023-01-05,10
+1885.0,Fatima,22,,France,Sales,3000,invalid-email,2023-01-05,70
+483.0, ali ,26, Paris ,,Marketing,3500,invalid-email,Jan 5 2023,40
+155.0, Amina ,29,LILLE,, IT ,??,invalid-email,2023-01-05,80
+163.0,Ali,24,LILLE,FRA,,999999,user@gmail.com,2023/01/05,N/A
+,,25,,FRA,IT,4000,user@gmail.com,2023/01/05,fifty
+1890.0,Nadia,24,Lille,France,Sales,2500,,,N/A
+1891.0,Nadia,26,Marseille,france,,1800,contact@outlook.com,Jan 5 2023,90
+,,27,Lyon,,SALES,2000,user@gmail.com,,30
+,mohamed ,20, Lille ,FRA,Sales,3000€,test@yahoo.com,2023/01/05,50
+,Karim,twenty,Lille,, IT ,3000,,2023-01-05,N/A
+264.0,Mohamed,27,lyon,france,IT,3000,,Jan 5 2023,70
+,Mohamed,??,paris,france,,,test@yahoo.com,2023-01-05,70
+,mohamed ,30,PARIS,FRA,IT,3000,test@yahoo.com,05/01/2023,60
+,Amina,??, LILLE ,france,,999999,,2023-01-05,20
+1899.0,Mohamed,,,,IT,,invalid-email,Jan 5 2023,fifty
+357.0, Ali ,, Lille ,,it,??,,2023-01-05,70
+1901.0,Youssef,26, Lille ,, SALES ,2000,user@gmail.com,2023-01-05,50
+,Lina,27,marseille,,Finance,2200,user@gmail.com,2023-01-05,30
+,Mohamed,30,Lyon,FRA,,3500,,Jan 5 2023,80
+, Mohamed ,29,marseille,France,,1800,test@yahoo.com,05/01/2023,30
+1905.0,SARA,,marseille,France,it,1800,,,10
+,  ali  ,24,,,IT,3000,test@yahoo.com,Jan 5 2023,40
+440.0, mohamed  ,23,Lyon,,,,invalid-email,05/01/2023,20
+88.0,Omar,30,,,Sales,2200,,05/01/2023,90
+1909.0,Nadia,28,paris,,HR,2500,,,70
+,Lina,23,lyon,FRA, IT ,999999,invalid-email,2023-01-05,60
+399.0,Ali,23,,,it,4000,invalid-email,not_a_date,40
+1912.0, Nadia ,29,Lille,FRA,HR,2500,,not_a_date,50
+1913.0,Karim,29, Paris ,FRA,Sales,3000€,user@gmail.com,,fifty
+,Ali,25,lyon,FRA,Marketing,,,,60
+, Amina ,25,lyon,FRA,,,invalid-email,,N/A
+,Omar,30,  ,,HR,,contact@outlook.com,2023-01-05,N/A
+250.0,Omar,28,  ,,Sales,3000,,Jan 5 2023,50
+447.0,Amina,28,Lyon,FR, it ,2500,,05/01/2023,60
+497.0, Fatima ,??, Marseille ,, SALES ,3000,contact@outlook.com,not_a_date,70
+,Fatima,twenty,  ,france,Marketing,2500,,,60
+,Omar,25,Lyon,FRA,,2200,user@gmail.com,,N/A
+448.0, ali ,23, Lyon ,, it ,2200,,,80
+1923.0,Karim,27, lyon ,,,3000€,contact@outlook.com,05/01/2023,50
+1924.0,Youssef,21,marseille,,SALES,1800,user@gmail.com,05/01/2023,fifty
+478.0,  ,27,LILLE,,Marketing,3000€,,2023/01/05,40
+1926.0,Karim,30,LILLE,,Sales,,invalid-email,2023/01/05,60
+1927.0,Mohamed,21, Marseille ,France, IT ,2000,contact@outlook.com,2023-01-05,90
+274.0, Mohamed ,twenty,paris,,SALES,2500,user@gmail.com,,100
+1929.0,Sara,25,,,Marketing,3000,invalid-email,05/01/2023,40
+,Amina,29, lyon ,, it ,2500,test@yahoo.com,2023-01-05,90
+299.0,mohamed ,23,PARIS,FRA,Finance,3000€,,2023-01-05,30
+,SARA,29, lyon ,FRA,Sales,2000,test@yahoo.com,,70
+1933.0,Nadia,29,PARIS,france, Finance ,3000,user@gmail.com,2023-01-05,40
+343.0,Karim,29,,FRA,,2500,test@yahoo.com,2023-01-05,20
+,Nadia,27,PARIS,,SALES,4k,invalid-email,2023-01-05,90
+391.0,Fatima,30,LILLE,FRA,,3500,contact@outlook.com,2023-01-05,80
+,Karim,??, LILLE ,,Finance,3500,test@yahoo.com,,20
+, ali ,26,PARIS,FRA,Finance,2500,contact@outlook.com,Jan 5 2023,70
+1939.0,SARA,24,Lyon,FRA,,1800,,not_a_date,40
+,Sara,27,Paris,FRA,it,3500,invalid-email,2023-01-05,80
+,Nadia,26,paris,FRA,Marketing,3500,test@yahoo.com,Jan 5 2023,60
+466.0,Nadia,22,PARIS,france,,4k,,,40
+1943.0, Karim ,25,Paris,france, Sales ,-100,test@yahoo.com,2023-01-05,100
+,Ali,24,paris,, Marketing ,,test@yahoo.com,Jan 5 2023,30
+439.0,Youssef,??,PARIS,france,SALES,3000,test@yahoo.com,not_a_date,20
+1946.0,Amina,20,,,HR,3000,,2023/01/05,70
+1947.0,Fatima,20,Lyon,,Sales,2000,user@gmail.com,Jan 5 2023,fifty
+,Sara,twenty,LILLE,,it,-100,test@yahoo.com,05/01/2023,90
+1949.0,Fatima,twenty,Paris,FR,HR,999999,contact@outlook.com,not_a_date,10
+,,20,marseille,france, HR ,1800,invalid-email,05/01/2023,30
+,,25,,FR,,2500,invalid-email,05/01/2023,N/A
+, Fatima ,22,,,IT,2000,invalid-email,05/01/2023,10
+147.0,Omar,twenty,LILLE,,SALES,3000€,,,70
+,Nadia,30, Lille ,FR,SALES,999999,contact@outlook.com,not_a_date,70
+,,27, PARIS ,France,Finance,2000,,Jan 5 2023,50
+,,26,marseille,FRA,Marketing,3500,user@gmail.com,Jan 5 2023,80
+1957.0,Fatima,26,,france,,4k,,05/01/2023,
+406.0,Karim,23,PARIS,France,Finance,,contact@outlook.com,2023/01/05,70
+,Nadia,25,Lyon,FRA, HR ,4000,user@gmail.com,05/01/2023,30
+,,21,lyon,FR,IT,3500,invalid-email,2023/01/05,
+446.0,Sara,29, lyon ,FR,,3000€,invalid-email,2023-01-05,80
+34.0,Lina,23,lyon,,HR,1800,user@gmail.com,05/01/2023,N/A
+,Youssef,20,Paris,,Finance,??,,Jan 5 2023,10
+229.0, Lina ,twenty,  ,FRA,it,4k,contact@outlook.com,Jan 5 2023,60
+,Amina,21,LILLE,FRA,SALES,999999,,2023-01-05,
+,SARA,,,,Sales,2200,invalid-email,Jan 5 2023,
+365.0,SARA,,,FR,HR,2200,test@yahoo.com,2023-01-05,100
+196.0,Karim,23,Paris,France,Marketing,1800,test@yahoo.com,05/01/2023,70
+1969.0,Karim,twenty,PARIS,FRA,  ,4k,contact@outlook.com,05/01/2023,10
+1970.0,,20,lyon,,,999999,user@gmail.com,05/01/2023,80
+1971.0,,30, LILLE ,France,Sales,??,invalid-email,,60
+,Lina,??,LILLE,FR,  ,3000€,,Jan 5 2023,
+340.0,Omar,22,,,,??,contact@outlook.com,,100
+1974.0,Fatima,??,Paris,FRA,,3000,contact@outlook.com,not_a_date,50
+,Karim,20,,FR,Marketing,2000,test@yahoo.com,not_a_date,40
+1976.0,,23,LILLE,france,Sales,-100,,not_a_date,60
+,Karim,26,  ,FR,Marketing,2000,test@yahoo.com,05/01/2023,100
+,Sara,twenty,Marseille,France,SALES,4000,invalid-email,05/01/2023,70
+1979.0,Lina,25,paris,FR,Finance,,invalid-email,2023/01/05,100
+109.0,Karim,??,Lyon,FR, Finance ,4k,test@yahoo.com,Jan 5 2023,30
+306.0,Amina,26, paris ,France,Sales,2000,,2023-01-05,30
+276.0,Nadia,21,,france,IT,1800,invalid-email,05/01/2023,10
+68.0,,25,,,it,??,,2023-01-05,10
+84.0,Lina,21,Paris,, Sales ,1800,,2023-01-05,40
+1985.0,,26,LILLE,France, Marketing ,4k,contact@outlook.com,not_a_date,90
+, Youssef ,22,paris,FRA,Marketing,2200,,,N/A
+1987.0,Nadia,29,Lyon,,Marketing,1800,invalid-email,,60
+1988.0,SARA,27,LILLE,FR,,3000,contact@outlook.com,,N/A
+417.0,Karim,twenty,Lyon,FR,it,2500,test@yahoo.com,2023/01/05,30
+1990.0,Ali,21,Paris,,Sales,2200,user@gmail.com,2023/01/05,30
+,Sara,24,Marseille,,it,4k,test@yahoo.com,,80
+222.0, Sara ,30,,,  ,-100,,Jan 5 2023,N/A
+107.0, ali ,20, Marseille ,france,SALES,2500,contact@outlook.com,2023-01-05,10
+16.0, Karim ,22, LILLE ,FRA, SALES ,999999,,,60
+1995.0,,25,marseille,, it ,999999,,,N/A
+1996.0,,twenty,PARIS,FR,SALES,2000,invalid-email,Jan 5 2023,30
+1997.0,Fatima,28,,FRA,Marketing,2500,,05/01/2023,70
+1998.0, ali ,25,Marseille,,it,3500,user@gmail.com,2023-01-05,80
+,Fatima,23,PARIS,FR,,3000,,2023/01/05,90
+,  ,29,Lyon,FRA, IT ,,,not_a_date,90
+, mohamed  ,27,Paris,FR, it ,1800,invalid-email,not_a_date,
+2002.0,Nadia,??,marseille,FRA,Finance,3500,,05/01/2023,80
+135.0,,30,Paris,france,Marketing,4000,contact@outlook.com,2023-01-05,90
+2004.0,Fatima,??,LILLE,france,SALES,1800,invalid-email,2023-01-05,20
+410.0,Omar,??,Lille,FRA, IT ,3000€,,,fifty
+327.0, mohamed  ,29,,France,,4k,test@yahoo.com,not_a_date,
+282.0,mohamed ,21,Lyon,FRA,,-100,contact@outlook.com,05/01/2023,90
+2008.0,Ali,30,marseille,France,it,??,test@yahoo.com,2023/01/05,10
+2009.0,,,lyon,france, Marketing ,??,contact@outlook.com,2023/01/05,30
+463.0, Fatima ,,PARIS,FR,Sales,999999,contact@outlook.com,Jan 5 2023,90
+, ali ,21, paris ,france, Sales ,1800,test@yahoo.com,2023-01-05,fifty
+394.0,Mohamed,21,LILLE,FR, Sales ,3000€,,2023/01/05,90
+62.0, ali ,29, lyon ,France, it ,999999,user@gmail.com,Jan 5 2023,30
+2014.0,Omar,24,Paris,,Sales,2000,test@yahoo.com,05/01/2023,60
+,,,Lille,france,,999999,,Jan 5 2023,10
+174.0,mohamed ,twenty,marseille,France,,999999,invalid-email,05/01/2023,30
+, ali ,27,,,Sales,-100,test@yahoo.com,,
+478.0,Omar,twenty, LILLE ,FRA,it,??,contact@outlook.com,05/01/2023,10
+18.0,Fatima,20,,FR, IT ,??,contact@outlook.com,,60
+,,20,Marseille,FRA,Sales,2200,user@gmail.com,not_a_date,90
+2021.0,Amina,22,LILLE,FRA,  ,3000€,,,60
+,mohamed ,20,,FR,Finance,3000,,,70
+2023.0,,21,Paris,FR, HR ,-100,contact@outlook.com,,70
+78.0,Lina,??,marseille,France,,3500,user@gmail.com,2023/01/05,50
+378.0,Karim,20,Paris,FR,it,2200,,2023-01-05,30
+,Amina,29,paris,FR,Sales,2000,contact@outlook.com,,60
+2027.0,Mohamed,29, Lyon ,,Sales,2500,user@gmail.com,Jan 5 2023,50
+,mohamed ,28, paris ,,,4k,,not_a_date,50
+,  ali  ,24, paris ,FRA,IT,3000,invalid-email,2023-01-05,
+170.0,SARA,20,PARIS,France, Sales ,4k,user@gmail.com,2023-01-05,80
+21.0,mohamed ,25,marseille,,Sales,3000,test@yahoo.com,not_a_date,90
+2032.0,Sara,25,PARIS,france,Sales,??,user@gmail.com,2023/01/05,40
+,Mohamed,22,,, Finance ,4000,user@gmail.com,,90
+448.0,Amina,twenty,Lyon,FRA,,2500,user@gmail.com,2023/01/05,40
+, Karim ,23,Lille,FR,it,2200,invalid-email,not_a_date,70
+,Youssef,24,Lyon,,Sales,-100,invalid-email,Jan 5 2023,
+309.0,Ali,21, marseille ,,Finance,-100,contact@outlook.com,,30
+2038.0,,30,,France,Finance,2200,,2023-01-05,40
+,Ali,,paris,, SALES ,2200,test@yahoo.com,Jan 5 2023,20
+2040.0, ali ,23,paris,,IT,4000,user@gmail.com,Jan 5 2023,40
+2041.0, Mohamed ,,,France, it ,3500,invalid-email,2023/01/05,
+,Youssef,27,,france,HR,2500,invalid-email,Jan 5 2023,40
+,,30,Lyon,FRA,,3000,invalid-email,2023-01-05,50
+1.0,Nadia,22, Paris ,France,,3000€,contact@outlook.com,05/01/2023,70
+56.0,Mohamed,24,lyon,france, SALES ,999999,user@gmail.com,2023/01/05,fifty
+,Sara,29,LILLE,FR, Marketing ,??,test@yahoo.com,2023/01/05,40
+352.0,,27, marseille ,FR,HR,,test@yahoo.com,2023/01/05,30
+2048.0,  ali  ,27,marseille,france,,3000€,,05/01/2023,20
+,Lina,28,lyon,,Sales,3000,,not_a_date,fifty
+,Karim,20,paris,,Sales,2500,contact@outlook.com,Jan 5 2023,fifty
+,,28,  ,,,2200,,2023/01/05,90
+2052.0,Ali,25,Lille,FRA,it,1800,invalid-email,05/01/2023,30
+,Youssef,,marseille,FR, Marketing ,4k,test@yahoo.com,,70
+,Amina,29,Marseille,France,SALES,,,05/01/2023,40
+2055.0,,25,Marseille,FRA,Finance,3000€,contact@outlook.com,2023/01/05,40
+, Ali ,,paris,France, HR ,2500,invalid-email,,10
+104.0,Karim,28,paris,France,,,,05/01/2023,40
+2058.0,Fatima,25,paris,France, Marketing ,1800,,2023/01/05,20
+,Amina,27,Lyon,France,it,2500,,2023-01-05,20
+412.0,mohamed ,29,Lille,, Finance ,1800,invalid-email,,50
+2061.0, ali ,twenty,Paris,FRA,Finance,999999,invalid-email,Jan 5 2023,20
+,Amina,23,,FR, IT ,4000,,Jan 5 2023,60
+385.0, Omar ,,PARIS,France,Sales,??,,2023-01-05,
+2064.0,Mohamed,??,PARIS,france,IT,-100,test@yahoo.com,05/01/2023,40
+2065.0,Youssef,27,Paris,,,2500,,05/01/2023,10
+,,,Lyon,FR,Marketing,??,invalid-email,05/01/2023,N/A
+2067.0, Nadia ,26,Paris,france, it ,1800,,05/01/2023,
+431.0,Sara,21, PARIS ,france,Sales,2200,invalid-email,2023-01-05,70
+,,22,lyon,,,-100,,,90
+,,29,Marseille,FRA,HR,4k,,,100
+110.0,Karim,22,,FRA,Marketing,3500,contact@outlook.com,not_a_date,40
+,mohamed ,twenty, Paris ,france,SALES,3000,invalid-email,,90
+2073.0,,29, paris ,, HR ,1800,test@yahoo.com,,N/A
+2074.0,Omar,27,marseille,, HR ,1800,,05/01/2023,90
+2075.0,mohamed ,22,Lyon,France,  ,4k,,2023-01-05,40
+,Sara,25,Lille,, Sales ,3000,contact@outlook.com,Jan 5 2023,90
+2077.0,Ali,26,LILLE,france,HR,999999,test@yahoo.com,,
+,Mohamed,29,LILLE,France,SALES,-100,,not_a_date,20
+377.0,Nadia,22,,FR,it,1800,user@gmail.com,,10
+2080.0,mohamed ,30,Paris,, IT ,2000,contact@outlook.com,05/01/2023,fifty
+, Amina ,21, paris ,,Finance,,user@gmail.com,2023/01/05,fifty
+, ali ,25,Paris,, IT ,-100,test@yahoo.com,Jan 5 2023,60
+, Sara ,twenty,Lille,,Marketing,999999,contact@outlook.com,Jan 5 2023,30
+,,22,,,,,contact@outlook.com,2023/01/05,90
+2085.0,Mohamed,22,lyon,, IT ,3500,invalid-email,2023/01/05,10
+259.0,Nadia,20, Paris ,,IT,1800,,Jan 5 2023,40
+193.0,  ali  ,25,paris,FR,,3000,,05/01/2023,70
+,Sara,23,marseille,france, Marketing ,3000€,test@yahoo.com,Jan 5 2023,60
+2089.0, Lina ,24, PARIS ,, SALES ,-100,user@gmail.com,not_a_date,N/A
+,Nadia,20,marseille,france,Finance,4000,,,100
+285.0,Amina,25,Paris,,,2200,test@yahoo.com,2023-01-05,10
+2092.0,,21,marseille,FR,,2000,,not_a_date,N/A
+2.0,  ali  ,,lyon,,HR,3000€,invalid-email,2023/01/05,40
+2094.0, Karim ,,Lyon,, Sales ,4000,contact@outlook.com,05/01/2023,30
+2095.0,Mohamed,, marseille ,,Marketing,-100,test@yahoo.com,not_a_date,100
+, ali ,,lyon,FRA, Marketing ,2200,user@gmail.com,05/01/2023,70
+,Mohamed,25, Lille ,FRA, Finance ,2000,contact@outlook.com,,50
+42.0,,20,marseille,FR,SALES,2200,contact@outlook.com,,60
+387.0,,??,Paris,france,SALES,999999,test@yahoo.com,,
+188.0,Omar,30,PARIS,FR,Finance,-100,user@gmail.com,,20
+240.0,Youssef,26,lyon,FR,  ,4k,,not_a_date,10
+2102.0,SARA,21, Marseille ,france,,-100,,not_a_date,30
+425.0,Lina,, PARIS ,FRA,IT,??,,Jan 5 2023,10
+, ali ,20,lyon,france,Finance,2500,test@yahoo.com,,60
+, Youssef ,29,Marseille,,Sales,4000,,05/01/2023,fifty
+2106.0, Sara ,21,,FRA,,,,,20
+2107.0, Amina ,23,Lyon,, Sales ,??,,05/01/2023,80
+2108.0,Karim,30,Marseille,france,IT,4000,user@gmail.com,,20
+2109.0,,twenty,  ,,,999999,contact@outlook.com,2023/01/05,20
+,,26, Lille ,,,1800,user@gmail.com,05/01/2023,40
+2111.0,mohamed ,20,,France,it,999999,invalid-email,2023-01-05,90
+,Omar,20,Lyon,,SALES,3500,invalid-email,,N/A
+254.0,SARA,24,,France,SALES,1800,,,40
+200.0,Amina,twenty,Marseille,france, IT ,2000,contact@outlook.com,not_a_date,20
+2115.0,,28,,,Marketing,2000,,Jan 5 2023,40
+118.0, Omar ,27,Marseille,France,HR,999999,invalid-email,05/01/2023,30
+,Mohamed,23,,,,2200,user@gmail.com,05/01/2023,80
+140.0,Lina,26, paris ,France,Marketing,1800,,,N/A
+2119.0,Omar,28,marseille,,IT,3500,,2023-01-05,fifty
+405.0,Fatima,27,marseille,FRA,SALES,999999,,2023-01-05,90
+2121.0,Sara,,PARIS,FRA,IT,1800,test@yahoo.com,,10
+2122.0,Lina,26,marseille,,Sales,999999,user@gmail.com,2023/01/05,30
+350.0, Sara ,25,Lyon,France,HR,999999,test@yahoo.com,Jan 5 2023,60
+2124.0,,26,Lille,,HR,4000,,2023-01-05,80
+320.0,Karim,twenty,Lille,,HR,4k,test@yahoo.com,not_a_date,50
+,Ali,21,Lyon,FR,,1800,,2023/01/05,fifty
+99.0, Youssef ,23, LILLE ,,,-100,,05/01/2023,70
+2128.0,Fatima,30,Marseille,,Sales,1800,user@gmail.com,,60
+,SARA,20,  ,France,,3500,,not_a_date,N/A
+33.0, Youssef ,29,PARIS,France,,3000,,,30
+,SARA,29,,,SALES,999999,,not_a_date,fifty
+,Youssef,??,Lille,,,2000,,Jan 5 2023,30
+274.0,Amina,26,,,Finance,2200,contact@outlook.com,not_a_date,20
+2134.0,mohamed ,28,lyon,,Finance,2200,test@yahoo.com,2023-01-05,30
+2135.0,Youssef,twenty,PARIS,FRA,SALES,4k,,2023-01-05,70
+, Ali ,28, LILLE ,france,SALES,??,user@gmail.com,2023/01/05,fifty
+2137.0, ali ,27, PARIS ,,Finance,3000,,,40
+,Fatima,25,,, it ,??,test@yahoo.com,not_a_date,30
+,mohamed ,20,lyon,France,it,4000,,2023-01-05,30
+,Amina,29,marseille,FR,IT,3000€,test@yahoo.com,2023/01/05,100
+390.0,Omar,30,PARIS,FRA,Marketing,2000,,2023/01/05,100
+193.0,Karim,30,paris,france,IT,3000€,invalid-email,,70
+,,30, PARIS ,france,,3500,,Jan 5 2023,fifty
+61.0,,23,lyon,FRA,,2200,test@yahoo.com,not_a_date,fifty
+395.0,,28,lyon,,IT,1800,test@yahoo.com,2023/01/05,fifty
+2146.0,Ali,30,Lille,FRA,SALES,4000,user@gmail.com,2023-01-05,20
+426.0,Omar,23,paris,France, Finance ,4k,contact@outlook.com,,10
+2148.0, Karim ,28,Paris,,Marketing,2000,contact@outlook.com,,100
+,Lina,20, LILLE ,FRA,HR,??,,05/01/2023,100
+486.0,  ali  ,26,,france,IT,-100,contact@outlook.com,05/01/2023,
+143.0,Ali,27,LILLE,FRA,Marketing,4000,test@yahoo.com,2023-01-05,N/A
+482.0,,22,marseille,FRA,HR,4k,test@yahoo.com,Jan 5 2023,10
+2153.0,SARA,??,LILLE,,,4000,user@gmail.com,05/01/2023,100
+,Sara,twenty,lyon,France,SALES,3000€,,not_a_date,50
+2155.0,Fatima,23,LILLE,france,Sales,2200,contact@outlook.com,Jan 5 2023,N/A
+2156.0,Fatima,25, marseille ,France,,3000€,user@gmail.com,2023/01/05,10
+2157.0, ali ,21, paris ,,HR,1800,invalid-email,2023-01-05,40
+384.0,Fatima,??,Lille,,it,2200,invalid-email,2023/01/05,90
+293.0,Karim,21, Lyon ,france,,2000,,not_a_date,50
+157.0,Amina,20,PARIS,, it ,1800,test@yahoo.com,,70
+,Ali,??,paris,FRA,Marketing,3000,user@gmail.com,05/01/2023,80
+,Youssef,??, paris ,FRA,,3000€,user@gmail.com,05/01/2023,80
+379.0,  ali  ,28,PARIS,france,Sales,1800,test@yahoo.com,,20
+449.0,  ,??,,,HR,2000,,05/01/2023,50
+265.0,Mohamed,29,Lille,FR,,999999,,,100
+2166.0,mohamed ,26,Lyon,,Finance,2000,,05/01/2023,90
+348.0,Karim,20,Marseille,france,,-100,user@gmail.com,2023/01/05,fifty
+,Omar,,,FRA,SALES,??,user@gmail.com,2023/01/05,80
+2169.0, Karim ,??,LILLE,france,SALES,3000€,test@yahoo.com,,fifty
+7.0,mohamed ,20, marseille ,,HR,2000,,,30
+2171.0, ali ,25, Marseille ,,HR,2000,invalid-email,,
+2172.0,mohamed ,25,Lille,FRA,Sales,??,contact@outlook.com,2023/01/05,100
+,Sara,28,,france,Sales,4k,test@yahoo.com,Jan 5 2023,100
+203.0, mohamed  ,29,Paris,,,999999,,Jan 5 2023,40
+, Amina ,28,lyon,,IT,2200,test@yahoo.com,2023-01-05,60
+2176.0,Amina,,Lyon,,,4000,,not_a_date,N/A
+354.0,Omar,24,,france,Marketing,4k,contact@outlook.com,,N/A
+,Omar,30, paris ,, Sales ,3000,contact@outlook.com,2023/01/05,
+,Nadia,twenty,Paris,,,2000,contact@outlook.com,05/01/2023,40
+,Karim,27,marseille,FRA,Finance,3000€,,05/01/2023,10
+,Nadia,24,marseille,France,Sales,-100,,,80
+, Omar ,27,marseille,,HR,4k,,2023/01/05,90
+,,22,PARIS,FR,,4k,test@yahoo.com,2023/01/05,N/A
+,Omar,25,,, IT ,4000,,05/01/2023,
+2185.0, Lina ,20,lyon,France, it ,999999,invalid-email,2023/01/05,N/A
+317.0, ali ,27,,France,IT,??,user@gmail.com,05/01/2023,50
+,Mohamed,twenty, Marseille ,FR, Marketing ,3000,test@yahoo.com,not_a_date,70
+, Karim ,23,PARIS,FR,Marketing,2200,,05/01/2023,
+2189.0, ali ,28,,FR,SALES,2500,test@yahoo.com,not_a_date,100
+2190.0,Lina,26,PARIS,FR,Sales,??,,Jan 5 2023,30
+272.0,SARA,27,PARIS,FR,SALES,2200,,05/01/2023,70
+, Fatima ,??, Lyon ,FR,,4k,,Jan 5 2023,20
+,Sara,28,marseille,FR,it,1800,,2023/01/05,90
+134.0,,28,Marseille,France,it,999999,invalid-email,,
+147.0,Fatima,20, Lyon ,FR,Sales,??,,,100
+2196.0,,27,,FRA,HR,1800,test@yahoo.com,not_a_date,N/A
+,Fatima,24,Paris,France,it,2500,invalid-email,Jan 5 2023,20
+166.0, Nadia ,21, Marseille ,FR,Finance,2000,test@yahoo.com,,30
+,,23,marseille,FRA,,2000,test@yahoo.com,,70
+229.0,Ali,20,,FR,HR,-100,,,20
+2201.0,Ali,twenty,Marseille,france,,4000,,not_a_date,20
+,Omar,27,Lille,France, HR ,999999,invalid-email,2023-01-05,50
+2203.0,Fatima,??,Lille,,,999999,contact@outlook.com,2023/01/05,30
+2204.0,  ,25,Lille,FRA,SALES,1800,contact@outlook.com,,fifty
+,Karim,twenty,LILLE,,,3000,contact@outlook.com,,30
+70.0, SARA ,25, Lille ,FR,Marketing,3000€,,Jan 5 2023,N/A
+301.0,Lina,twenty,Marseille,,Marketing,2200,,05/01/2023,50
+,,21,paris,,SALES,3500,user@gmail.com,05/01/2023,10
+2209.0,Ali,22,lyon,FR,Finance,4k,,05/01/2023,20
+2210.0,Mohamed,30,paris,FR,it,2000,test@yahoo.com,2023-01-05,60
+174.0,Ali,28,Lyon,,SALES,3000€,,05/01/2023,
+51.0,Youssef,24,Lille,,SALES,4000,,not_a_date,N/A
+2213.0,Nadia,??,Lyon,FRA,,??,invalid-email,,50
+329.0,Mohamed,,Paris,france, it ,3000€,,,30
+470.0, Youssef ,23,paris,,Finance,999999,test@yahoo.com,,90
+2216.0, SARA ,22,Lyon,France,HR,2500,,05/01/2023,
+,Youssef,29,paris,France,SALES,-100,user@gmail.com,2023-01-05,90
+125.0,Youssef,27, PARIS ,france,  ,,contact@outlook.com,2023-01-05,90
+84.0, Karim ,28,paris,,,2200,test@yahoo.com,Jan 5 2023,80
+237.0, Youssef ,,Marseille,,Marketing,,test@yahoo.com,2023/01/05,30
+, Ali ,25,PARIS,, Sales ,3000€,,,80
+,Omar,23,paris,FRA,IT,3000€,test@yahoo.com,,80
+2223.0,  ali  ,27,PARIS,France,,??,test@yahoo.com,05/01/2023,80
+,SARA,23,,, HR ,1800,contact@outlook.com,05/01/2023,30
+,Amina,29, Lyon ,,SALES,2200,user@gmail.com,,70
+409.0, ali ,??,,France,Marketing,2500,,not_a_date,30
+2227.0,Lina,30,Marseille,,Finance,999999,,,90
+104.0,Omar,24,lyon,FRA,Sales,,,,80
+,,27,Lyon,france, SALES ,3000,test@yahoo.com,2023-01-05,100
+170.0,,24,,FRA,Sales,2200,invalid-email,not_a_date,100
+2231.0, Mohamed ,29,PARIS,FRA, Sales ,2200,user@gmail.com,Jan 5 2023,40
+, Nadia ,twenty,Lille,FRA, Sales ,2500,invalid-email,,60
+,Omar,28,Lyon,france,HR,1800,,,20
+68.0, Karim ,, Paris ,,Finance,2200,user@gmail.com,2023-01-05,50
+,Nadia,29,,FRA,,3000€,,,100
+224.0,  ali  ,23,Marseille,,,3500,test@yahoo.com,05/01/2023,
+273.0,,20,Paris,france,IT,3000,contact@outlook.com,05/01/2023,70
+2238.0,,29,,FR,Sales,,user@gmail.com,Jan 5 2023,30
+2239.0,,,,France, IT ,999999,test@yahoo.com,,100
+,Amina,,Marseille,,IT,2000,contact@outlook.com,05/01/2023,80
+,,,Lille,france,IT,4k,test@yahoo.com,2023-01-05,100
+212.0,Sara,23,,,,2000,,2023-01-05,30
+2243.0, ali ,22,PARIS,France,Finance,2200,user@gmail.com,,
+,Nadia,26,LILLE,,HR,1800,user@gmail.com,not_a_date,fifty
+,Sara,21, paris ,FRA,SALES,2000,test@yahoo.com,05/01/2023,10
+,SARA,20,LILLE,france, it ,??,,not_a_date,fifty
+2247.0,Fatima,29,Lyon,France,Marketing,4k,test@yahoo.com,2023/01/05,70
+2248.0,Omar,20,,france,,??,,,50
+,Sara,22,lyon,france,Sales,2000,contact@outlook.com,2023-01-05,fifty
+,Karim,30,Lille,france, it ,1800,,,60
+2251.0,Amina,24,marseille,france,IT,4k,test@yahoo.com,,60
+495.0,SARA,26,paris,,IT,999999,test@yahoo.com,,
+,Lina,22,  ,FRA,IT,999999,user@gmail.com,05/01/2023,80
+2254.0,Youssef,23,marseille,FR,,3500,,Jan 5 2023,70
+2255.0, Fatima ,??, Paris ,FR,Sales,-100,test@yahoo.com,2023-01-05,30
+2256.0,Karim,21,Marseille,,HR,,test@yahoo.com,not_a_date,80
+2257.0, Mohamed ,29,,France,,-100,,2023-01-05,70
+,Ali,26,Lyon,france,HR,3000,,,20
+175.0,Youssef,??,PARIS,,IT,2500,,,50
+2260.0,Ali,21,Paris,,it,4000,invalid-email,not_a_date,fifty
+327.0,Lina,26,lyon,, Sales ,3500,invalid-email,not_a_date,
+398.0, Lina ,24,marseille,france, Finance ,3000,invalid-email,,20
+70.0,Nadia,26,Paris,France, IT ,3000€,user@gmail.com,,20
+, Sara ,20,Lyon,France,SALES,3000€,test@yahoo.com,2023-01-05,80
+204.0,mohamed ,21,LILLE,france,SALES,3000€,user@gmail.com,not_a_date,10
+2266.0,mohamed ,,,FR,,2000,test@yahoo.com,not_a_date,10
+, Sara ,25,Paris,FRA,Sales,2500,,2023-01-05,70
+2268.0,Fatima,20,LILLE,, Finance ,3500,user@gmail.com,2023-01-05,50
+, Youssef ,27, lyon ,france,SALES,2200,user@gmail.com,,40
+2270.0,Amina,26,PARIS,FR,,3000€,,Jan 5 2023,80
+,Karim,29,lyon,FRA,IT,2500,user@gmail.com,not_a_date,10
+2272.0, ali ,twenty,Lyon,,SALES,2200,invalid-email,Jan 5 2023,70
+455.0,Karim,??,PARIS,France,it,4k,user@gmail.com,not_a_date,40
+2274.0, SARA ,??,LILLE,France, IT ,1800,contact@outlook.com,2023/01/05,70
+2275.0, Youssef ,25,,,IT,999999,user@gmail.com,,20
+25.0,Amina,27,,FRA,Sales,3000,user@gmail.com,2023-01-05,N/A
+335.0,Amina,23,Lille,,Sales,-100,,,N/A
+, ali ,,lyon,,IT,3500,test@yahoo.com,,N/A
+33.0,mohamed ,22,Paris,FR,,1800,,Jan 5 2023,
+,,27,marseille,,,,,05/01/2023,
+2281.0,Nadia,29,LILLE,,Sales,4000,invalid-email,not_a_date,90
+383.0, Sara ,26,marseille,France,HR,2500,invalid-email,Jan 5 2023,10
+248.0,Amina,24,Lyon,france,HR,999999,contact@outlook.com,2023/01/05,30
+,SARA,28,,,Marketing,4k,,2023-01-05,100
+2285.0, Sara ,,lyon,france,SALES,??,test@yahoo.com,2023-01-05,40
+2286.0,Omar,27,Lille,france,Sales,2000,invalid-email,2023-01-05,30
+, ali ,20,,,Marketing,2000,,,20
+120.0,  ali  ,,,,  ,4k,,,100
+2289.0,  ,21, paris ,FRA,IT,-100,,not_a_date,
+300.0,,30,Lille,France, Sales ,3000€,invalid-email,Jan 5 2023,50
+2291.0,Mohamed,twenty,paris,FRA,it,3000€,,,40
+292.0,Omar,25,LILLE,France,,2200,user@gmail.com,,10
+, Ali ,26, LILLE ,FR,,??,user@gmail.com,,30
+2294.0,Karim,29,paris,FR,SALES,2000,,,20
+2295.0,Omar,27,,,Marketing,999999,test@yahoo.com,not_a_date,
+,,28,PARIS,FRA,SALES,4k,,,80
+,Ali,24, Paris ,,it,2500,,2023-01-05,50
+2298.0, mohamed  ,29,marseille,France,it,4000,user@gmail.com,2023/01/05,90
+2299.0,Mohamed,27, lyon ,,,3000€,test@yahoo.com,Jan 5 2023,N/A
+193.0,Sara,twenty,LILLE,, SALES ,2200,contact@outlook.com,,10
+,,26,,FR,SALES,4000,,05/01/2023,N/A
+,Karim,20,lyon,FRA,,3000,test@yahoo.com,2023-01-05,80
+2303.0,Omar,25,paris,FRA,HR,2200,contact@outlook.com,not_a_date,fifty
+,Karim,24,Lille,,HR,1800,,not_a_date,fifty
+2305.0, Youssef ,28,marseille,,,2500,,2023-01-05,70
+70.0,Karim,27,PARIS,,,4k,,2023-01-05,70
+,,21, paris ,FR,Sales,2500,user@gmail.com,not_a_date,fifty
+2308.0,Lina,30,,,HR,2500,,2023/01/05,20
+2309.0,Nadia,,marseille,France,it,2200,test@yahoo.com,2023-01-05,50
+,Omar,21,marseille,FR,IT,2200,contact@outlook.com,Jan 5 2023,fifty
+154.0,Mohamed,24,paris,, Sales ,4000,contact@outlook.com,,10
+2312.0,SARA,24,lyon,France, SALES ,4000,user@gmail.com,2023/01/05,fifty
+379.0,,,paris,,HR,-100,contact@outlook.com,not_a_date,90
+, ali ,20,Lille,,IT,4000,invalid-email,,90
+2315.0,Youssef,21, LILLE ,FR,SALES,3000€,user@gmail.com,,40
+429.0,Amina,22,marseille,,SALES,3000,,2023/01/05,100
+, Amina ,twenty,Lyon,,SALES,-100,,not_a_date,80
+, Karim ,29, lyon ,,Sales,3500,contact@outlook.com,not_a_date,50
+,Ali,21,paris,,HR,-100,,,30
+,mohamed ,27,Marseille,france,SALES,-100,user@gmail.com,Jan 5 2023,20
+36.0,Sara,26,,, IT ,2500,,not_a_date,fifty
+,mohamed ,26,Lyon,FRA,it,2500,invalid-email,,
+2323.0,Omar,29,lyon,FR,it,4k,user@gmail.com,2023/01/05,80
+2324.0,Ali,29,,, Marketing ,999999,test@yahoo.com,Jan 5 2023,90
+, Youssef ,22,Paris,FR, SALES ,4000,,,50
+,,28,,FRA,SALES,,invalid-email,2023-01-05,60
+404.0,Youssef,22,Paris,FR,it,4000,contact@outlook.com,2023/01/05,fifty
+226.0,Omar,20,,FRA,Marketing,999999,contact@outlook.com,05/01/2023,40
+, mohamed  ,29,Paris,FRA,HR,2500,contact@outlook.com,Jan 5 2023,fifty
+207.0,mohamed ,22,,france,SALES,3500,,Jan 5 2023,10
+55.0, ali ,25,,, it ,2500,user@gmail.com,2023-01-05,N/A
+, Karim ,22,PARIS,France,HR,2200,contact@outlook.com,05/01/2023,fifty
+408.0,Karim,27,,FRA,Marketing,4000,test@yahoo.com,,60
+2334.0, Karim ,20, paris ,France, HR ,3000,,2023-01-05,20
+,,24, Lille ,,SALES,1800,user@gmail.com,,90
+2336.0,Nadia,29,Lille,FRA,,-100,invalid-email,not_a_date,30
+2337.0,Mohamed,29,,FR,,999999,user@gmail.com,,50
+2338.0,SARA,26,lyon,france,SALES,2000,test@yahoo.com,,20
+2339.0,Ali,23,Lille,FR,Finance,-100,invalid-email,Jan 5 2023,40
+220.0, SARA ,29,marseille,,IT,,,Jan 5 2023,
+86.0,Youssef,28,PARIS,FR,HR,2000,,not_a_date,N/A
+2342.0,Omar,25, lyon ,FR,Marketing,1800,user@gmail.com,,70
+130.0,  ali  ,25, lyon ,,,3500,,05/01/2023,40
+2344.0,Sara,22,Lyon,france,,3000,,not_a_date,fifty
+,Nadia,30,,,Sales,,invalid-email,,70
+2346.0, Fatima ,30,lyon,,HR,,test@yahoo.com,2023-01-05,40
+,Omar,26,,france,Sales,,contact@outlook.com,,10
+,Ali,twenty,paris,, SALES ,2500,user@gmail.com,Jan 5 2023,60
+,Fatima,20,marseille,,Finance,3500,,not_a_date,90
+2350.0,Youssef,29,Lyon,FR,Finance,3000,user@gmail.com,2023-01-05,N/A
+,SARA,21, Lille ,France,SALES,,invalid-email,not_a_date,50
+2352.0,,26,Marseille,france,Marketing,3000,contact@outlook.com,,60
+133.0,Karim,20,Lille,france,,3500,,2023-01-05,80
+,Fatima,27, Lille ,France,IT,??,,,fifty
+, ali ,25,Lyon,,Sales,2200,,2023/01/05,90
+,Youssef,??,Lille,, SALES ,999999,,not_a_date,100
+,Omar,28, PARIS ,, IT ,3000,contact@outlook.com,2023/01/05,100
+2358.0,,27,paris,FR,,??,test@yahoo.com,Jan 5 2023,70
+2359.0,mohamed ,21,,, SALES ,-100,contact@outlook.com,05/01/2023,50
+2360.0,,28,,france,,2200,,05/01/2023,40
+2361.0,Mohamed,21,,,,,user@gmail.com,2023/01/05,30
+,Fatima,22, Lille ,,IT,-100,,not_a_date,40
+2363.0,Sara,20,paris,France, HR ,2500,test@yahoo.com,2023-01-05,10
+,Omar,26,LILLE,FRA,SALES,2000,user@gmail.com,2023-01-05,90
+,Amina,30,Lille,,,-100,invalid-email,2023-01-05,10
+2366.0,,24,Lyon,FR, SALES ,999999,user@gmail.com,Jan 5 2023,10
+,Fatima,28,lyon,FR,Finance,??,user@gmail.com,not_a_date,90
+2368.0,mohamed ,27,lyon,FRA,,??,test@yahoo.com,05/01/2023,60
+158.0,,29,Marseille,, Sales ,1800,user@gmail.com,05/01/2023,N/A
+2370.0,Nadia,??, marseille ,france,IT,3500,contact@outlook.com,Jan 5 2023,N/A
+301.0,Nadia,??,paris,FR, IT ,-100,user@gmail.com,2023/01/05,70
+,Karim,26,lyon,France,Sales,1800,,2023/01/05,60
+2373.0,SARA,21,Lyon,FR, IT ,999999,invalid-email,not_a_date,60
+51.0,Amina,??,,FR,,1800,,not_a_date,10
+,mohamed ,23,marseille,FRA,,2500,contact@outlook.com,not_a_date,30
+,SARA,29,,, SALES ,2200,invalid-email,not_a_date,80
+2377.0,Omar,23,Lille,FRA,,3000€,,,100
+60.0,Omar,30,,,,999999,,2023-01-05,60
+15.0,mohamed ,29, marseille ,france,it,,user@gmail.com,not_a_date,80
+459.0,Ali,,,france,HR,1800,user@gmail.com,05/01/2023,70
+,mohamed ,25,LILLE,,  ,4k,,,30
+2382.0,Youssef,21,Lille,France, it ,2200,user@gmail.com,,80
+184.0,Omar,25,paris,FRA,,,contact@outlook.com,,20
+,Mohamed,27,lyon,FRA,HR,999999,user@gmail.com,2023-01-05,90
+, Omar ,22, lyon ,France, SALES ,2200,invalid-email,Jan 5 2023,30
+2386.0,Amina,27,Marseille,,Sales,,user@gmail.com,,N/A
+451.0,SARA,,Marseille,FR,HR,2000,,Jan 5 2023,
+150.0,Nadia,??,Paris,FR,SALES,999999,,05/01/2023,10
+, Mohamed ,22,Marseille,FRA, IT ,-100,,2023-01-05,N/A
+2390.0, ali ,26,Lyon,, it ,4000,contact@outlook.com,2023-01-05,80
+2391.0,,22, lyon ,FRA, HR ,3000€,test@yahoo.com,not_a_date,100
+,  ,twenty,lyon,France,IT,2000,invalid-email,not_a_date,
+, Mohamed ,22,lyon,,,2500,user@gmail.com,05/01/2023,70
+37.0,  ,28,Marseille,France,,2000,user@gmail.com,,60
+, ali ,,Paris,France, Sales ,4k,contact@outlook.com,2023-01-05,100
+91.0,  ,twenty,paris,,Sales,3500,test@yahoo.com,2023/01/05,20
+2397.0,SARA,25,Lyon,FRA,IT,4k,test@yahoo.com,05/01/2023,10
+16.0,Sara,twenty,marseille,,it,??,user@gmail.com,2023-01-05,80
+,,30,paris,,Marketing,3000€,,Jan 5 2023,N/A
+2400.0,mohamed ,30,PARIS,,,,invalid-email,not_a_date,90
+2401.0,,??,marseille,FR,HR,4k,contact@outlook.com,Jan 5 2023,80
+2402.0,Karim,??,paris,,,2200,invalid-email,05/01/2023,fifty
+,Sara,23, paris ,France,Marketing,3500,user@gmail.com,05/01/2023,60
+, ali ,29, marseille ,france,HR,2000,invalid-email,Jan 5 2023,40
+,Lina,27,lyon,,Finance,3500,test@yahoo.com,2023/01/05,90
+30.0,,24,Lille,FRA,IT,-100,invalid-email,2023/01/05,40
+, Fatima ,,lyon,FR,,3000€,test@yahoo.com,not_a_date,50
+2408.0,Lina,twenty,Lyon,FRA,Marketing,4000,test@yahoo.com,not_a_date,10
+169.0,Ali,27,LILLE,FR, IT ,4000,contact@outlook.com,2023/01/05,100
+171.0,Sara,25,marseille,france,Finance,4k,test@yahoo.com,,10
+2411.0,Omar,25,Marseille,France,IT,,,,50
+2412.0, ali ,29,paris,france,Sales,2000,user@gmail.com,2023/01/05,fifty
+259.0,Sara,29,,France, HR ,3500,contact@outlook.com,,80
+349.0,Ali,30,PARIS,france,IT,4000,,not_a_date,60
+2415.0,Lina,??, lyon ,, Sales ,??,test@yahoo.com,2023-01-05,20
+2416.0,Mohamed,27,Marseille,,it,1800,user@gmail.com,05/01/2023,70
+,,20, paris ,FR,Sales,3500,test@yahoo.com,,N/A
+2418.0,,25,,,Marketing,,,not_a_date,60
+16.0,Youssef,20,LILLE,France,,-100,test@yahoo.com,,30
+,Omar,20, Marseille ,,it,??,user@gmail.com,05/01/2023,
+2421.0,Ali,20, marseille ,FR,Finance,3000,,2023-01-05,40
+,Sara,20,lyon,FR, HR ,1800,test@yahoo.com,2023/01/05,10
+,SARA,twenty,lyon,France,Sales,3000€,contact@outlook.com,,100
+2424.0,Fatima,30,Marseille,,HR,3000€,contact@outlook.com,Jan 5 2023,fifty
+2425.0,,25,,,it,2200,user@gmail.com,Jan 5 2023,70
+2426.0,Ali,26,LILLE,, IT ,??,user@gmail.com,2023/01/05,100
+,Ali,21, Lille ,FRA,,,contact@outlook.com,2023-01-05,fifty
+2428.0,Nadia,28, lyon ,,HR,-100,test@yahoo.com,,40
+291.0,Youssef,29,Marseille,france,IT,1800,invalid-email,2023/01/05,80
+2430.0,Lina,25, Paris ,france,HR,??,contact@outlook.com,,10
+37.0,Fatima,26, Marseille ,FR,HR,4000,test@yahoo.com,Jan 5 2023,20
+,Youssef,22,,France,HR,??,,,fifty
+2433.0,mohamed ,23,lyon,FR,Sales,2000,user@gmail.com,,fifty
+, Ali ,30,marseille,, IT ,3500,test@yahoo.com,2023-01-05,
+,Omar,26,Lille,FR,Finance,1800,test@yahoo.com,2023-01-05,20
+196.0,Nadia,23,PARIS,,IT,3000,,Jan 5 2023,80
+, Omar ,twenty,Lille,FRA,it,4k,test@yahoo.com,2023-01-05,30
+,Amina,twenty,marseille,FR,HR,4000,user@gmail.com,05/01/2023,40
+,mohamed ,22, Paris ,, HR ,,contact@outlook.com,Jan 5 2023,90
+2440.0,Youssef,27, LILLE ,France, HR ,1800,invalid-email,2023-01-05,20
+410.0,,22,Lyon,,,1800,test@yahoo.com,05/01/2023,70
+2442.0,Sara,30,  ,,HR,2000,contact@outlook.com,not_a_date,fifty
+,Amina,27,Paris,,it,4k,user@gmail.com,2023/01/05,20
+2444.0,Omar,26,Lyon,,it,3500,,not_a_date,20
+,,25,,,,-100,invalid-email,05/01/2023,N/A
+2446.0,Karim,28,Lille,France,IT,999999,contact@outlook.com,05/01/2023,80
+,Amina,??,Lyon,France,,4000,,05/01/2023,90
+,Nadia,22,Lille,FR,it,3000,user@gmail.com,,20
+2449.0,Mohamed,, LILLE ,france,IT,1800,test@yahoo.com,not_a_date,40
+314.0, Omar ,22,,france,HR,??,test@yahoo.com,2023-01-05,50
+45.0,Youssef,27, lyon ,,Finance,-100,test@yahoo.com,,90
+2452.0,Sara,26,Marseille,,Finance,-100,user@gmail.com,,30
+,SARA,20,PARIS,France,Finance,1800,contact@outlook.com,,N/A
+2454.0,,22,PARIS,,,,contact@outlook.com,,30
+2455.0,Fatima,25,Lyon,France,HR,3000€,user@gmail.com,2023/01/05,60
+2456.0,Karim,24, marseille ,france,IT,??,user@gmail.com,Jan 5 2023,N/A
+, Fatima ,??, LILLE ,FRA,,3500,invalid-email,not_a_date,20
+,Fatima,22, paris ,, IT ,??,test@yahoo.com,not_a_date,20
+,,??,,,Sales,,contact@outlook.com,2023/01/05,100
+2460.0,Amina,,Lille,france,Sales,999999,user@gmail.com,Jan 5 2023,40
+,Omar,??,lyon,France,SALES,4000,test@yahoo.com,05/01/2023,100
+2462.0, Sara ,26,LILLE,France,,1800,contact@outlook.com,2023/01/05,90
+453.0,,26, marseille ,FRA,IT,4000,test@yahoo.com,,70
+2464.0,Sara,29,Lille,FRA,it,3500,user@gmail.com,Jan 5 2023,100
+146.0,Youssef,30,Paris,FRA,SALES,4000,test@yahoo.com,,50
+2466.0,SARA,23,,FRA,it,1800,contact@outlook.com,,100
+2467.0,Nadia,23,PARIS,france,SALES,2200,invalid-email,,20
+45.0,Mohamed,24,Lyon,FRA,HR,-100,contact@outlook.com,,90
+356.0,Youssef,30, PARIS ,France,,3000€,,2023-01-05,90
+376.0,Amina,30,,France, SALES ,2200,,05/01/2023,N/A
+,Sara,30,,,SALES,3000,test@yahoo.com,05/01/2023,90
+2472.0,,22,lyon,FRA, HR ,3500,,2023-01-05,60
+2473.0,Fatima,23,lyon,france, IT ,999999,,05/01/2023,20
+,,25,,,,4000,user@gmail.com,Jan 5 2023,N/A
+136.0,,27,marseille,,Marketing,,contact@outlook.com,,80
+,SARA,,lyon,,it,2500,contact@outlook.com,05/01/2023,70
+,Nadia,??, lyon ,FRA,SALES,-100,,,90
+2478.0,Karim,23,lyon,france,Sales,2200,contact@outlook.com,Jan 5 2023,60
+,SARA,20,,FR,Marketing,3000€,user@gmail.com,,60
+94.0,Amina,22,Marseille,FR,SALES,4000,contact@outlook.com,,80
+2481.0,,23,Paris,FRA,Marketing,2200,test@yahoo.com,Jan 5 2023,fifty
+,Sara,24,PARIS,FRA, Sales ,3000,user@gmail.com,,50
+,Amina,23,Lyon,france,SALES,2000,contact@outlook.com,,60
+453.0,Fatima,,Paris,FRA,SALES,2500,,,80
+2485.0,,30, Paris ,France,,??,,,20
+,,25, PARIS ,france,Sales,2000,contact@outlook.com,,90
+2487.0,,28,lyon,FR, HR ,2500,contact@outlook.com,,
+,,22, marseille ,,,3000,contact@outlook.com,,
+,Nadia,20,paris,FRA,Finance,??,test@yahoo.com,,
+,Ali,,Lille,FRA,it,-100,test@yahoo.com,05/01/2023,80
+236.0,Mohamed,29,marseille,FRA,it,4000,test@yahoo.com,05/01/2023,80
+2492.0,Youssef,20,,France, it ,2200,invalid-email,not_a_date,20
+12.0,Lina,30,Lille,, IT ,1800,user@gmail.com,05/01/2023,80
+,Mohamed,, PARIS ,France,Marketing,2200,contact@outlook.com,2023/01/05,
+2495.0,Sara,26,Paris,,Marketing,2500,,,fifty
+2496.0,mohamed ,26,Lille,,Sales,,test@yahoo.com,2023-01-05,40
+2497.0,Karim,29,Marseille,FR,HR,3000€,invalid-email,05/01/2023,N/A
+, ali ,22,,,,999999,test@yahoo.com,Jan 5 2023,30
+368.0,Amina,25,,,Finance,2500,test@yahoo.com,05/01/2023,30
+2337.0,Mohamed,29,,FR,,999999,user@gmail.com,,50
+154.0,Mohamed,24,paris,,Sales,4000,contact@outlook.com,,10
+, Karim ,30,lyon,,,2500,invalid-email,05/01/2023,60
+,Karim,21,Lille,france,IT,4k,user@gmail.com,2023/01/05,70
+,Mohamed,,PARIS,France,Marketing,2200,contact@outlook.com,2023/01/05,
+192.0,Nadia,25, PARIS ,FR,Marketing,-100,contact@outlook.com,,100
+429.0,Amina,22,marseille,, SALES ,3000,,2023/01/05,100
+212.0,Mohamed,26,marseille,, Finance ,1800,user@gmail.com,not_a_date,
+,mohamed ,twenty,paris,FRA,  ,-100,contact@outlook.com,,60
+375.0,Nadia,26,,france,Sales,4000,,2023-01-05,40
+1004.0, Lina ,29,lyon,France,  ,2200,user@gmail.com,Jan 5 2023,50
+69.0,Nadia,26,LILLE,france,IT,4k,,,60
+301.0, Youssef ,??,paris,France, Marketing ,4k,invalid-email,2023/01/05,10
+,Ali,twenty,lyon,,it,2500,user@gmail.com,,100
+,Karim,23, Lille ,,Finance,-100,contact@outlook.com,2023/01/05,
+380.0,,26,Marseille,france,,-100,invalid-email,Jan 5 2023,fifty
+456.0,mohamed ,??,Lille,france,IT,??,user@gmail.com,,N/A
+1708.0,mohamed ,??,LILLE,,SALES,4k,,,
+1320.0,Amina,,Lille,France, SALES ,1800,,,30
+347.0,Lina,??, LILLE ,,IT,3500,user@gmail.com,2023/01/05,30
+,Lina,20,LILLE,FR,it,2000,user@gmail.com,,70
+366.0,,24, Paris ,,IT,-100,,,10
+1339.0,Omar,21,marseille,FR,Finance,3000€,test@yahoo.com,2023-01-05,90
+66.0,Fatima,26,PARIS,,Finance,2000,invalid-email,2023/01/05,60
+379.0,,, paris ,,HR,-100,contact@outlook.com,not_a_date,90
+466.0,Nadia,22,PARIS,france,,4k,,,40
+24.0,Sara,,PARIS,France,Finance,3000,invalid-email,,
+340.0,Omar,22,,,,??,contact@outlook.com,,100
+97.0,Youssef,, LILLE ,FRA, HR ,4000,test@yahoo.com,not_a_date,40
+281.0,,25,marseille,,SALES,-100,contact@outlook.com,not_a_date,40
+320.0, mohamed  ,,Lyon,france,,3500,user@gmail.com,Jan 5 2023,80
+2146.0,Ali,30,Lille,FRA,SALES,4000,user@gmail.com,2023-01-05,20
+1410.0,Ali,29,lyon,France,IT,-100,user@gmail.com,2023/01/05,fifty
+274.0,Mohamed,twenty, paris ,,SALES,2500,user@gmail.com,,100
+,,21,paris,, it ,2200,contact@outlook.com,,40
+,Amina,25,,FRA,SALES,2000,test@yahoo.com,,30
+,,20,marseille,France,IT,,,,90
+196.0, Lina ,??,marseille,FRA,,1800,user@gmail.com,05/01/2023,90
+, Amina ,,,france,,3500,invalid-email,2023/01/05,fifty
+,Fatima,20,lyon,,Sales,2500,,,fifty
+,,22,marseille,,,3000,contact@outlook.com,,
+1013.0,Youssef,twenty,Lyon,france,,2000,,not_a_date,60
+225.0,Sara,21, Lyon ,france,it,-100,invalid-email,,100
+,  ali  ,23,marseille,france, HR ,4000,contact@outlook.com,not_a_date,60
+,mohamed ,28,paris,France,it,1800,,,30
+, Amina ,21,marseille,,Finance,,contact@outlook.com,,
+,Omar,25,Lyon,FRA,,2200,user@gmail.com,,N/A
+,Ali,24, marseille ,, IT ,3500,invalid-email,,90
+,Youssef,29,Marseille,,Sales,4000,,05/01/2023,fifty
+789.0,Mohamed,20,Lyon,France,Finance,,invalid-email,2023-01-05,fifty
+404.0,Karim,,Paris,FR,Marketing,2500,test@yahoo.com,Jan 5 2023,10
+332.0,  ali  ,29,Marseille,FR, Sales ,-100,,Jan 5 2023,N/A
+226.0,Omar,20,  ,FRA,Marketing,999999,contact@outlook.com,05/01/2023,40
+286.0,Karim,30, Paris ,france,HR,3000,test@yahoo.com,2023-01-05,50
+,,25, PARIS ,france,Sales,2000,contact@outlook.com,,90
+4.0,Sara,26,lyon,,Marketing,3000€,contact@outlook.com,not_a_date,60
+98.0,Sara,, Lille ,,HR,2500,test@yahoo.com,,80
+195.0,Karim,30,Marseille,france,,1800,,05/01/2023,50
+1557.0, Nadia ,twenty,,FRA,SALES,-100,invalid-email,2023/01/05,40
+, Sara ,23,paris,France,Marketing,3500,user@gmail.com,05/01/2023,60
+,,22, marseille ,,,,,05/01/2023,fifty
+1082.0,Youssef,,Paris,FRA,it,3500,test@yahoo.com,2023/01/05,70
+,  ali  ,29,LILLE,france, Sales ,1800,test@yahoo.com,05/01/2023,
+1927.0, Mohamed ,21,Marseille,France,IT,2000,contact@outlook.com,2023-01-05,90
+1338.0,Lina,,Paris,,it,2500,invalid-email,not_a_date,fifty
+253.0,Youssef,twenty,lyon,, Finance ,-100,,2023/01/05,60
+,SARA,24,,FRA,Sales,3000€,contact@outlook.com,,100
+723.0, Lina ,26,,,HR,4k,,2023/01/05,30
+124.0,Fatima,27,Marseille,,Sales,-100,test@yahoo.com,2023/01/05,N/A
+,Nadia,28,,France,Sales,??,contact@outlook.com,2023/01/05,40
+340.0,Mohamed,29,  ,FR,Finance,3000€,,,80
+1281.0,Ali,29,marseille,FRA,IT,3000,test@yahoo.com,05/01/2023,
+,Karim,,Lille,,it,2500,,,90
+370.0,,28,Paris,,IT,3000,user@gmail.com,2023-01-05,10
+1768.0,Fatima,26,  ,FR,,-100,test@yahoo.com,2023/01/05,100
+2058.0,Fatima,25,paris,France,Marketing,1800,,2023/01/05,20
+303.0, Omar ,, lyon ,,Marketing,1800,,,N/A
+2299.0,Mohamed,27, lyon ,,  ,3000€,test@yahoo.com,Jan 5 2023,N/A
+,Karim,30,Lille,france,it,1800,,,60
+1646.0,mohamed ,30, marseille ,,,2500,contact@outlook.com,not_a_date,100
+, mohamed  ,22,Paris,,HR,,contact@outlook.com,Jan 5 2023,90
+,Amina,20,Lille,,Sales,2000,invalid-email,,30
+1877.0, Lina ,28,,france,it,3000€,,,N/A
+1485.0,Nadia,??,PARIS,,,3000,test@yahoo.com,05/01/2023,
+2172.0,mohamed ,25,Lille,FRA, Sales ,??,contact@outlook.com,2023/01/05,100
+1778.0,Nadia,28, Marseille ,france, HR ,3000,,,30
+1356.0,Fatima,25,marseille,FRA,  ,2500,invalid-email,05/01/2023,20
+641.0,Nadia,,LILLE,,Marketing,3000€,,2023/01/05,40
+365.0,mohamed ,27,Lille,FRA,HR,4k,,05/01/2023,60
+,Omar,21,marseille,FR,IT,2200,contact@outlook.com,Jan 5 2023,fifty
+133.0,Karim,20,Lille,france,  ,3500,,2023-01-05,80
+2204.0,,25,Lille,FRA,SALES,1800,contact@outlook.com,,fifty
+, Karim ,29,lyon,FRA,IT,2500,user@gmail.com,not_a_date,10
+,Mohamed,29,LILLE,FR,Sales,3000,invalid-email,Jan 5 2023,40
+639.0,Mohamed,27,Lyon,FR,,999999,,,60
+3.0,Lina,??,,FRA,it,,contact@outlook.com,2023/01/05,
+242.0,Fatima,29,Lille,FRA,  ,1800,user@gmail.com,2023-01-05,30
+297.0, ali ,29,marseille,,Marketing,-100,contact@outlook.com,,fifty
+1380.0,Nadia,20,Lyon,FR,Sales,1800,invalid-email,Jan 5 2023,10
+84.0, Ali ,26, Paris ,,HR,4k,user@gmail.com,,N/A
+282.0,Sara,,Lyon,, Sales ,2200,,Jan 5 2023,10
+316.0,Fatima,??,  ,, IT ,,invalid-email,2023/01/05,fifty
+,SARA,25, Marseille ,FRA,Finance,2200,contact@outlook.com,2023/01/05,40
+499.0,Sara,28,Lille,,,3000€,user@gmail.com,2023/01/05,80
+470.0,Youssef,23,paris,,Finance,999999,test@yahoo.com,,90
+55.0, ali ,25,  ,,it,2500,user@gmail.com,2023-01-05,N/A
+,,21,paris,FR,Sales,2500,user@gmail.com,not_a_date,fifty
+476.0,Amina,29, PARIS ,FRA,IT,,,not_a_date,60
+,mohamed ,,paris,,Finance,3500,invalid-email,2023/01/05,100
+420.0, Omar ,22,Marseille,,it,-100,,not_a_date,30
+,SARA,29,Marseille,FRA,HR,3000,,Jan 5 2023,70
+,Karim,,lyon,France, HR ,,user@gmail.com,2023-01-05,20
+378.0,Karim,20,Paris,FR,it,2200,,2023-01-05,30
+,Nadia,27, PARIS ,,SALES,4k,invalid-email,2023-01-05,90
+,Sara,24,paris,FRA,Sales,2200,,not_a_date,50
+445.0,,23,,france,Finance,3000,test@yahoo.com,2023/01/05,50
+,,28,paris,,,3000€,,,10
+84.0,Karim,28, paris ,,,2200,test@yahoo.com,Jan 5 2023,80
+,Lina,25,marseille,,SALES,3000,contact@outlook.com,05/01/2023,10
+1570.0,Youssef,24, marseille ,,,1800,contact@outlook.com,2023/01/05,30
+495.0,Youssef,,,FRA,Finance,3500,invalid-email,Jan 5 2023,fifty
+304.0,mohamed ,,lyon,france,Marketing,,contact@outlook.com,Jan 5 2023,30
+,Amina,twenty,Lyon,,it,??,,05/01/2023,60
+109.0,Karim,??,Lyon,FR,Finance,4k,test@yahoo.com,Jan 5 2023,30
+697.0, Fatima ,24,LILLE,FRA,Marketing,999999,contact@outlook.com,2023/01/05,30
+709.0, Mohamed ,30,lyon,,,2200,invalid-email,,100
+, Mohamed ,27,PARIS,,,3000€,contact@outlook.com,2023/01/05,fifty
+,mohamed ,26, Lyon ,FRA,it,2500,invalid-email,,
+427.0,Sara,23,lyon,france,SALES,2000,,,100
+1848.0,Sara,twenty,lyon,france,Finance,1800,,,90
+,Omar,30,  ,, HR ,,contact@outlook.com,2023-01-05,N/A
+,Sara,28,marseille,FR,it,1800,,2023/01/05,90
+18.0,Omar,23,,FR,SALES,,contact@outlook.com,,40
+446.0,Sara,29,lyon,FR,  ,3000€,invalid-email,2023-01-05,80
+447.0,Karim,25, Lyon ,France,,3000,contact@outlook.com,2023-01-05,60
+,Sara,25,Lyon,FRA, Sales ,3000,invalid-email,05/01/2023,30
+275.0,Omar,27,,FR,IT,4000,contact@outlook.com,,10
+408.0,Karim,27,,FRA,Marketing,4000,test@yahoo.com,,60
+445.0,Omar,??,paris,FRA,Sales,,contact@outlook.com,05/01/2023,50
+471.0, Lina ,30,Paris,France,,3000,test@yahoo.com,,fifty
+207.0,mohamed ,22,,france,SALES,3500,,Jan 5 2023,10
+1064.0,mohamed ,23,Lyon,,SALES,-100,contact@outlook.com,Jan 5 2023,100
+412.0,Karim,24,paris,france, it ,2500,,2023/01/05,70
+918.0, Youssef ,23,PARIS,FRA,it,999999,,2023/01/05,fifty
+,Fatima,twenty, Marseille ,FR,HR,2500,user@gmail.com,05/01/2023,50
+490.0,Lina,21, Marseille ,,  ,2000,contact@outlook.com,,80
+498.0,Sara,22,LILLE,FRA,it,2200,,not_a_date,30
+110.0, Karim ,22,  ,FRA,Marketing,3500,contact@outlook.com,not_a_date,40
+436.0,Mohamed,,Marseille,, it ,4000,test@yahoo.com,2023/01/05,20
+235.0,Lina,23,,,Marketing,3000,,,10
+342.0,Fatima,22,Paris,france,Finance,2000,,05/01/2023,30
+1342.0,Amina,25,,FRA, Finance ,4k,user@gmail.com,Jan 5 2023,10
+, ali ,23,lyon,France,Finance,2000,test@yahoo.com,,80
+220.0, Fatima ,21,Lille,, HR ,4000,user@gmail.com,2023/01/05,10
+,,,Paris,FR,IT,999999,,2023/01/05,N/A
+666.0,  ali  ,,marseille,FRA,,2000,test@yahoo.com,2023/01/05,50
+78.0,Omar,21,Lyon,france,Finance,3500,,,80
+123.0,Youssef,??,Lyon,,Sales,2500,user@gmail.com,2023-01-05,10
+, Nadia ,25,LILLE,france,Sales,3500,,not_a_date,70
+2171.0, ali ,25,Marseille,,HR,2000,invalid-email,,
+157.0,Amina,20, PARIS ,,it,1800,test@yahoo.com,,70
+1153.0,Fatima,23,PARIS,,Sales,2000,invalid-email,,10
+144.0,Amina,??,lyon,,it,4000,test@yahoo.com,Jan 5 2023,N/A
+,SARA,28,PARIS,FR,IT,,user@gmail.com,Jan 5 2023,70
+1395.0,mohamed ,27,,,Finance,2000,user@gmail.com,2023-01-05,30
+259.0,,20,lyon,,Marketing,4k,,,80
+,Nadia,21,LILLE,FR,,,test@yahoo.com,05/01/2023,30
+2460.0,Amina,, Lille ,france, Sales ,999999,user@gmail.com,Jan 5 2023,40
+1224.0,Ali,30,Marseille,france,Marketing,,contact@outlook.com,not_a_date,20
+,Amina,??, Lyon ,France,  ,4000,,05/01/2023,90
+,Karim,30,PARIS,FR,HR,??,,Jan 5 2023,
+,Amina,??,LILLE,france,,999999,,2023-01-05,20
+,,29,lyon,France, SALES ,2200,invalid-email,,10
+2281.0,Nadia,29,LILLE,,Sales,4000,invalid-email,not_a_date,90
+,Mohamed,20,Paris,FRA, Marketing ,4k,contact@outlook.com,,
+301.0,Lina,twenty, Marseille ,, Marketing ,2200,,05/01/2023,50
+425.0,Lina,,PARIS,FRA, IT ,??,,Jan 5 2023,10
+2412.0, ali ,29, paris ,france,Sales,2000,user@gmail.com,2023/01/05,fifty
+82.0,,26,lyon,france,Marketing,??,invalid-email,,20
+115.0,Omar,24,paris,FR,Finance,??,,Jan 5 2023,30
+705.0,Fatima,20,,FR,IT,,invalid-email,,80
+284.0,Omar,23,Paris,france,,3000,test@yahoo.com,,N/A
+1084.0,Mohamed,25,,,SALES,4000,test@yahoo.com,2023/01/05,20
+101.0,Karim,30,,france,  ,4k,,not_a_date,40
+379.0,Mohamed,21,,France,Marketing,2200,invalid-email,Jan 5 2023,30
+1415.0,Lina,22,,,,,test@yahoo.com,,40
+483.0,Ali,25, lyon ,FRA,,2500,contact@outlook.com,,70
+160.0,Sara,28,Marseille,france,,3000,invalid-email,Jan 5 2023,20
+,Sara,24,Marseille,,it,4k,test@yahoo.com,,80
+98.0,Youssef,28,Marseille,FRA,Sales,3000,test@yahoo.com,05/01/2023,50
+,,24,,France,HR,,,,80
+143.0,Ali,27,LILLE,FRA,Marketing,4000,test@yahoo.com,2023-01-05,N/A
+355.0,Amina,25,Lille,FR,,2200,contact@outlook.com,,50
+1330.0,SARA,, PARIS ,FR, Marketing ,,test@yahoo.com,2023-01-05,60
+813.0,mohamed ,twenty,,, HR ,4k,,,40
+1429.0, Sara ,29,Paris,france,SALES,-100,,not_a_date,10
+24.0,Amina,26,Lyon,,Sales,-100,,2023-01-05,100
+,Sara,30,,,SALES,3000,test@yahoo.com,05/01/2023,90
+444.0,Omar,27,Marseille,france,it,-100,invalid-email,not_a_date,10
+,Karim,24, Lille ,, HR ,1800,,not_a_date,fifty
